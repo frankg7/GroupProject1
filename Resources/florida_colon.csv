@@ -1,0 +1,98 @@
+Incidence Rate Report for Florida by County,,,,,,,,,,
+,,,,,,,,,,
+"Colon & Rectum, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of 39.9?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Florida(6,10)",12000,Yes,36.9,36.5,37.2,9790,falling,-2.7,-4.2,-1.2
+"US (SEER+NPCR)(1,10)",0,Yes,39.2,39.1,39.3,139950,falling,-1.7,-2.4,-1
+"Union County(6,10)",12125,No,125.7,101.6,154,21,stable,-13.3,-29.7,7
+"Hardee County(6,10)",12049,No,54.9,43.4,68.6,16,stable,-13.5,-35.9,16.8
+"Okeechobee County(6,10)",12093,No,50.4,41.7,60.5,24,falling,-12,-21.4,-1.4
+"Gulf County(6,10)",12045,No,45.8,33.3,61.9,9,stable,12.6,-2.9,30.5
+"Putnam County(6,10)",12107,No,44.8,39,51.3,47,stable,-0.8,-21.8,25.7
+"Taylor County(6,10)",12123,No,44.7,34.6,57.2,14,stable,-8.9,-40,38.4
+"Levy County(6,10)",12075,No,44,36.3,52.9,26,stable,-8.1,-19.5,4.9
+"Polk County(6,10)",12105,No,43.3,41.3,45.4,362,stable,0.1,-8.1,9.2
+"Duval County(6,10)",12031,No,43.2,41.3,45.2,401,stable,-2.9,-8.5,3.1
+"Lake County(6,10)",12069,No,41.8,39.2,44.6,213,falling,-6,-7.7,-4.2
+"Miami-Dade County(6,10)",12086,No,41.1,40.1,42.1,1280,stable,-4.2,-8.9,0.7
+"Dixie County(6,10)",12029,No,40.7,29.7,55.1,10,stable,3.8,-23.2,40.4
+"Citrus County(6,10)",12017,No,40.5,36.7,44.7,113,stable,0.3,-6.3,7.5
+"Hillsborough County(6,10)",12057,No,40.3,38.8,41.8,551,falling,-4.9,-7.2,-2.5
+"Jefferson County(6,10)",12065,No,40.1,28.2,56,8,stable,-9.3,-43.8,46.4
+"Pasco County(6,10)",12101,Yes,39.9,37.7,42.1,285,stable,-6,-15.4,4.5
+"Orange County(6,10)",12095,Yes,39.8,38.2,41.6,451,stable,-4.2,-11.5,3.6
+"Flagler County(6,10)",12035,Yes,39.8,35.4,44.7,69,stable,6.6,-5.1,19.7
+"Bay County(6,10)",12005,Yes,39.6,35.9,43.7,84,stable,4.1,-6.8,16.3
+"Alachua County(6,10)",12001,Yes,39.5,36,43.4,95,stable,-5.5,-10.9,0.1
+"Marion County(6,10)",12083,Yes,39.5,37,42.1,228,stable,0,-7.8,8.4
+"Baker County(6,10)",12003,Yes,39.3,29.5,51.3,11,stable,-9.4,-27.1,12.7
+"Clay County(6,10)",12019,Yes,38.9,35.2,43,83,stable,-6.1,-13.5,2
+"Osceola County(6,10)",12097,Yes,38.8,35.7,42.2,117,stable,2.7,-7.5,14
+"Suwannee County(6,10)",12121,Yes,38.8,32,46.8,24,stable,4.4,-9,19.8
+"Calhoun County(6,10)",12013,Yes,38.8,26.6,54.9,7,stable,12.2,-7.4,36
+"Hamilton County(6,10)",12047,Yes,38.7,26,55.7,6,stable,5.6,-22.2,43.1
+"Walton County(6,10)",12131,Yes,38.4,32.4,45.4,31,stable,9.6,-9.6,32.8
+"Broward County(6,10)",12011,Yes,38.3,37.1,39.5,848,falling,-3.6,-5.7,-1.4
+"Nassau County(6,10)",12089,Yes,37.8,32.6,43.8,40,stable,3.1,-8.2,15.7
+"Columbia County(6,10)",12023,Yes,37.8,32.1,44.4,32,stable,-6.2,-18.4,7.9
+"Volusia County(6,10)",12127,Yes,37.8,35.8,39.9,305,stable,-0.4,-2.8,2.1
+"Wakulla County(6,10)",12129,Yes,37.6,28.5,48.6,13,stable,-9,-36.3,30.1
+"Glades County(6,10)",12043,Yes,37.4,25.4,53.9,7,stable,-20.3,-43.9,13.3
+"Escambia County(6,10)",12033,Yes,37.3,34.5,40.3,134,stable,4.2,-3.2,12.1
+"Bradford County(6,10)",12007,Yes,37.1,28.6,47.6,13,stable,10,-2.3,23.7
+"Hernando County(6,10)",12053,Yes,36.6,33.4,40,113,stable,-3,-6.7,0.9
+"Pinellas County(6,10)",12103,Yes,36.5,35.1,38,548,stable,-1.4,-5.4,2.8
+"Brevard County(6,10)",12009,Yes,36.3,34.4,38.2,311,stable,-2.8,-11.6,6.9
+"Okaloosa County(6,10)",12091,Yes,36,32.4,39.8,79,stable,0.3,-12.8,15.3
+"St. Lucie County(6,10)",12111,Yes,35.6,33.1,38.4,154,stable,-3.9,-13.2,6.4
+"Hendry County(6,10)",12051,Yes,35.1,27.1,44.8,13,stable,0.5,-16.5,20.9
+"Seminole County(6,10)",12117,Yes,35.1,32.7,37.5,174,stable,-4,-12,4.7
+"Monroe County(6,10)",12087,Yes,34.9,30,40.4,40,stable,-4.5,-15.4,7.9
+"Highlands County(6,10)",12055,Yes,34.7,30.7,39.2,70,stable,-1.1,-12.7,12.1
+"Lafayette County(6,10)",12067,Yes,34.6,20.1,56.2,3,*,*,*,*
+"Indian River County(6,10)",12061,Yes,34.1,30.7,37.9,90,stable,-4.9,-13.6,4.7
+"Gadsden County(6,10)",12039,Yes,34,27.4,41.9,19,stable,-0.6,-18,20.3
+"Charlotte County(6,10)",12015,Yes,34,30.8,37.4,124,stable,4,-4.6,13.4
+"Jackson County(6,10)",12063,Yes,33.8,27.6,41,21,stable,-2.1,-29,35
+"St. Johns County(6,10)",12109,Yes,33,30,36.3,91,stable,1,-10.3,13.7
+"Santa Rosa County(6,10)",12113,Yes,33,29.2,37.1,59,stable,2.2,-11.1,17.6
+"Sarasota County(6,10)",12115,Yes,32.9,30.9,35,262,stable,-2.1,-9.7,6.1
+"Manatee County(6,10)",12081,Yes,32.8,30.7,35.2,188,falling,-4.5,-8.4,-0.4
+"Washington County(6,10)",12133,Yes,32.6,24.2,43.2,10,stable,2.7,-9.5,16.7
+"Martin County(6,10)",12085,Yes,32,28.9,35.4,91,stable,5.1,-5.8,17.3
+"Palm Beach County(6,10)",12099,Yes,31.6,30.5,32.8,681,falling,-4.4,-6.6,-2.1
+"Sumter County(6,10)",12119,Yes,31,26.6,36,79,stable,6.1,-7.4,21.5
+"Madison County(6,10)",12079,Yes,30.9,21.8,43,8,falling,-23.4,-31.7,-14
+"Leon County(6,10)",12073,Yes,30.5,27.5,33.8,77,stable,-4.4,-17.8,11.1
+"Lee County(6,10)",12071,Yes,30.5,29,32.2,327,stable,-3.2,-6.5,0.3
+"Franklin County(6,10)",12037,Yes,30.2,19.4,45.7,5,stable,2.4,-35.2,61.9
+"DeSoto County(6,10)",12027,Yes,29.6,22.9,37.7,14,stable,4.4,-12.4,24.5
+"Collier County(6,10)",12021,Yes,24.4,22.5,26.4,147,stable,-4.3,-10.9,2.7
+"Holmes County(6,10)",12059,Yes,23.9,15.9,34.8,6,stable,-1.7,-36.7,52.6
+"Gilchrist County(6,10)",12041,Yes,22.4,14.6,33.3,5,stable,16.8,-10.6,52.7
+"Liberty County(6,10)",12077,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:25 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
