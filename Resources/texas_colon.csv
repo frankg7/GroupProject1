@@ -1,0 +1,285 @@
+Incidence Rate Report for Texas by County,,,,,,,,,,
+,,,,,,,,,,
+"Colon & Rectum, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of 39.9?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Texas(6,10)",48000,Yes,38.1,37.8,38.4,9670,falling,-1.1,-1.7,-0.5
+"US (SEER+NPCR)(1,10)",0,Yes,39.2,39.1,39.3,139950,falling,-1.7,-2.4,-1
+"Hall County(6,10)",48191,No,67.4,37.4,115.3,3,*,*,*,*
+"Dallam County(6,10)",48111,No,65.3,37.2,105.2,3,*,*,*,*
+"Brooks County(6,10)",48047,No,64.3,43.4,92.7,6,stable,21.1,-26.8,100.5
+"Lavaca County(6,10)",48285,No,62.9,49.8,78.7,18,stable,4,-26.1,46.5
+"Wilbarger County(6,10)",48487,No,62.6,45.7,83.8,10,stable,6.6,-35.2,75.3
+"La Salle County(6,10)",48283,No,59.3,36.8,90.8,4,stable,9.2,-21.1,51.2
+"Moore County(6,10)",48341,No,56.8,42.5,74.2,11,stable,6.1,-25.3,50.6
+"Newton County(6,10)",48351,No,56.4,41.9,74.8,11,stable,0.5,-27.6,39.4
+"DeWitt County(6,10)",48123,No,55.9,44,70.3,16,stable,2.3,-16.9,25.9
+"Jasper County(6,10)",48241,No,54.6,45.2,65.5,25,stable,4.6,-3.3,13.3
+"Comanche County(6,10)",48093,No,54.4,41.1,71.4,12,stable,4.5,-16.6,31.1
+"Starr County(6,10)",48427,No,54.3,45.8,63.8,29,stable,18.3,-10.3,55.9
+"Lamar County(6,10)",48277,No,53.2,45.4,62.1,35,rising,12,2.1,22.8
+"Franklin County(6,10)",48159,No,52.7,37.2,73.2,8,stable,-20.3,-48.2,22.5
+"Eastland County(6,10)",48133,No,52.7,40.6,67.6,14,stable,3.3,-20.7,34.5
+"Dawson County(6,10)",48115,No,51.7,36.1,71.7,7,stable,-1.4,-35.1,49.7
+"Wheeler County(6,10)",48483,No,51.2,30.4,81.9,4,stable,9.1,-52.5,150.7
+"Henderson County(6,10)",48213,No,51.2,45.3,57.7,59,stable,2.7,-1.3,6.9
+"Victoria County(6,10)",48469,No,50.7,44.5,57.5,50,rising,3.4,0.8,6
+"Wharton County(6,10)",48481,No,50.5,41.9,60.4,25,stable,-4.1,-12.3,4.8
+"Andrews County(6,10)",48003,No,50,35,69.1,7,stable,12,-21.7,60.3
+"Young County(6,10)",48503,No,50,38.1,64.8,13,stable,6.5,-23.9,48.9
+"Karnes County(6,10)",48255,No,50,35.9,67.9,8,stable,-3.7,-21.3,17.7
+"Terry County(6,10)",48445,No,49.8,35,69,7,stable,-8.7,-28.6,16.9
+"Polk County(6,10)",48373,No,49.6,41.9,58.3,32,stable,2.2,-13.4,20.7
+"Chambers County(6,10)",48071,No,49.4,39.3,61.3,18,stable,7.1,-29.9,63.7
+"Gregg County(6,10)",48183,No,49,43.7,54.8,65,stable,-2.4,-11.8,8
+"Archer County(6,10)",48009,No,48.3,30.7,72.8,5,stable,-9.1,-44.3,48.3
+"Reeves County(6,10)",48389,No,47.7,33,66.8,7,stable,-5.2,-30.1,28.5
+"Zapata County(6,10)",48505,No,47.2,31.5,67.7,6,stable,-7.1,-28.7,20.9
+"Hale County(6,10)",48189,No,47.2,37.5,58.6,17,stable,-2.7,-14,10
+"Wise County(6,10)",48497,No,47.1,39.9,55.2,32,stable,0.7,-2.2,3.8
+"Refugio County(6,10)",48391,No,47.1,29.8,71.9,5,stable,2.7,-29.7,50
+"Fannin County(6,10)",48147,No,46.8,38,57.2,21,stable,-0.7,-19.8,23
+"Shelby County(6,10)",48419,No,46.6,36.4,59,15,stable,-9.1,-24.4,9.4
+"Grayson County(6,10)",48181,No,46.6,41.8,51.8,72,stable,4.9,-16.7,32.1
+"Nacogdoches County(6,10)",48347,No,46.5,39.2,54.9,30,stable,5.1,-16.9,32.9
+"Navarro County(6,10)",48349,No,46.1,38.7,54.7,28,stable,-12.5,-26.4,4.1
+"Jack County(6,10)",48237,No,46,29.7,68.7,5,stable,-1.5,-31.9,42.4
+"Orange County(6,10)",48361,No,46,40.1,52.5,45,stable,0.4,-14.8,18.2
+"Madison County(6,10)",48313,No,46,31.8,64.4,7,stable,-7.1,-35.6,34.1
+"Palo Pinto County(6,10)",48363,No,45.9,36.1,57.6,16,stable,-1.1,-8.2,6.6
+"Hamilton County(6,10)",48193,No,45.8,29.2,69.3,6,stable,38.6,-15.3,126.6
+"Hill County(6,10)",48217,No,45.7,37.2,55.8,21,stable,11.1,-5.9,31.2
+"Brown County(6,10)",48049,No,45.7,37.5,55.3,23,stable,3.4,-7.9,16.1
+"Trinity County(6,10)",48455,No,45.7,33.8,61.2,11,stable,-24.7,-48.2,9.5
+"Callahan County(6,10)",48059,No,45.6,32.6,62.7,9,stable,-17.5,-49.2,33.8
+"Crosby County(6,10)",48107,No,45.6,26.7,73.9,4,stable,11.5,-42.9,117.6
+"Hunt County(6,10)",48231,No,45.5,39.7,51.9,47,stable,-3.6,-21,17.6
+"Hopkins County(6,10)",48223,No,45.4,36.8,55.5,20,stable,-3.8,-29.1,30.6
+"Marion County(6,10)",48315,No,45.3,32,63.7,8,stable,-6.9,-25.2,15.8
+"Calhoun County(6,10)",48057,No,45.3,34,59.1,12,falling,-25.6,-34,-16.1
+"Floyd County(6,10)",48153,No,45.2,26.4,73.2,4,stable,1.6,-30.5,48.6
+"Lee County(6,10)",48287,No,45,33,60.3,10,stable,5,-7.5,19.3
+"Jackson County(6,10)",48239,No,44.8,31.8,61.6,8,stable,-11.4,-34.9,20.5
+"Jones County(6,10)",48253,No,44.7,33.2,59.1,10,falling,-17.5,-22.6,-12.1
+"Zavala County(6,10)",48507,No,44.3,29,64.8,5,stable,8.8,-25.8,59.7
+"Matagorda County(6,10)",48321,No,44.3,35.7,54.3,19,stable,-11.5,-30.1,12
+"Jim Wells County(6,10)",48249,No,44.2,35.8,54.1,20,stable,-12.4,-25.9,3.7
+"Scurry County(6,10)",48415,No,44,31.6,59.7,8,stable,5,-22,41.3
+"Montague County(6,10)",48337,No,43.9,33.3,57.1,12,stable,-19.4,-49.5,28.4
+"Bowie County(6,10)",48037,No,43.8,38.4,49.8,48,stable,-5.3,-25.9,21
+"Gray County(6,10)",48179,No,43.8,33.3,56.6,12,stable,-6.6,-17.8,6.2
+"Sabine County(6,10)",48403,No,43.7,31,61.6,9,stable,20.7,-2.8,50
+"Limestone County(6,10)",48293,No,43.7,33.7,55.9,14,stable,-7.5,-28.9,20.5
+"Milam County(6,10)",48331,No,43.6,33.8,55.6,14,stable,-2.6,-26.1,28.2
+"Angelina County(6,10)",48005,No,43.3,37.6,49.7,42,stable,1.8,-20.1,29.7
+"Burleson County(6,10)",48051,No,43.2,32.2,57.1,11,stable,2.4,-23.2,36.6
+"Nolan County(6,10)",48353,No,43.1,30.8,58.9,8,stable,-2.6,-22.4,22.2
+"Ellis County(6,10)",48139,No,42.9,38.2,48.1,64,stable,2.6,-9.4,16.3
+"Coryell County(6,10)",48099,No,42.8,35.5,51.2,25,stable,-7.7,-31,23.4
+"Wood County(6,10)",48499,No,42.8,35.7,51.1,30,falling,-9.6,-18.2,-0.1
+"Howard County(6,10)",48227,No,42.7,33.9,53.1,17,stable,7.2,-11,29.1
+"Castro County(6,10)",48069,No,42.5,25.4,67.2,4,stable,-12.7,-37.4,21.9
+"Brazoria County(6,10)",48039,No,42.5,39.3,46,134,stable,-2.4,-9.5,5.2
+"Smith County(6,10)",48423,No,42.4,38.7,46.2,105,stable,-1.8,-9,6
+"Hockley County(6,10)",48219,No,42.3,31.6,55.6,11,stable,5.8,-34,69.4
+"Panola County(6,10)",48365,No,42.3,32.3,54.6,13,stable,1.3,-22.8,33
+"Guadalupe County(6,10)",48187,No,42.3,37.7,47.4,62,stable,4.1,-3.8,12.6
+"Hardin County(6,10)",48199,No,42.3,35.3,50.4,26,stable,-9,-30.4,19
+"Willacy County(6,10)",48489,No,42.3,30.7,56.7,9,stable,16.2,-21.6,72.3
+"Titus County(6,10)",48449,No,42.2,32.8,53.5,14,stable,3.2,-13.6,23.4
+"Austin County(6,10)",48015,No,42.1,33.2,52.9,16,stable,-1.1,-20.2,22.6
+"Swisher County(6,10)",48437,No,42.1,25.1,66.6,4,stable,0.2,-61.9,163.9
+"Colorado County(6,10)",48089,No,41.9,31.8,54.6,13,stable,-13.9,-38,19.5
+"Camp County(6,10)",48063,No,41.9,28.3,60.1,6,stable,-6.7,-40.1,45.4
+"Taylor County(6,10)",48441,No,41.7,37,46.9,59,stable,-4.5,-17.1,10
+"Red River County(6,10)",48387,No,41.7,29.2,58.5,8,stable,-20.5,-41.1,7.3
+"Ector County(6,10)",48135,No,41.6,36.7,47,53,stable,-1.3,-11.1,9.6
+"Morris County(6,10)",48343,No,41.6,28.7,58.8,7,stable,21.4,-10.3,64.3
+"Rains County(6,10)",48379,No,41.5,27.6,60.8,7,stable,-7.4,-17,3.3
+"Val Verde County(6,10)",48465,No,41.5,33.8,50.5,20,stable,-8,-22.6,9.4
+"Liberty County(6,10)",48291,No,41.5,35.3,48.4,34,stable,6.2,-4.9,18.5
+"Kaufman County(6,10)",48257,No,41.5,36.1,47.4,45,stable,4,-1.4,9.7
+"San Patricio County(6,10)",48409,No,41.3,34.8,48.6,30,stable,-0.1,-11.4,12.6
+"Potter County(6,10)",48375,No,41.1,36,46.8,48,stable,2.1,-7.2,12.4
+"Fayette County(6,10)",48149,No,41,32.3,51.9,17,stable,0.1,-25.6,34.5
+"Upshur County(6,10)",48459,No,41,33.2,50.2,20,stable,1.3,-12.1,16.8
+"Stephens County(6,10)",48429,No,41,26.8,60.9,5,stable,-16.7,-41.4,18.5
+"Rusk County(6,10)",48401,No,40.8,34,48.7,26,stable,5.5,-0.3,11.7
+"Wichita County(6,10)",48485,No,40.8,36.1,45.9,57,stable,0,-14.2,16.5
+"Jefferson County(6,10)",48245,No,40.7,37.4,44.3,111,stable,-3.3,-10.3,4.2
+"Anderson County(6,10)",48001,No,40.5,33.8,48.2,26,stable,0.4,-16.6,20.9
+"Cooke County(6,10)",48097,No,40,32.5,48.9,20,stable,-10.2,-23,4.8
+"Walker County(6,10)",48471,Yes,39.8,33.2,47.3,27,stable,-3.8,-18,12.9
+"Bosque County(6,10)",48035,Yes,39.7,29.4,53.1,11,stable,17.4,-9.2,52
+"Dimmit County(6,10)",48127,Yes,39.6,24.8,60.2,5,stable,27.8,-22.2,109.9
+"Atascosa County(6,10)",48013,Yes,39.6,32.2,48.2,21,stable,-14.6,-28.3,1.8
+"Kleberg County(6,10)",48273,Yes,39.5,30,51,12,stable,-12.2,-24.2,1.7
+"Cameron County(6,10)",48061,Yes,39.5,36.8,42.4,158,stable,3.8,-7,15.8
+"Ward County(6,10)",48475,Yes,39.2,24.9,58.7,5,stable,15.9,-5.2,41.8
+"Hood County(6,10)",48221,Yes,39.1,32.9,46.3,32,stable,-6.7,-20.9,10.1
+"Van Zandt County(6,10)",48467,Yes,39,32.8,46.1,29,stable,-3.6,-30.7,34.3
+"Lamb County(6,10)",48279,Yes,39,26.7,55.2,7,stable,3.6,-18.6,31.8
+"Johnson County(6,10)",48251,Yes,39,34.7,43.6,64,stable,-3.2,-10.9,5.2
+"Clay County(6,10)",48077,Yes,38.9,25.1,58.1,6,stable,-1.9,-16.8,15.6
+"Harris County(6,10)",48201,Yes,38.8,37.8,39.7,1425,stable,-2.6,-5.3,0.2
+"Bell County(6,10)",48027,Yes,38.8,35.4,42.3,104,stable,-1.1,-12.9,12.3
+"Erath County(6,10)",48143,Yes,38.6,30.3,48.6,15,stable,4.5,-4.2,14.1
+"Lubbock County(6,10)",48303,Yes,38.6,35.3,42.1,106,stable,2.5,-8.1,14.3
+"Nueces County(6,10)",48355,Yes,38.5,35.7,41.5,144,stable,1.3,-4.8,7.8
+"Houston County(6,10)",48225,Yes,38.5,29.5,49.7,13,stable,12.1,-23.8,65
+"Bee County(6,10)",48025,Yes,38.4,29,49.9,11,stable,-14.2,-29.3,4.1
+"McCulloch County(6,10)",48307,Yes,38.4,24.8,58.2,5,stable,44.6,-19.3,158.9
+"Dallas County(6,10)",48113,Yes,38.3,37.1,39.5,833,stable,-0.5,-7.1,6.6
+"Maverick County(6,10)",48323,Yes,38.1,30.8,46.7,19,stable,5.2,-16.6,32.7
+"Brazos County(6,10)",48041,Yes,38.1,33.6,43,54,falling,-13,-19.5,-5.9
+"Tyler County(6,10)",48457,Yes,38,28.5,50.1,12,stable,-10.7,-27.9,10.7
+"Coleman County(6,10)",48083,Yes,38,23.4,59.2,5,stable,-3.3,-42.9,63.7
+"Grimes County(6,10)",48185,Yes,37.9,28.9,49,13,stable,-1.5,-36.5,52.7
+"El Paso County(6,10)",48141,Yes,37.8,35.9,39.8,289,stable,0.6,-5.6,7.1
+"Live Oak County(6,10)",48297,Yes,37.8,25.8,54.1,7,stable,-0.5,-25.4,32.8
+"Parker County(6,10)",48367,Yes,37.7,33.2,42.7,53,stable,-3.6,-22.7,20.2
+"Bexar County(6,10)",48029,Yes,37.7,36.4,39,644,stable,0.9,-4.6,6.8
+"Ochiltree County(6,10)",48357,Yes,37.6,22.1,59.6,4,stable,-20.9,-50.5,26.4
+"Parmer County(6,10)",48369,Yes,37.5,22.8,58.3,4,stable,17.6,-35.2,113.4
+"Harrison County(6,10)",48203,Yes,37.4,31.5,44.2,29,stable,5.5,-16.8,33.7
+"Freestone County(6,10)",48161,Yes,37.4,27.4,50,10,stable,-1.3,-25.9,31.5
+"Gonzales County(6,10)",48177,Yes,37.2,27,50,9,stable,16.8,-0.8,37.5
+"Aransas County(6,10)",48007,Yes,37.1,28.3,48.1,15,stable,-0.8,-24.7,30.7
+"Tarrant County(6,10)",48439,Yes,37,35.7,38.3,635,stable,-2.3,-8.9,4.7
+"Webb County(6,10)",48479,Yes,36.9,33.1,41,72,stable,-0.7,-9.1,8.5
+"McLennan County(6,10)",48309,Yes,36.9,33.5,40.5,92,stable,0.6,-10.5,13
+"Cass County(6,10)",48067,Yes,36.8,28.5,46.8,15,stable,-10.9,-56.2,81.3
+"Tom Green County(6,10)",48451,Yes,36.7,32.1,41.9,47,stable,1.6,-9.3,13.9
+"Montgomery County(6,10)",48339,Yes,36.6,34.1,39.1,180,stable,-2.2,-9.9,6.1
+"Runnels County(6,10)",48399,Yes,36.6,24.4,53.8,6,stable,7,-64.2,219.2
+"Frio County(6,10)",48163,Yes,36.5,24.7,51.9,6,stable,2,-38.5,69.1
+"Falls County(6,10)",48145,Yes,36.4,25.9,50,8,stable,-21.8,-40.2,2.2
+"Hutchinson County(6,10)",48233,Yes,36.2,26.4,48.6,9,stable,8.2,-16.9,41
+"Burnet County(6,10)",48053,Yes,36.2,30,43.5,25,stable,-4,-16.4,10.3
+"Midland County(6,10)",48329,Yes,36,31.5,40.8,50,stable,-1.1,-21.5,24.5
+"Kerr County(6,10)",48265,Yes,35.9,29.9,43,31,stable,6.2,-28.9,58.5
+"Cherokee County(6,10)",48073,Yes,35.8,29.4,43.4,22,stable,14.4,-6.4,39.7
+"Duval County(6,10)",48131,Yes,35.7,23.3,52.8,5,stable,0.1,-29.6,42.5
+"Washington County(6,10)",48477,Yes,35.6,28.1,44.7,17,stable,13.1,-9.8,41.8
+"Deaf Smith County(6,10)",48117,Yes,35.6,24.4,50,7,stable,16.5,-2.1,38.6
+"Medina County(6,10)",48325,Yes,35.4,28.5,43.4,19,stable,-2.2,-18.6,17.4
+"Galveston County(6,10)",48167,Yes,35.4,32.5,38.4,118,stable,-5.6,-11.4,0.5
+"San Jacinto County(6,10)",48407,Yes,35.3,27.3,45.3,14,stable,-4,-26.6,25.5
+"Caldwell County(6,10)",48055,Yes,35.3,27.5,44.6,14,stable,-13.6,-27.9,3.5
+"Pecos County(6,10)",48371,Yes,34.9,23.1,50.5,6,stable,-15.4,-43.9,27.7
+"Bastrop County(6,10)",48021,Yes,34.8,29.2,41.2,29,stable,11.8,-13,43.5
+"Uvalde County(6,10)",48463,Yes,34.6,26,45.3,11,stable,2.6,-21.8,34.7
+"Lampasas County(6,10)",48281,Yes,34.4,24.9,46.5,9,stable,27.4,-18.2,98.4
+"Comal County(6,10)",48091,Yes,34.3,30.1,38.9,51,stable,-2.1,-10.9,7.6
+"Hays County(6,10)",48209,Yes,34.1,29.9,38.8,50,stable,2.9,-19.6,31.7
+"Randall County(6,10)",48381,Yes,34.1,29.7,38.9,45,stable,-3,-10.4,5.1
+"Robertson County(6,10)",48395,Yes,34,23.7,47.5,8,stable,4.9,-24.1,45
+"Fort Bend County(6,10)",48157,Yes,34,31.7,36.3,197,stable,-4.3,-11.9,3.9
+"Wilson County(6,10)",48493,Yes,33.2,26.6,41.1,18,stable,4.6,-22.4,40.9
+"Goliad County(6,10)",48175,Yes,33.2,20,53.7,4,stable,28.5,-14.4,92.9
+"Denton County(6,10)",48121,Yes,32.7,30.5,35,189,stable,-3.8,-10.7,3.6
+"Llano County(6,10)",48299,Yes,32.6,23,45.5,11,stable,3.8,-25.3,44.3
+"Travis County(6,10)",48453,Yes,32.5,30.7,34.3,291,stable,4.1,-7.3,17
+"Somervell County(6,10)",48425,Yes,32.5,18.5,53.4,3,*,*,*,*
+"Collin County(6,10)",48085,Yes,32.5,30.6,34.4,246,stable,0.4,-4.4,5.4
+"Leon County(6,10)",48289,Yes,32.2,22.6,45,8,stable,10.2,-20.5,52.7
+"Williamson County(6,10)",48491,Yes,31.2,28.8,33.7,133,stable,-3.5,-11,4.6
+"Hidalgo County(6,10)",48215,Yes,31.1,29.2,33,209,stable,-4.8,-10,0.7
+"Waller County(6,10)",48473,Yes,30.2,23.1,38.9,13,stable,-9.9,-30.6,16.9
+"Brewster County(6,10)",48043,Yes,30.2,17.9,48.5,4,stable,-17.9,-48.6,31.2
+"San Augustine County(6,10)",48405,Yes,29.8,18.6,47.1,5,stable,-11.6,-47.5,48.7
+"Rockwall County(6,10)",48397,Yes,29.8,24.6,35.8,24,stable,-6.9,-25.7,16.6
+"Bandera County(6,10)",48019,Yes,29.6,21.7,40.2,10,stable,-6.8,-21.2,10.3
+"Kendall County(6,10)",48259,Yes,28.3,22,35.9,15,stable,6.7,-17.6,38.2
+"Gillespie County(6,10)",48171,Yes,27.1,20.2,36,13,stable,-6.6,-34,32
+"Blanco County(6,10)",48031,Yes,23.6,13.8,38.8,4,stable,-20.1,-50.5,29.1
+"Armstrong County(6,10)",48011,***,* ,*, *,3 or fewer,*,*,*,*
+"Bailey County(6,10)",48017,***,* ,*, *,3 or fewer,*,*,*,*
+"Baylor County(6,10)",48023,***,* ,*, *,3 or fewer,*,*,*,*
+"Borden County(6,10)",48033,***,* ,*, *,3 or fewer,*,*,*,*
+"Briscoe County(6,10)",48045,***,* ,*, *,3 or fewer,*,*,*,*
+"Carson County(6,10)",48065,***,* ,*, *,3 or fewer,*,*,*,*
+"Childress County(6,10)",48075,***,* ,*, *,3 or fewer,*,*,*,*
+"Cochran County(6,10)",48079,***,* ,*, *,3 or fewer,*,*,*,*
+"Coke County(6,10)",48081,***,* ,*, *,3 or fewer,*,*,*,*
+"Collingsworth County(6,10)",48087,***,* ,*, *,3 or fewer,*,*,*,*
+"Concho County(6,10)",48095,***,* ,*, *,3 or fewer,*,*,*,*
+"Cottle County(6,10)",48101,***,* ,*, *,3 or fewer,*,*,*,*
+"Crane County(6,10)",48103,***,* ,*, *,3 or fewer,*,*,*,*
+"Crockett County(6,10)",48105,***,* ,*, *,3 or fewer,*,*,*,*
+"Culberson County(6,10)",48109,***,* ,*, *,3 or fewer,*,*,*,*
+"Delta County(6,10)",48119,***,* ,*, *,3 or fewer,*,*,*,*
+"Dickens County(6,10)",48125,***,* ,*, *,3 or fewer,*,*,*,*
+"Donley County(6,10)",48129,***,* ,*, *,3 or fewer,*,*,*,*
+"Edwards County(6,10)",48137,***,* ,*, *,3 or fewer,*,*,*,*
+"Fisher County(6,10)",48151,***,* ,*, *,3 or fewer,*,*,*,*
+"Foard County(6,10)",48155,***,* ,*, *,3 or fewer,*,*,*,*
+"Gaines County(6,10)",48165,***,* ,*, *,3 or fewer,*,*,*,*
+"Garza County(6,10)",48169,***,* ,*, *,3 or fewer,*,*,*,*
+"Glasscock County(6,10)",48173,***,* ,*, *,3 or fewer,*,*,*,*
+"Hansford County(6,10)",48195,***,* ,*, *,3 or fewer,*,*,*,*
+"Hardeman County(6,10)",48197,***,* ,*, *,3 or fewer,*,*,*,*
+"Hartley County(6,10)",48205,***,* ,*, *,3 or fewer,*,*,*,*
+"Haskell County(6,10)",48207,***,* ,*, *,3 or fewer,*,*,*,*
+"Hemphill County(6,10)",48211,***,* ,*, *,3 or fewer,*,*,*,*
+"Hudspeth County(6,10)",48229,***,* ,*, *,3 or fewer,*,*,*,*
+"Irion County(6,10)",48235,***,* ,*, *,3 or fewer,*,*,*,*
+"Jeff Davis County(6,10)",48243,***,* ,*, *,3 or fewer,*,*,*,*
+"Jim Hogg County(6,10)",48247,***,* ,*, *,3 or fewer,*,*,*,*
+"Kenedy County(6,10)",48261,***,* ,*, *,3 or fewer,*,*,*,*
+"Kent County(6,10)",48263,***,* ,*, *,3 or fewer,*,*,*,*
+"Kimble County(6,10)",48267,***,* ,*, *,3 or fewer,*,*,*,*
+"King County(6,10)",48269,***,* ,*, *,3 or fewer,*,*,*,*
+"Kinney County(6,10)",48271,***,* ,*, *,3 or fewer,*,*,*,*
+"Knox County(6,10)",48275,***,* ,*, *,3 or fewer,*,*,*,*
+"Lipscomb County(6,10)",48295,***,* ,*, *,3 or fewer,*,*,*,*
+"Loving County(6,10)",48301,***,* ,*, *,3 or fewer,*,*,*,*
+"Lynn County(6,10)",48305,***,* ,*, *,3 or fewer,*,*,*,*
+"Martin County(6,10)",48317,***,* ,*, *,3 or fewer,*,*,*,*
+"Mason County(6,10)",48319,***,* ,*, *,3 or fewer,*,*,*,*
+"McMullen County(6,10)",48311,***,* ,*, *,3 or fewer,*,*,*,*
+"Menard County(6,10)",48327,***,* ,*, *,3 or fewer,*,*,*,*
+"Mills County(6,10)",48333,***,* ,*, *,3 or fewer,*,*,*,*
+"Mitchell County(6,10)",48335,***,* ,*, *,3 or fewer,*,*,*,*
+"Motley County(6,10)",48345,***,* ,*, *,3 or fewer,*,*,*,*
+"Oldham County(6,10)",48359,***,* ,*, *,3 or fewer,*,*,*,*
+"Presidio County(6,10)",48377,***,* ,*, *,3 or fewer,*,*,*,*
+"Reagan County(6,10)",48383,***,* ,*, *,3 or fewer,*,*,*,*
+"Real County(6,10)",48385,***,* ,*, *,3 or fewer,*,*,*,*
+"Roberts County(6,10)",48393,***,* ,*, *,3 or fewer,*,*,*,*
+"San Saba County(6,10)",48411,***,* ,*, *,3 or fewer,*,*,*,*
+"Schleicher County(6,10)",48413,***,* ,*, *,3 or fewer,*,*,*,*
+"Shackelford County(6,10)",48417,***,* ,*, *,3 or fewer,*,*,*,*
+"Sherman County(6,10)",48421,***,* ,*, *,3 or fewer,*,*,*,*
+"Sterling County(6,10)",48431,***,* ,*, *,3 or fewer,*,*,*,*
+"Stonewall County(6,10)",48433,***,* ,*, *,3 or fewer,*,*,*,*
+"Sutton County(6,10)",48435,***,* ,*, *,3 or fewer,*,*,*,*
+"Terrell County(6,10)",48443,***,* ,*, *,3 or fewer,*,*,*,*
+"Throckmorton County(6,10)",48447,***,* ,*, *,3 or fewer,*,*,*,*
+"Upton County(6,10)",48461,***,* ,*, *,3 or fewer,*,*,*,*
+"Winkler County(6,10)",48495,***,* ,*, *,3 or fewer,*,*,*,*
+"Yoakum County(6,10)",48501,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:51 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
