@@ -1,0 +1,46 @@
+Incidence Rate Report for Massachusetts by County,,,,,,,,,,
+,,,,,,,,,,
+"Lung & Bronchus, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Massachusetts(6,10)",25000,***,63.8,63,64.6,5047,falling,-1.8,-2.4,-1.2
+"US (SEER+NPCR)(1,10)",0,***,60.2,60.1,60.3,217545,falling,-2.1,-2.6,-1.7
+"Plymouth County(6,10)",25023,***,69.9,67,72.9,445,falling,-3.5,-5.8,-1.2
+"Bristol County(6,10)",25005,***,69.5,66.7,72.4,473,falling,-3.7,-6.6,-0.6
+"Worcester County(6,10)",25027,***,68,65.6,70.5,625,stable,0,-2.3,2.4
+"Suffolk County(6,10)",25025,***,66.9,64.1,69.8,451,stable,-2.4,-9.3,5
+"Essex County(6,10)",25009,***,65.5,63.1,67.9,607,stable,-2.9,-7.2,1.7
+"Berkshire County(6,10)",25003,***,64.8,59.8,70.2,129,stable,-5.2,-13.2,3.5
+"Hampden County(6,10)",25013,***,64.8,61.7,67.9,360,stable,-1.3,-3.5,0.9
+"Norfolk County(6,10)",25021,***,61.7,59.3,64.2,522,stable,1.3,-0.1,2.8
+"Nantucket County(6,10)",25019,***,61.6,42.8,86.2,7,stable,5.9,-35.3,73.5
+"Barnstable County(6,10)",25001,***,59.5,56.2,63,254,stable,-2,-7.6,3.9
+"Middlesex County(6,10)",25017,***,58.3,56.7,60,1009,falling,-2.2,-4.1,-0.3
+"Franklin County(6,10)",25011,***,57.9,51.2,65.4,58,stable,-2.3,-9,4.9
+"Dukes County(6,10)",25007,***,56.6,43.9,72.4,15,stable,-4.8,-34.6,38.7
+"Hampshire County(6,10)",25015,***,51.6,46.8,56.7,92,stable,4.6,-7.1,17.8
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:58 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
