@@ -1,0 +1,56 @@
+Incidence Rate Report for Wyoming by County,,,,,,,,,,
+,,,,,,,,,,
+"Lung & Bronchus, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Wyoming(6,10)",56000,***,44.5,42.2,46.9,288,stable,-2.9,-10.5,5.3
+"US (SEER+NPCR)(1,10)",0,***,60.2,60.1,60.3,217545,falling,-2.1,-2.6,-1.7
+"Campbell County(6,10)",56005,***,58.1,45.6,72.6,19,stable,6.4,-14.6,32.6
+"Hot Springs County(6,10)",56017,***,57.4,37,88.7,5,stable,4.6,-30.6,57.6
+"Converse County(6,10)",56009,***,56.3,41,75.7,9,stable,-16.5,-38.1,12.5
+"Carbon County(6,10)",56007,***,55.1,40.4,73.6,10,stable,-5.1,-16.9,8.4
+"Natrona County(6,10)",56025,***,54.1,47.2,61.8,46,stable,-3.5,-14.7,9.3
+"Sweetwater County(6,10)",56037,***,50,39.7,62,18,stable,4.8,-13.6,27.2
+"Crook County(6,10)",56011,***,47.4,30,72.4,5,stable,0.6,-34.6,54.8
+"Laramie County(6,10)",56021,***,47.3,41.5,53.7,50,stable,-0.6,-16,17.6
+"Goshen County(6,10)",56015,***,47,34.7,63.1,10,stable,-13.2,-38.3,22.2
+"Sheridan County(6,10)",56033,***,45.1,36.2,55.8,19,falling,-13.5,-25.1,-0.1
+"Washakie County(6,10)",56043,***,44.3,29.3,65.5,6,stable,-15.9,-44.3,26.9
+"Johnson County(6,10)",56019,***,43.7,29.3,64.1,6,stable,16.8,-18.2,67
+"Fremont County(6,10)",56013,***,42.7,34.9,51.9,22,stable,-4.2,-28.5,28.5
+"Big Horn County(6,10)",56003,***,40,27.7,56.8,7,stable,27.3,-4.7,70.1
+"Platte County(6,10)",56031,***,39.5,26.3,58.6,6,stable,-20,-45.3,17
+"Albany County(6,10)",56001,***,37.2,27.7,49,11,stable,4.8,-30.9,58.8
+"Park County(6,10)",56029,***,33.9,26.5,43.1,15,stable,-3.1,-14,9.1
+"Uinta County(6,10)",56041,***,32.6,21.6,47,6,stable,0.7,-45.9,87.4
+"Lincoln County(6,10)",56023,***,31.1,21.6,43.7,7,stable,-12.4,-44.8,39.1
+"Weston County(6,10)",56045,***,30.2,17.1,50.9,3,*,*,*,*
+"Teton County(6,10)",56039,***,22.3,14,33.7,5,stable,4.8,-24.4,45.2
+"Niobrara County(6,10)",56027,***,* ,*, *,3 or fewer,*,*,*,*
+"Sublette County(6,10)",56035,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 11:05 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
