@@ -1,0 +1,78 @@
+Incidence Rate Report for South Carolina by County,,,,,,,,,,
+,,,,,,,,,,
+"Breast, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Female, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"South Carolina(6,10)",45000,***,128.3,126.4,130.1,3845,stable,0.4,-0.8,1.5
+"US (SEER+NPCR)(1,10)",0,***,124.7,124.4,124.9,234445,stable,0.2,-0.2,0.6
+"McCormick County(6,10)",45065,***,167.4,122.3,226.6,13,stable,-8.5,-33.3,25.5
+"Fairfield County(6,10)",45039,***,146.5,119.6,178.1,23,stable,8.7,-19,45.7
+"Richland County(6,10)",45079,***,141.8,134.5,149.3,297,stable,1.2,-1,3.4
+"Dorchester County(6,10)",45035,***,140.4,128.7,153,111,stable,-3.9,-10.4,3.1
+"Lee County(6,10)",45061,***,137,107.1,173.1,16,stable,3.8,-28,49.8
+"Chester County(6,10)",45023,***,135.3,113.4,160.5,29,stable,3.1,-14.8,24.9
+"Kershaw County(6,10)",45055,***,135.2,119.1,153,55,stable,-2,-12.4,9.6
+"Beaufort County(6,10)",45013,***,134.7,124.9,145,173,stable,-0.5,-6.5,5.9
+"Greenville County(6,10)",45045,***,133.9,127.9,140.2,381,stable,1.8,-1.8,5.6
+"Lexington County(6,10)",45063,***,133.5,125.5,141.8,220,stable,0.1,-5.3,5.7
+"Lancaster County(6,10)",45057,***,133.4,119.3,148.7,72,stable,3.9,-8.5,17.9
+"Spartanburg County(6,10)",45083,***,133.3,125.7,141.3,238,stable,1,-7.7,10.5
+"Charleston County(6,10)",45019,***,132.8,125.9,140,297,stable,0.9,-5.4,7.5
+"Sumter County(6,10)",45085,***,132.2,119.6,145.7,85,stable,2.6,-2.6,8.2
+"Georgetown County(6,10)",45043,***,129.1,113.6,146.3,61,stable,-2.9,-14.3,9.9
+"Berkeley County(6,10)",45015,***,128.9,119.1,139.4,135,stable,-3.6,-11.1,4.4
+"Florence County(6,10)",45041,***,128.5,118,139.8,115,falling,-4.3,-6.3,-2.2
+"Union County(6,10)",45087,***,128.3,106.3,154,26,stable,13.4,-6.7,37.8
+"Pickens County(6,10)",45077,***,127.2,115.4,140,90,stable,1.3,-4.9,7.8
+"York County(6,10)",45091,***,127,118.7,135.8,179,falling,-3.8,-7.4,-0.1
+"Darlington County(6,10)",45031,***,125.7,111,142,56,stable,2.9,-3.8,10.2
+"Bamberg County(6,10)",45009,***,125.4,94.5,163.7,13,stable,5.2,-18.7,36.1
+"Newberry County(6,10)",45071,***,125.3,106.4,147,34,stable,5.1,-24.7,46.8
+"Anderson County(6,10)",45007,***,123.4,114.6,132.7,156,stable,-2.2,-10.6,7
+"Oconee County(6,10)",45073,***,122.1,108.7,136.8,68,stable,1.4,-10,14.2
+"Colleton County(6,10)",45029,***,121.8,103,143.1,32,stable,10.7,-7.8,32.9
+"Aiken County(6,10)",45003,***,121.7,112.3,131.9,133,stable,2.3,-8.5,14.4
+"Abbeville County(6,10)",45001,***,121.1,97.8,148.7,21,stable,-0.7,-25.2,32
+"Calhoun County(6,10)",45017,***,119,89.9,155.3,13,stable,2,-39.8,72.6
+"Williamsburg County(6,10)",45089,***,118.4,98.8,141.2,28,stable,-3.4,-25.8,25.6
+"Cherokee County(6,10)",45021,***,118.4,102.4,136.3,41,stable,3.9,-11.8,22.3
+"Orangeburg County(6,10)",45075,***,118.3,106,131.6,74,stable,2.2,-5.2,10.1
+"Horry County(6,10)",45051,***,118.2,111.3,125.5,246,stable,0.2,-6.4,7.3
+"Clarendon County(6,10)",45027,***,117.3,97.5,140.2,29,stable,3,-10,17.9
+"Laurens County(6,10)",45059,***,116.6,102.1,132.7,50,stable,0.6,-9.1,11.2
+"Chesterfield County(6,10)",45025,***,112.3,95.5,131.4,33,falling,-2.7,-5.2,-0.1
+"Marlboro County(6,10)",45069,***,110.9,89.5,136.3,20,stable,0.7,-23.2,32.2
+"Greenwood County(6,10)",45047,***,110.8,97.4,125.7,52,stable,-2.8,-6.4,1
+"Barnwell County(6,10)",45011,***,110.1,85.7,139.4,15,stable,26.7,-21.4,104.3
+"Dillon County(6,10)",45033,***,106.5,86.4,129.9,21,stable,-6.1,-13.8,2.4
+"Marion County(6,10)",45067,***,105.6,86.2,128.3,23,stable,9.5,-14.2,39.9
+"Saluda County(6,10)",45081,***,104.1,80,133.7,14,stable,-1.3,-31.2,41.8
+"Hampton County(6,10)",45049,***,103,79.2,132.3,14,stable,15.2,-11.1,49.3
+"Jasper County(6,10)",45053,***,99.5,78.3,125,16,stable,1.4,-11.5,16.3
+"Edgefield County(6,10)",45037,***,94,73.8,118.7,16,stable,-7.9,-28.4,18.4
+"Allendale County(6,10)",45005,***,83.8,55.8,123.2,6,stable,-7.7,-21.5,8.5
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:44 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

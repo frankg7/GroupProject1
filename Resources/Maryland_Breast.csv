@@ -1,0 +1,56 @@
+Incidence Rate Report for Maryland by County,,,,,,,,,,
+,,,,,,,,,,
+"Breast, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Female, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Maryland(6,10)",24000,***,131.7,130,133.4,4724,stable,0.3,-1.6,2.4
+"US (SEER+NPCR)(1,10)",0,***,124.7,124.4,124.9,234445,stable,0.2,-0.2,0.6
+"Kent County(6,10)",24029,***,151.5,123,185.3,24,stable,7.3,-0.7,16.1
+"Calvert County(6,10)",24009,***,146.9,132.4,162.7,80,stable,-2.9,-13.1,8.4
+"Wicomico County(6,10)",24045,***,138.4,124.9,153.1,82,stable,-1.3,-13.7,12.9
+"Harford County(6,10)",24025,***,137,128.8,145.7,216,stable,2.6,-2,7.5
+"Worcester County(6,10)",24047,***,137,119.5,156.6,54,stable,-1.9,-10.9,8.1
+"Baltimore County(6,10)",24005,***,135.7,131.1,140.4,721,stable,1.3,-3.4,6.2
+"Washington County(6,10)",24043,***,135,124.3,146.4,125,stable,0.1,-7.7,8.6
+"Anne Arundel County(6,10)",24003,***,134.2,128.5,140.1,440,stable,0.8,-1.9,3.6
+"Howard County(6,10)",24027,***,132.4,124.7,140.4,233,stable,2.1,-6.6,11.7
+"Montgomery County(6,10)",24031,***,132,127.9,136.2,817,stable,-1.6,-5.5,2.3
+"Frederick County(6,10)",24021,***,130.7,122.2,139.7,185,stable,3.6,-1.6,8.9
+"Talbot County(6,10)",24041,***,130.5,111.9,151.9,42,stable,-10.6,-26.2,8.3
+"Carroll County(6,10)",24013,***,129.3,119.7,139.5,142,stable,2.6,-6.5,12.6
+"Caroline County(6,10)",24011,***,128.9,107.4,153.7,27,stable,8,-4.7,22.3
+"Prince Georges County(6,10)",24033,***,128.2,123.7,132.8,649,stable,0.9,-7.4,9.8
+"Charles County(6,10)",24017,***,127.8,117.1,139.4,109,stable,-0.9,-7.8,6.5
+"Cecil County(6,10)",24015,***,127.4,114.7,141.3,76,stable,-0.4,-13.9,15.1
+"Dorchester County(6,10)",24019,***,127.1,106.6,150.7,30,stable,3.7,-16.9,29.4
+"Baltimore City(6,10)",24510,***,124.2,119,129.6,449,stable,-1.1,-3,0.9
+"Allegany County(6,10)",24001,***,114.4,100.6,129.7,57,stable,0.8,-18.7,25
+"Queen Annes County(6,10)",24035,***,113,96.7,131.4,37,stable,8,-14.8,36.8
+"St. Marys County(6,10)",24037,***,112.3,100.3,125.3,66,stable,5.2,-7.7,20
+"Somerset County(6,10)",24039,***,112.2,88,141.4,17,stable,17.9,-13,59.9
+"Garrett County(6,10)",24023,***,106.4,86.9,129.4,23,stable,9.4,-1.4,21.3
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:34 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

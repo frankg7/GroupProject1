@@ -1,0 +1,68 @@
+Incidence Rate Report for New Mexico by County,,,,,,,,,,
+,,,,,,,,,,
+"Prostate, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Male, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"New Mexico(3,8)",35000,***,82.4,80.1,84.8,991,falling,-9.2,-11.4,-7
+"US (SEER+NPCR)(1,10)",0,***,109,108.8,109.2,190639,falling,-7.3,-13,-1.1
+"Chaves County(7,8)",35005,***,119.2,103.5,136.6,42,falling,-3.3,-4.6,-2.1
+"Luna County(7,8)",35029,***,118.7,97.3,143.9,22,falling,-1.5,-2.9,-0.1
+"Los Alamos County(7,8)",35028,***,118.4,92.4,150.4,15,falling,-2.7,-4.4,-1
+"Dona Ana County(7,8)",35013,***,116.6,107.6,126.1,129,falling,-2,-2.7,-1.2
+"Curry County(7,8)",35009,***,96.7,79.1,117,22,falling,-3,-4,-2.1
+"Sierra County(7,8)",35051,***,88.3,67,118.5,12,stable,-1.6,-3.3,0.2
+"Quay County(7,8)",35037,***,82.5,55.7,121.3,6,stable,-1.5,-4.3,1.3
+"McKinley County(7,8)",35031,***,81.5,66.7,98.4,23,stable,-0.9,-2.2,0.4
+"Torrance County(7,8)",35057,***,80.9,58.9,109.4,10,falling,-3.3,-5.3,-1.2
+"Sandoval County(7,8)",35043,***,80.8,71.9,90.5,65,falling,-7.5,-10.3,-4.5
+"Bernalillo County(7,8)",35001,***,80.2,76,84.6,292,falling,-9.3,-11.8,-6.7
+"Otero County(7,8)",35035,***,80,67.8,94,31,falling,-3.8,-5.1,-2.5
+"San Miguel County(7,8)",35047,***,76.4,60,96.4,16,falling,-6.8,-10.3,-3.1
+Mora County(7),35033,***,76.3,43,133,3,*,*,*,*
+"Lea County(7,8)",35025,***,73.3,60.1,88.5,23,falling,-6.1,-9.4,-2.7
+"Taos County(7,8)",35055,***,72.5,58.4,89.7,20,falling,-13.6,-19.6,-7.2
+"Grant County(7,8)",35017,***,72.1,57.5,90.1,18,falling,-6.6,-8.1,-5
+"Lincoln County(7,8)",35027,***,71.9,54.6,94.4,13,falling,-5.9,-7.2,-4.6
+"San Juan County(7,8)",35045,***,70.3,61,80.6,44,falling,-2.7,-3.8,-1.6
+"Valencia County(7,8)",35061,***,68.4,57.9,80.4,32,falling,-15,-27.1,-0.8
+"Cibola County(7,8)",35006,***,67.8,50,90,10,falling,-10.5,-16.8,-3.8
+"Colfax County(7,8)",35007,***,66.7,47.1,94,8,falling,-2.9,-4.8,-1
+"Santa Fe County(7,8)",35049,***,65.6,58.6,73.3,70,falling,-14.5,-18.3,-10.6
+"Rio Arriba County(7,8)",35039,***,65.1,51.3,81.7,16,falling,-16.3,-23.4,-8.6
+"Roosevelt County(7,8)",35041,***,64.9,43.8,92.5,6,falling,-3.1,-5.5,-0.7
+"Eddy County(7,8)",35015,***,59.7,48.2,73.3,20,falling,-23.4,-32.5,-13.1
+"Socorro County(7,8)",35053,***,56,38.1,80.2,7,falling,-19.8,-31.1,-6.7
+Catron County(7),35003,***,* ,*, *,3 or fewer,*,*,*,*
+De Baca County(7),35011,***,* ,*, *,3 or fewer,*,*,*,*
+Guadalupe County(7),35019,***,* ,*, *,3 or fewer,*,*,*,*
+Harding County(7),35021,***,* ,*, *,3 or fewer,*,*,*,*
+Hidalgo County(7),35023,***,* ,*, *,3 or fewer,*,*,*,*
+Union County(7),35059,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 11:06 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+3 Source: SEER November 2017 submission.  State Cancer Registry also receives funding from CDC's National Program of Cancer Registries.,,,,,,,,,,
+7 Source: SEER November 2017 submission.,,,,,,,,,,
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2016 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2017 data. ",,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

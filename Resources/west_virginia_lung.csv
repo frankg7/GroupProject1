@@ -1,0 +1,87 @@
+Incidence Rate Report for West Virginia by County,,,,,,,,,,
+,,,,,,,,,,
+"Lung & Bronchus, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"West Virginia(6,10)",54000,***,80.3,78.7,81.9,2039,stable,-1.5,-3.1,0.2
+"US (SEER+NPCR)(1,10)",0,***,60.2,60.1,60.3,217545,falling,-2.1,-2.6,-1.7
+"Mingo County(6,10)",54059,***,114.7,98.3,133.2,37,stable,5.3,-16.5,32.8
+"Logan County(6,10)",54045,***,114.6,101.3,129.4,57,stable,-1.8,-17.1,16.4
+"Boone County(6,10)",54005,***,110.2,94,128.6,35,stable,5.3,-5.6,17.6
+"McDowell County(6,10)",54047,***,107.8,91.5,126.6,33,stable,-6.4,-25.7,17.9
+"Pleasants County(6,10)",54073,***,107.7,80.4,142.1,11,stable,-2.6,-32.3,40.2
+"Lincoln County(6,10)",54043,***,105.9,89.6,124.5,32,stable,0.3,-7.1,8.4
+"Clay County(6,10)",54015,***,105.9,81.5,135.9,14,stable,4,-7.5,16.9
+"Fayette County(6,10)",54019,***,94.1,83.7,105.7,61,stable,0,-10.8,12
+"Lewis County(6,10)",54041,***,90.3,74.2,109.3,23,stable,6.2,-13,29.5
+"Wirt County(6,10)",54105,***,89.5,63.4,124.6,8,stable,-1.7,-49.4,91.1
+"Ritchie County(6,10)",54085,***,89.2,69.1,114.4,14,stable,-13.5,-42.2,29.5
+"Wayne County(6,10)",54099,***,88,77.4,99.7,52,stable,0.7,-9.1,11.6
+"Wyoming County(6,10)",54109,***,87.7,73.1,104.7,27,stable,2.6,-23,36.7
+"Webster County(6,10)",54101,***,85.5,64.5,112.2,12,stable,-10.2,-38.7,31.5
+"Harrison County(6,10)",54033,***,85.4,77.2,94.3,82,stable,2.6,-4.6,10.4
+"Berkeley County(6,10)",54003,***,85.4,77.8,93.5,100,stable,-2.2,-8.4,4.5
+"Mercer County(6,10)",54055,***,84.8,76.3,94.1,76,stable,-6.9,-19.7,7.9
+"Cabell County(6,10)",54011,***,84.8,77.6,92.6,105,stable,-2.2,-8.8,5
+"Hampshire County(6,10)",54027,***,83.7,70.1,99.4,29,stable,1,-13.9,18.4
+"Marion County(6,10)",54049,***,83.5,74.6,93.3,66,stable,2,-17.9,26.7
+"Mason County(6,10)",54053,***,82.6,70.2,96.8,32,stable,-2.8,-14.8,11
+"Kanawha County(6,10)",54039,***,81.4,76.5,86.5,220,stable,-5,-12.1,2.8
+"Wood County(6,10)",54107,***,79.8,72.8,87.4,97,stable,-3.5,-23.4,21.6
+"Hancock County(6,10)",54029,***,79.2,67.9,92,37,stable,-5.2,-17.9,9.5
+"Mineral County(6,10)",54057,***,78.9,66.9,92.7,32,stable,-5.8,-22.8,14.9
+"Jackson County(6,10)",54035,***,77.7,66.3,90.9,33,stable,8.8,-6.6,26.9
+"Marshall County(6,10)",54051,***,77.5,66.7,89.8,38,stable,-6.2,-21.7,12.3
+"Upshur County(6,10)",54097,***,77.4,64.4,92.5,26,stable,-1.3,-13.5,12.7
+"Roane County(6,10)",54087,***,76.9,61.2,96,17,stable,11.2,-16.4,47.9
+"Monroe County(6,10)",54063,***,76.6,60.4,96.6,16,stable,-4,-20.7,16.2
+"Putnam County(6,10)",54079,***,76.6,67.6,86.5,55,stable,-4.1,-15.9,9.3
+"Gilmer County(6,10)",54021,***,76.4,54.2,105.5,8,stable,31.3,-3.7,78.9
+"Brooke County(6,10)",54009,***,76.2,64,90.5,29,stable,4.1,-9.7,20
+"Tucker County(6,10)",54093,***,76.2,54.2,105.9,8,stable,7.9,-25.4,56
+"Nicholas County(6,10)",54067,***,75.5,63.4,89.6,29,stable,3.3,-14.3,24.4
+"Pocahontas County(6,10)",54075,***,75.5,56.5,100.3,11,stable,-6.5,-27.4,20.5
+"Greenbrier County(6,10)",54025,***,75.3,65.4,86.6,43,stable,12.6,-13.4,46.4
+"Raleigh County(6,10)",54081,***,74.8,67.6,82.6,83,stable,-0.5,-5,4.2
+"Wetzel County(6,10)",54103,***,74.6,60.2,91.9,19,stable,-4.4,-22.6,18.1
+"Doddridge County(6,10)",54017,***,73.8,52.5,102,8,stable,4.4,-38.2,76.5
+"Tyler County(6,10)",54095,***,73.7,54.9,98.2,11,stable,-11.8,-44.6,40.3
+"Randolph County(6,10)",54083,***,70.4,59.3,83.1,30,stable,3.8,-18.6,32.3
+"Taylor County(6,10)",54091,***,69.7,55.3,87.2,17,stable,-4.3,-15.1,7.7
+"Morgan County(6,10)",54065,***,69.1,55.5,85.8,18,rising,17.4,3.9,32.6
+"Jefferson County(6,10)",54037,***,67.7,58.6,77.9,42,stable,-5.4,-24.4,18.5
+"Ohio County(6,10)",54069,***,66.6,57.8,76.6,44,stable,4.8,-14.9,29.1
+"Calhoun County(6,10)",54013,***,65.9,46.7,91.8,8,stable,-13.6,-40.9,26.4
+"Braxton County(6,10)",54007,***,65.8,51.5,83.4,15,stable,-4.9,-18.5,11
+"Preston County(6,10)",54077,***,65.4,55.2,77.1,30,stable,-4.4,-18.1,11.6
+"Hardy County(6,10)",54031,***,63.2,48.4,81.8,13,stable,-12.3,-37.5,23.1
+"Monongalia County(6,10)",54061,***,61.9,54.7,69.8,56,falling,-10.7,-17.9,-2.9
+"Barbour County(6,10)",54001,***,61,47.4,77.7,14,stable,12.5,-10.8,41.8
+"Grant County(6,10)",54023,***,59.3,44.7,78,11,stable,-6.1,-30.3,26.4
+"Pendleton County(6,10)",54071,***,53.4,37.2,76.4,7,stable,-5.7,-35.2,37.4
+"Summers County(6,10)",54089,***,49.3,36.5,65.8,10,stable,1.3,-22.8,32.9
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 11:06 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

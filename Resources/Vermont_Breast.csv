@@ -1,0 +1,46 @@
+Incidence Rate Report for Vermont by County,,,,,,,,,,
+,,,,,,,,,,
+"Breast, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Female, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Vermont(6,10)",50000,***,130.4,125.4,135.7,540,stable,1.1,-2.3,4.6
+"US (SEER+NPCR)(1,10)",0,***,124.7,124.4,124.9,234445,stable,0.2,-0.2,0.6
+"Lamoille County(6,10)",50015,***,148.1,121.1,179.7,22,stable,9.6,-9.7,33
+"Chittenden County(6,10)",50007,***,142.7,131.6,154.5,129,stable,-0.4,-7.4,7.1
+"Windsor County(6,10)",50027,***,141.2,124.5,159.9,59,stable,9.7,-1.1,21.6
+"Orleans County(6,10)",50019,***,139.7,115.8,167.5,27,stable,1.4,-33.3,54.1
+"Washington County(6,10)",50023,***,129.6,113.8,147.2,53,stable,-1.1,-8.8,7.4
+"Addison County(6,10)",50001,***,127.7,107.4,151.1,30,stable,-2.6,-21.9,21.3
+"Bennington County(6,10)",50003,***,127,107.7,149.2,35,stable,3.9,-16,28.7
+"Rutland County(6,10)",50021,***,126.7,111.5,143.6,56,stable,4.2,-17.9,32.2
+"Windham County(6,10)",50025,***,126.5,108.5,146.9,40,stable,1.7,-19,27.7
+"Grand Isle County(6,10)",50013,***,118.2,76.4,177.2,6,stable,-12,-40,29
+"Franklin County(6,10)",50011,***,116.2,98.9,135.9,34,stable,2.8,-5.2,11.4
+"Orange County(6,10)",50017,***,115.8,94.5,140.8,23,stable,-16.4,-38.9,14.3
+"Essex County(6,10)",50009,***,107.3,65,169.8,5,stable,9.3,-31.6,74.8
+"Caledonia County(6,10)",50005,***,95,76.7,116.7,21,stable,-2.6,-16.2,13.1
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:47 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
