@@ -1,6 +1,6 @@
 ,Years,Cancer Type,State,County,FIPS,Met Health Obj,Age-Adjusted Incident Rate,Lower 95% Confidence Interval,Lower 95% Confidence Interval,Upper 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend in Incidence Rates,Lower 95% Confidence Interval,Lower 95% Confidence Interval,Upper 95% Confidence Interval,Upper 95% Confidence Interval
 8, 2011-2015,Breast,Alabama,Alabama,1000,***,120.9,119.1,0.2,122.7,1.7,3645,rising,1,119.1,0.2,122.7,1.7
-9, 2011-2015,Breast,Alabama,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Alabama,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Alabama,Pickens County,1107,***,162.1,130.6,-29.7,199.2,56.4,20,stable,4.8,130.6,-29.7,199.2,56.4
 11, 2011-2015,Breast,Alabama,Conecuh County,1035,***,162.1,123.4,-18,209.5,7.9,14,stable,-6,123.4,-18,209.5,7.9
 12, 2011-2015,Breast,Alabama,Bibb County,1007,***,157.9,128.2,-39.6,192.7,53.3,21,stable,-3.8,128.2,-39.6,192.7,53.3
@@ -69,7 +69,7 @@
 75, 2011-2015,Breast,Alabama,DeKalb County,1049,***,91,78.7,-5.2,104.8,27,41,stable,9.7,78.7,-5.2,104.8,27
 76, 2011-2015,Breast,Alabama,Coosa County,1037,***,83.3,57,-30.9,119.5,15.4,7,stable,-10.7,57,-30.9,119.5,15.4
 8, 2011-2015,Colon & Rectum,Alabama,Alabama,1000,No,43.5,42.7,-2.3,44.3,3.1,2458,stable,0.3,42.7,-2.3,44.3,3.1
-9, 2011-2015,Colon & Rectum,Alabama,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Alabama,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Alabama,Wilcox County,1131,No,66.4,47.2,-42.5,90.8,26.6,8,stable,-14.7,47.2,-42.5,90.8,26.6
 11, 2011-2015,Colon & Rectum,Alabama,Clarke County,1025,No,63.2,51.2,-22.2,77.4,2.8,20,stable,-10.6,51.2,-22.2,77.4,2.8
 12, 2011-2015,Colon & Rectum,Alabama,Choctaw County,1023,No,61.4,46.2,-52.2,80.6,78.4,12,stable,-7.7,46.2,-52.2,80.6,78.4
@@ -138,7 +138,7 @@
 75, 2011-2015,Colon & Rectum,Alabama,Geneva County,1061,Yes,33.6,25.5,-31.2,43.6,16.6,12,stable,-10.4,25.5,-31.2,43.6,16.6
 76, 2011-2015,Colon & Rectum,Alabama,Coffee County,1031,Yes,28.9,23,-16.7,35.8,23,17,stable,1.2,23,-16.7,35.8,23
 8, 2011-2015,Lung & Bronchus,Alabama,Alabama,1000,***,67.7,66.8,-3.4,68.7,-2.7,3967,falling,-3,66.8,-3.4,68.7,-2.7
-9, 2011-2015,Lung & Bronchus,Alabama,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Alabama,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Alabama,Walker County,1127,***,94.5,85.7,-10.4,104,7,88,stable,-2.1,85.7,-10.4,104,7
 11, 2011-2015,Lung & Bronchus,Alabama,Lawrence County,1079,***,88.9,76.6,-22.7,102.7,11.7,39,stable,-7.1,76.6,-22.7,102.7,11.7
 12, 2011-2015,Lung & Bronchus,Alabama,Clay County,1027,***,87.1,69.3,-26.9,108.7,41.4,17,stable,1.7,69.3,-26.9,108.7,41.4
@@ -207,7 +207,7 @@
 75, 2011-2015,Lung & Bronchus,Alabama,Shelby County,1117,***,52.1,47.7,-17.1,56.9,2.4,107,stable,-7.9,47.7,-17.1,56.9,2.4
 76, 2011-2015,Lung & Bronchus,Alabama,Pike County,1109,***,52.1,41.9,-32.2,64.1,39.7,19,stable,-2.7,41.9,-32.2,64.1,39.7
 8, 2011-2015,Prostate,Alabama,Alabama,1000,***,123.4,121.5,-12.3,125.3,1.5,3394,stable,-5.6,121.5,-12.3,125.3,1.5
-9, 2011-2015,Prostate,Alabama,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Alabama,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Alabama,Macon County,1087,***,186.2,151,-10.6,227.7,44.2,21,stable,13.6,151,-10.6,227.7,44.2
 11, 2011-2015,Prostate,Alabama,Sumter County,1119,***,183.8,141.5,-20.3,235.8,11.4,14,stable,-5.8,141.5,-20.3,235.8,11.4
 12, 2011-2015,Prostate,Alabama,Dallas County,1047,***,175.5,151.6,-26.4,202.3,9,42,stable,-10.4,151.6,-26.4,202.3,9
@@ -276,7 +276,7 @@
 75, 2011-2015,Prostate,Alabama,Colbert County,1033,***,83.5,70.5,-25.9,98.6,19.9,30,stable,-5.7,70.5,-25.9,98.6,19.9
 76, 2011-2015,Prostate,Alabama,Franklin County,1059,***,62.8,47.3,-22.6,81.9,16.9,11,stable,-4.9,47.3,-22.6,81.9,16.9
 8, 2011-2015,Colon & Rectum,Alaska,Alaska,2900,No,42,39.6,-1.5,44.5,4.2,269,stable,1.3,39.6,-1.5,44.5,4.2
-9, 2011-2015,Colon & Rectum,Alaska,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Alaska,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Alaska,North Slope Borough,2185,No,109.8,66.4,-58.5,167.8,88.4,6,stable,-11.5,66.4,-58.5,167.8,88.4
 11, 2011-2015,Colon & Rectum,Alaska,Yukon-Koyukuk Census Area,2290,No,93.5,61.2,-55,137,46.9,6,stable,-18.7,61.2,-55,137,46.9
 12, 2011-2015,Colon & Rectum,Alaska,Dillingham Census Area,2070,No,92,53,-59.8,147.7,165.4,4,stable,3.3,53,-59.8,147.7,165.4
@@ -305,7 +305,7 @@
 35, 2011-2015,Colon & Rectum,Alaska,Skagway-Hoonah-Angoon Census Area,2232,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 36, 2011-2015,Colon & Rectum,Alaska,Yakutat City and Borough,2282,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Alaska,Alaska,2900,***,57.2,54.3,-8,60.2,-0.8,342,falling,-4.5,54.3,-8,60.2,-0.8
-9, 2011-2015,Lung & Bronchus,Alaska,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Alaska,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Alaska,North Slope Borough,2185,***,150.8,97,-36.8,220.1,57.8,7,stable,-0.2,97,-36.8,220.1,57.8
 11, 2011-2015,Lung & Bronchus,Alaska,Nome Census Area,2180,***,89.2,58.1,-24.4,129.8,11.2,6,stable,-8.3,58.1,-24.4,129.8,11.2
 12, 2011-2015,Lung & Bronchus,Alaska,Southeast Fairbanks Census Area,2240,***,80.6,50.9,-48.5,120.7,19.3,5,stable,-21.6,50.9,-48.5,120.7,19.3
@@ -334,7 +334,7 @@
 35, 2011-2015,Lung & Bronchus,Alaska,Wade Hampton Census Area,2270,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 36, 2011-2015,Lung & Bronchus,Alaska,Yakutat City and Borough,2282,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Alaska,Alaska,2900,***,79.6,75,-14.8,84.4,-4.9,280,falling,-10,75,-14.8,84.4,-4.9
-9, 2011-2015,Prostate,Alaska,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Alaska,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Alaska,Kodiak Island Borough,2150,***,95.8,54.5,-66.9,152.9,56.5,5,stable,-28,54.5,-66.9,152.9,56.5
 11, 2011-2015,Prostate,Alaska,Juneau City and Borough,2110,***,94.5,73.9,-31.7,119.3,7.9,19,stable,-14.2,73.9,-31.7,119.3,7.9
 12, 2011-2015,Prostate,Alaska,Matanuska-Susitna Borough,2170,***,91.8,78.7,-24.6,106.4,0.8,44,stable,-12.8,78.7,-24.6,106.4,0.8
@@ -363,7 +363,7 @@
 35, 2011-2015,Prostate,Alaska,Yakutat City and Borough,2282,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 36, 2011-2015,Prostate,Alaska,Yukon-Koyukuk Census Area,2290,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Arizona,Arizona,4000,***,112.9,111.4,-2.4,114.4,3,4443,stable,0.3,111.4,-2.4,114.4,3
-9, 2011-2015,Breast,Arizona,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Arizona,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Arizona,Graham County,4009,***,122.5,100.1,-5.7,148.5,12.3,22,stable,2.9,100.1,-5.7,148.5,12.3
 11, 2011-2015,Breast,Arizona,Maricopa County,4013,***,120.5,118.4,-3.7,122.6,4,2694,stable,0.1,118.4,-3.7,122.6,4
 12, 2011-2015,Breast,Arizona,Yavapai County,4025,***,119.7,111.9,-14.3,128,15.1,228,stable,-0.7,111.9,-14.3,128,15.1
@@ -380,7 +380,7 @@
 23, 2011-2015,Breast,Arizona,La Paz County,4012,***,63.8,47,-4.9,86.5,15.8,13,stable,4.9,47,-4.9,86.5,15.8
 24, 2011-2015,Breast,Arizona,Apache County,4001,***,62.3,51.4,-16.6,74.8,9,24,stable,-4.7,51.4,-16.6,74.8,9
 8, 2011-2015,Colon & Rectum,Arizona,Arizona,4000,Yes,33.6,33,-4.3,34.2,-0.1,2564,falling,-2.3,33,-4.3,34.2,-0.1
-9, 2011-2015,Colon & Rectum,Arizona,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Arizona,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Arizona,Mohave County,4015,No,42.2,38.9,-22.3,45.8,8.6,143,stable,-8.1,38.9,-22.3,45.8,8.6
 11, 2011-2015,Colon & Rectum,Arizona,Cochise County,4003,Yes,37.7,33.7,-6.5,42.2,-0.2,67,falling,-3.4,33.7,-6.5,42.2,-0.2
 12, 2011-2015,Colon & Rectum,Arizona,Greenlee County,4011,Yes,36.8,21.2,*,59.5,*,3,*,*,21.2,*,59.5,*
@@ -397,7 +397,7 @@
 23, 2011-2015,Colon & Rectum,Arizona,Gila County,4007,Yes,27,22.2,-13.4,32.7,-4.8,25,falling,-9.2,22.2,-13.4,32.7,-4.8
 24, 2011-2015,Colon & Rectum,Arizona,Apache County,4001,Yes,25.8,20.7,-27.1,31.7,27.7,19,stable,-3.5,20.7,-27.1,31.7,27.7
 8, 2011-2015,Lung & Bronchus,Arizona,Arizona,4000,***,49.3,48.6,-4.1,50,-2.2,3902,falling,-3.1,48.6,-4.1,50,-2.2
-9, 2011-2015,Lung & Bronchus,Arizona,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Arizona,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Arizona,Mohave County,4015,***,77.8,73.8,-7.6,82,8.2,300,stable,0,73.8,-7.6,82,8.2
 11, 2011-2015,Lung & Bronchus,Arizona,La Paz County,4012,***,52.5,42.7,-21.5,64.8,27.2,25,stable,0,42.7,-21.5,64.8,27.2
 12, 2011-2015,Lung & Bronchus,Arizona,Yavapai County,4025,***,50.3,47.1,-12.6,53.6,13.4,214,stable,-0.4,47.1,-12.6,53.6,13.4
@@ -414,7 +414,7 @@
 23, 2011-2015,Lung & Bronchus,Arizona,Santa Cruz County,4023,***,33.5,26.9,-43.1,41.3,43.1,18,stable,-9.8,26.9,-43.1,41.3,43.1
 24, 2011-2015,Lung & Bronchus,Arizona,Apache County,4001,***,23.3,18.6,-34.4,28.8,35.9,18,stable,-5.6,18.6,-34.4,28.8,35.9
 8, 2011-2015,Prostate,Arizona,Arizona,4000,***,78.6,77.4,-8,79.9,5.6,3019,stable,-1.4,77.4,-8,79.9,5.6
-9, 2011-2015,Prostate,Arizona,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Arizona,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Arizona,Maricopa County,4013,***,85.8,84,-9,87.6,9.6,1775,stable,-0.2,84,-9,87.6,9.6
 11, 2011-2015,Prostate,Arizona,Yavapai County,4025,***,83.7,78,-11.4,89.8,34.2,175,stable,9.1,78,-11.4,89.8,34.2
 12, 2011-2015,Prostate,Arizona,Coconino County,4005,***,80.8,70.6,-3.8,92,12.7,52,stable,4.1,70.6,-3.8,92,12.7
@@ -431,7 +431,7 @@
 23, 2011-2015,Prostate,Arizona,Graham County,4009,***,50,35.9,-28.5,67.6,11.9,9,stable,-10.5,35.9,-28.5,67.6,11.9
 24, 2011-2015,Prostate,Arizona,Gila County,4007,***,48.2,39.7,-7.9,58.5,12.5,24,stable,1.8,39.7,-7.9,58.5,12.5
 8, 2011-2015,Breast,Arkansas,Arkansas,5000,***,114.7,112.4,-1.5,116.9,5.6,2080,stable,2,112.4,-1.5,116.9,5.6
-9, 2011-2015,Breast,Arkansas,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Arkansas,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Arkansas,Perry County,5105,***,145.7,104.8,2.4,197.8,11.4,9,rising,6.8,104.8,2.4,197.8,11.4
 11, 2011-2015,Breast,Arkansas,Lee County,5077,***,135.7,95.6,5.9,188.4,39.7,8,rising,21.7,95.6,5.9,188.4,39.7
 12, 2011-2015,Breast,Arkansas,Dallas County,5039,***,135.6,92.8,0.8,192.7,36.6,7,rising,17.4,92.8,0.8,192.7,36.6
@@ -508,7 +508,7 @@
 83, 2011-2015,Breast,Arkansas,Nevada County,5099,***,71.9,44.8,-31.6,111.3,51.5,5,stable,1.8,44.8,-31.6,111.3,51.5
 84, 2011-2015,Breast,Arkansas,Calhoun County,5013,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Arkansas,Arkansas,5000,No,43.6,42.6,1,44.6,2.8,1515,rising,1.9,42.6,1,44.6,2.8
-9, 2011-2015,Colon & Rectum,Arkansas,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Arkansas,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Arkansas,Cross County,5037,No,69.7,54.5,-7.5,87.9,1.2,15,stable,-3.2,54.5,-7.5,87.9,1.2
 11, 2011-2015,Colon & Rectum,Arkansas,Bradley County,5011,No,66.8,49.7,-21.4,88.6,27.9,10,stable,0.3,49.7,-21.4,88.6,27.9
 12, 2011-2015,Colon & Rectum,Arkansas,Phillips County,5107,No,65.7,51.9,-15.2,82.2,-5,16,falling,-10.3,51.9,-15.2,82.2,-5
@@ -585,7 +585,7 @@
 83, 2011-2015,Colon & Rectum,Arkansas,Lafayette County,5073,Yes,29.4,17,*,49.3,*,3,*,*,17,*,49.3,*
 84, 2011-2015,Colon & Rectum,Arkansas,Cleveland County,5025,Yes,28.6,16,*,47.9,*,3,*,*,16,*,47.9,*
 8, 2011-2015,Lung & Bronchus,Arkansas,Arkansas,5000,***,78,76.7,-1.8,79.3,2.2,2818,stable,0.2,76.7,-1.8,79.3,2.2
-9, 2011-2015,Lung & Bronchus,Arkansas,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Arkansas,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Arkansas,Woodruff County,5147,***,123.3,93.1,-26.6,161.1,14.2,12,stable,-8.4,93.1,-26.6,161.1,14.2
 11, 2011-2015,Lung & Bronchus,Arkansas,Poinsett County,5111,***,121.8,105.3,-11.5,140.4,27.9,40,stable,6.4,105.3,-11.5,140.4,27.9
 12, 2011-2015,Lung & Bronchus,Arkansas,Lawrence County,5075,***,106.1,88.1,-8,127.1,10.6,25,stable,0.9,88.1,-8,127.1,10.6
@@ -662,7 +662,7 @@
 83, 2011-2015,Lung & Bronchus,Arkansas,Izard County,5065,***,58,45.4,-18.7,74.1,23.7,15,stable,0.3,45.4,-18.7,74.1,23.7
 84, 2011-2015,Lung & Bronchus,Arkansas,Lee County,5077,***,53.3,36.6,-25.6,75.5,34.3,7,stable,0,36.6,-25.6,75.5,34.3
 8, 2011-2015,Prostate,Arkansas,Arkansas,5000,***,115.9,113.6,-13.4,118.2,4.8,2001,stable,-4.7,113.6,-13.4,118.2,4.8
-9, 2011-2015,Prostate,Arkansas,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Arkansas,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Arkansas,Woodruff County,5147,***,166.2,118.9,-32.6,229,25.5,9,stable,-8,118.9,-32.6,229,25.5
 11, 2011-2015,Prostate,Arkansas,Jefferson County,5069,***,165.7,148.3,-19.3,184.7,19.7,71,stable,-1.7,148.3,-19.3,184.7,19.7
 12, 2011-2015,Prostate,Arkansas,Pulaski County,5119,***,156.9,149,-22,165.1,12.9,321,stable,-6.2,149,-22,165.1,12.9
@@ -739,7 +739,7 @@
 83, 2011-2015,Prostate,Arkansas,Randolph County,5121,***,61.9,43.6,-56.2,86.3,90.1,8,stable,-8.8,43.6,-56.2,86.3,90.1
 84, 2011-2015,Prostate,Arkansas,Johnson County,5071,***,60.9,44.5,-14.2,81.6,18.9,9,stable,1,44.5,-14.2,81.6,18.9
 8, 2011-2015,Prostate,California,California(3,6000,***,101.2,100.5,-12,101.8,-6.2,19253,falling,-9.2,100.5,-12,101.8,-6.2
-9, 2011-2015,Prostate,California,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,California,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,California,Glenn County,6021,***,122.5,99.3,-6.7,149.7,0.7,20,stable,-3.1,99.3,-6.7,149.7,0.7
 11, 2011-2015,Prostate,California,Contra Costa County,6013,***,120.8,116.8,-8.4,125,-2.5,716,falling,-5.5,116.8,-8.4,125,-2.5
 12, 2011-2015,Prostate,California,Imperial County,6025,***,120.6,109.8,-3.1,132.2,1,94,stable,-1.1,109.8,-3.1,132.2,1
@@ -799,7 +799,7 @@
 66, 2011-2015,Prostate,California,Alpine County,6003,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 67, 2011-2015,Prostate,California,Sierra County,6091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,California,California(3,6000,***,121.5,120.9,-0.4,122.2,0.3,25689,stable,-0.1,120.9,-0.4,122.2,0.3
-9, 2011-2015,Breast,California,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,California,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,California,Inyo County,6027,***,156.2,123.9,-1.1,194.7,5,20,stable,1.9,123.9,-1.1,194.7,5
 11, 2011-2015,Breast,California,Shasta County,6089,***,144.8,135,0.9,155.2,3.6,183,rising,2.2,135,0.9,155.2,3.6
 12, 2011-2015,Breast,California,Napa County,6055,***,141.3,130.1,-2.3,153.2,0.6,127,stable,-0.9,130.1,-2.3,153.2,0.6
@@ -859,7 +859,7 @@
 66, 2011-2015,Breast,California,Alpine County,6003,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 67, 2011-2015,Breast,California,Sierra County,6091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,California,California(3,6000,Yes,36.2,36,-3.6,36.5,-0.5,14418,falling,-2,36,-3.6,36.5,-0.5
-9, 2011-2015,Colon & Rectum,California,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,California,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,California,Glenn County,6021,No,51.3,40.6,-3.5,63.9,3.9,16,stable,0.1,40.6,-3.5,63.9,3.9
 11, 2011-2015,Colon & Rectum,California,San Bernardino County,6071,No,41.9,40.6,-1.8,43.3,-1,769,falling,-1.4,40.6,-1.8,43.3,-1
 12, 2011-2015,Colon & Rectum,California,San Benito County,6069,No,41.9,34.4,-3,50.5,3.4,23,stable,0.1,34.4,-3,50.5,3.4
@@ -919,7 +919,7 @@
 66, 2011-2015,Colon & Rectum,California,Alpine County,6003,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 67, 2011-2015,Colon & Rectum,California,Sierra County,6091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,California,California(3,6000,***,43.3,43.1,-4.4,43.6,-3.3,16864,falling,-3.9,43.1,-4.4,43.6,-3.3
-9, 2011-2015,Lung & Bronchus,California,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,California,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,California,Lake County,6033,***,73.9,66.3,-4,82.3,-1.4,73,falling,-2.7,66.3,-4,82.3,-1.4
 11, 2011-2015,Lung & Bronchus,California,Del Norte County,6015,***,67,55,-4.3,81,1.5,23,stable,-1.4,55,-4.3,81,1.5
 12, 2011-2015,Lung & Bronchus,California,Yuba County,6115,***,62.6,54.3,-6.2,71.7,-1.5,43,falling,-3.9,54.3,-6.2,71.7,-1.5
@@ -979,7 +979,7 @@
 66, 2011-2015,Lung & Bronchus,California,Alpine County,6003,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 67, 2011-2015,Lung & Bronchus,California,Sierra County,6091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Colorado,Colorado,8000,***,123.5,121.7,-0.5,125.4,1.4,3587,stable,0.5,121.7,-0.5,125.4,1.4
-9, 2011-2015,Breast,Colorado,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Colorado,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Colorado,Routt County,8107,***,143.8,113.5,-5,179.9,25.8,19,stable,9.3,113.5,-5,179.9,25.8
 11, 2011-2015,Breast,Colorado,Douglas County,8035,***,140.3,131.6,-4.8,149.3,17.2,220,stable,5.7,131.6,-4.8,149.3,17.2
 12, 2011-2015,Breast,Colorado,Teller County,8119,***,138,109.1,-47.1,172.7,70.5,19,stable,-5,109.1,-47.1,172.7,70.5
@@ -1045,7 +1045,7 @@
 72, 2011-2015,Breast,Colorado,Sedgwick County,8115,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 73, 2011-2015,Breast,Colorado,Washington County,8121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Colorado,Colorado,8000,Yes,33.8,33.1,-2.9,34.5,-0.2,1812,falling,-1.6,33.1,-2.9,34.5,-0.2
-9, 2011-2015,Colon & Rectum,Colorado,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Colorado,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Colorado,Kit Carson County,8063,No,52.5,34.6,-35.3,77.1,66.4,6,stable,3.8,34.6,-35.3,77.1,66.4
 11, 2011-2015,Colon & Rectum,Colorado,Custer County,8027,No,51.5,26.3,*,94.9,*,3,*,*,26.3,*,94.9,*
 12, 2011-2015,Colon & Rectum,Colorado,Yuma County,8125,No,49.4,33.4,-43.5,70.8,33.5,6,stable,-13.2,33.4,-43.5,70.8,33.5
@@ -1111,7 +1111,7 @@
 72, 2011-2015,Colon & Rectum,Colorado,San Miguel County,8113,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 73, 2011-2015,Colon & Rectum,Colorado,Sedgwick County,8115,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Colorado,Colorado,8000,***,43.3,42.5,-4.4,44.1,-1.5,2295,falling,-3,42.5,-4.4,44.1,-1.5
-9, 2011-2015,Lung & Bronchus,Colorado,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Colorado,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Colorado,Baca County,8009,***,69,40.7,*,112.6,*,4,*,*,40.7,*,112.6,*
 11, 2011-2015,Lung & Bronchus,Colorado,Prowers County,8099,***,61.7,44.5,-27.3,83.7,14.6,9,stable,-8.7,44.5,-27.3,83.7,14.6
 12, 2011-2015,Lung & Bronchus,Colorado,Lincoln County,8073,***,59.2,35.8,-18,93,95.1,4,stable,26.5,35.8,-18,93,95.1
@@ -1177,7 +1177,7 @@
 72, 2011-2015,Lung & Bronchus,Colorado,Sedgwick County,8115,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 73, 2011-2015,Lung & Bronchus,Colorado,Washington County,8121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Colorado,Colorado,8000,***,101,99.3,-13.1,102.8,-6.6,2789,falling,-9.9,99.3,-13.1,102.8,-6.6
-9, 2011-2015,Prostate,Colorado,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Colorado,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Colorado,Custer County,8027,***,147.1,103.4,-27.9,218.5,30.9,8,stable,-2.8,103.4,-27.9,218.5,30.9
 11, 2011-2015,Prostate,Colorado,Clear Creek County,8019,***,135.5,100.5,-43.7,182.5,2.8,12,stable,-23.9,100.5,-43.7,182.5,2.8
 12, 2011-2015,Prostate,Colorado,Gilpin County,8047,***,129.2,65.7,-55.2,225.5,55.2,4,stable,-16.6,65.7,-55.2,225.5,55.2
@@ -1243,7 +1243,7 @@
 72, 2011-2015,Prostate,Colorado,Sedgwick County,8115,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 73, 2011-2015,Prostate,Colorado,Washington County,8121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Connecticut,Connecticut(3,9000,***,140.2,137.9,0.2,142.4,1,3200,rising,0.6,137.9,0.2,142.4,1
-9, 2011-2015,Breast,Connecticut,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Connecticut,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Connecticut,Middlesex County,9007,***,154.7,144.3,0.1,165.7,1.1,179,rising,0.6,144.3,0.1,165.7,1.1
 11, 2011-2015,Breast,Connecticut,Tolland County,9013,***,148.8,137.1,-0.3,161.2,0.9,130,stable,0.3,137.1,-0.3,161.2,0.9
 12, 2011-2015,Breast,Connecticut,Fairfield County,9001,***,145,140.6,-0.3,149.6,0.2,839,stable,0,140.6,-0.3,149.6,0.2
@@ -1253,7 +1253,7 @@
 16, 2011-2015,Breast,Connecticut,Litchfield County,9005,***,133.7,124.5,-2.8,143.3,15.3,176,stable,5.9,124.5,-2.8,143.3,15.3
 17, 2011-2015,Breast,Connecticut,Windham County,9015,***,126.8,115.2,-0.6,139.3,0.9,93,stable,0.1,115.2,-0.6,139.3,0.9
 8, 2011-2015,Colon & Rectum,Connecticut,Connecticut(3,9000,Yes,37.7,36.8,-4.1,38.5,-3.3,1641,falling,-3.7,36.8,-4.1,38.5,-3.3
-9, 2011-2015,Colon & Rectum,Connecticut,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Connecticut,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Connecticut,Windham County,9015,No,41.7,36.9,-3.1,47,-1.6,57,falling,-2.4,36.9,-3.1,47,-1.6
 11, 2011-2015,Colon & Rectum,Connecticut,Hartford County,9003,Yes,39.6,37.9,-4.1,41.4,-2.6,435,falling,-3.4,37.9,-4.1,41.4,-2.6
 12, 2011-2015,Colon & Rectum,Connecticut,Litchfield County,9005,Yes,38.3,34.9,-3.1,42,-1.9,99,falling,-2.5,34.9,-3.1,42,-1.9
@@ -1263,7 +1263,7 @@
 16, 2011-2015,Colon & Rectum,Connecticut,Tolland County,9013,Yes,35.8,31.8,-7,40.3,-3.2,59,falling,-5.1,31.8,-7,40.3,-3.2
 17, 2011-2015,Colon & Rectum,Connecticut,Fairfield County,9001,Yes,35.2,33.6,-4.3,36.9,-3.5,384,falling,-3.9,33.6,-4.3,36.9,-3.5
 8, 2011-2015,Lung & Bronchus,Connecticut,Connecticut(3,9000,***,61,59.9,-2.5,62,-1.2,2662,falling,-1.8,59.9,-2.5,62,-1.2
-9, 2011-2015,Lung & Bronchus,Connecticut,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Connecticut,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Connecticut,New Haven County,9009,***,68.1,65.8,-0.7,70.4,-0.2,713,falling,-0.4,65.8,-0.7,70.4,-0.2
 11, 2011-2015,Lung & Bronchus,Connecticut,Windham County,9015,***,66.3,60.3,-1.1,72.9,0.2,92,stable,-0.5,60.3,-1.1,72.9,0.2
 12, 2011-2015,Lung & Bronchus,Connecticut,Middlesex County,9007,***,65.3,60.6,-0.8,70.3,0,150,stable,-0.4,60.6,-0.8,70.3,0
@@ -1273,7 +1273,7 @@
 16, 2011-2015,Lung & Bronchus,Connecticut,Tolland County,9013,***,58.7,53.5,-2.5,64.3,-0.9,98,falling,-1.7,53.5,-2.5,64.3,-0.9
 17, 2011-2015,Lung & Bronchus,Connecticut,Fairfield County,9001,***,53.6,51.6,-1.2,55.6,-0.8,576,falling,-1,51.6,-1.2,55.6,-0.8
 8, 2011-2015,Prostate,Connecticut,Connecticut(3,9000,***,112.8,110.7,-9.3,114.9,-3.7,2364,falling,-6.6,110.7,-9.3,114.9,-3.7
-9, 2011-2015,Prostate,Connecticut,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Connecticut,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Connecticut,Litchfield County,9005,***,121,112.6,-2.2,130,-0.8,161,falling,-1.5,112.6,-2.2,130,-0.8
 11, 2011-2015,Prostate,Connecticut,Fairfield County,9001,***,120.4,116.1,-10.4,124.9,-4.8,619,falling,-7.7,116.1,-10.4,124.9,-4.8
 12, 2011-2015,Prostate,Connecticut,Hartford County,9003,***,118.5,114.3,-15.8,122.9,11.8,613,stable,-3,114.3,-15.8,122.9,11.8
@@ -1283,33 +1283,33 @@
 16, 2011-2015,Prostate,Connecticut,New London County,9011,***,102.7,95.8,-2.9,110,-1.2,173,falling,-2.1,95.8,-2.9,110,-1.2
 17, 2011-2015,Prostate,Connecticut,Windham County,9015,***,97,86.5,-7.9,108.5,27.2,67,stable,8.2,86.5,-7.9,108.5,27.2
 8, 2011-2015,Lung & Bronchus,District of Columbia,District of Columbia,11001,***,53.4,50.8,-15.2,56.1,0.8,331,stable,-7.5,50.8,-15.2,56.1,0.8
-9, 2011-2015,Lung & Bronchus,District of Columbia,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,District of Columbia,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 8, 2011-2015,Breast,Delaware,Delaware,10000,***,133.8,129.5,-3.6,138.1,9.6,799,stable,2.8,129.5,-3.6,138.1,9.6
-9, 2011-2015,Breast,Delaware,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Delaware,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Delaware,New Castle County,10003,***,135.5,129.8,-5.3,141.4,8.8,444,stable,1.6,129.8,-5.3,141.4,8.8
 11, 2011-2015,Breast,Delaware,Kent County,10001,***,131.2,121.3,-7.1,141.7,13.7,137,stable,2.8,121.3,-7.1,141.7,13.7
 12, 2011-2015,Breast,Delaware,Sussex County,10005,***,129.7,121.4,-3.3,138.5,15.1,218,stable,5.5,121.4,-3.3,138.5,15.1
 8, 2011-2015,Colon & Rectum,Delaware,Delaware,10000,Yes,37.2,35.6,-4.2,38.8,6.7,415,stable,1.1,35.6,-4.2,38.8,6.7
-9, 2011-2015,Colon & Rectum,Delaware,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Delaware,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Delaware,Kent County,10001,No,41.3,37.3,-11.9,45.7,13.9,78,stable,0.2,37.3,-11.9,45.7,13.9
 11, 2011-2015,Colon & Rectum,Delaware,Sussex County,10005,Yes,36.7,33.6,-10.6,40,2.9,118,stable,-4.1,33.6,-10.6,40,2.9
 12, 2011-2015,Colon & Rectum,Delaware,New Castle County,10003,Yes,36.2,34,-3,38.4,12.3,219,stable,4.4,34,-3,38.4,12.3
 8, 2011-2015,Lung & Bronchus,Delaware,Delaware,10000,***,71.2,69,-5.5,73.4,3,822,stable,-1.4,69,-5.5,73.4,3
-9, 2011-2015,Lung & Bronchus,Delaware,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Delaware,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Delaware,Kent County,10001,***,80,74.5,-7.8,85.9,1.6,159,stable,-3.2,74.5,-7.8,85.9,1.6
 11, 2011-2015,Lung & Bronchus,Delaware,Sussex County,10005,***,75.6,71.4,-7.5,80,4.6,263,stable,-1.7,71.4,-7.5,80,4.6
 12, 2011-2015,Lung & Bronchus,Delaware,New Castle County,10003,***,66.2,63.3,-4.5,69.2,3.8,399,stable,-0.5,63.3,-4.5,69.2,3.8
 8, 2011-2015,Prostate,Delaware,Delaware,10000,***,136.1,131.8,-11.1,140.6,-2.3,762,falling,-6.8,131.8,-11.1,140.6,-2.3
-9, 2011-2015,Prostate,Delaware,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Delaware,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Delaware,Kent County,10001,***,159.9,148.6,-9.9,171.9,8.2,153,stable,-1.3,148.6,-9.9,171.9,8.2
 11, 2011-2015,Prostate,Delaware,New Castle County,10003,***,136.2,130.2,-11.4,142.5,-1.2,399,falling,-6.5,130.2,-11.4,142.5,-1.2
 12, 2011-2015,Prostate,Delaware,Sussex County,10005,***,122.5,115,-14.4,130.6,-5.4,210,falling,-10,115,-14.4,130.6,-5.4
 8, 2011-2015,Prostate,District of Columbia,District of Columbia,11001,***,143.5,137.1,-21.2,150.1,-8.8,402,falling,-15.2,137.1,-21.2,150.1,-8.8
-9, 2011-2015,Prostate,District of Columbia,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,District of Columbia,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 8, 2011-2015,Colon & Rectum,District of Columbia,District of Columbia,11001,No,40.9,38.6,-17.9,43.3,9.7,253,stable,-5.1,38.6,-17.9,43.3,9.7
-9, 2011-2015,Colon & Rectum,District of Columbia,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,District of Columbia,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 8, 2011-2015,Breast,Florida,Florida,12000,***,116,115.2,-1.7,116.9,1,15430,stable,-0.3,115.2,-1.7,116.9,1
-9, 2011-2015,Breast,Florida,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Florida,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Florida,Union County,12125,***,178.8,132.2,-18,236.7,18.2,10,stable,-1.6,132.2,-18,236.7,18.2
 11, 2011-2015,Breast,Florida,Gilchrist County,12041,***,138,106.9,-25.3,176,30.5,15,stable,-1.3,106.9,-25.3,176,30.5
 12, 2011-2015,Breast,Florida,Alachua County,12001,***,132.8,123.8,-8,142.3,12.4,173,stable,1.7,123.8,-8,142.3,12.4
@@ -1378,7 +1378,7 @@
 75, 2011-2015,Breast,Florida,Calhoun County,12013,***,71.2,47.2,3.2,103.9,45.3,6,rising,22.4,47.2,3.2,103.9,45.3
 76, 2011-2015,Breast,Florida,Holmes County,12059,***,58.4,40,-27.2,83,17.2,7,stable,-7.6,40,-27.2,83,17.2
 8, 2011-2015,Colon & Rectum,Florida,Florida,12000,Yes,36.9,36.5,-4.2,37.2,-1.2,9790,falling,-2.7,36.5,-4.2,37.2,-1.2
-9, 2011-2015,Colon & Rectum,Florida,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Florida,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Florida,Union County,12125,No,125.7,101.6,-29.7,154,7,21,stable,-13.3,101.6,-29.7,154,7
 11, 2011-2015,Colon & Rectum,Florida,Hardee County,12049,No,54.9,43.4,-35.9,68.6,16.8,16,stable,-13.5,43.4,-35.9,68.6,16.8
 12, 2011-2015,Colon & Rectum,Florida,Okeechobee County,12093,No,50.4,41.7,-21.4,60.5,-1.4,24,falling,-12,41.7,-21.4,60.5,-1.4
@@ -1447,7 +1447,7 @@
 75, 2011-2015,Colon & Rectum,Florida,Gilchrist County,12041,Yes,22.4,14.6,-10.6,33.3,52.7,5,stable,16.8,14.6,-10.6,33.3,52.7
 76, 2011-2015,Colon & Rectum,Florida,Liberty County,12077,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Florida,Florida,12000,***,59.7,59.3,-5.4,60.1,-1.7,16548,falling,-3.6,59.3,-5.4,60.1,-1.7
-9, 2011-2015,Lung & Bronchus,Florida,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Florida,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Florida,Union County,12125,***,215.1,183.2,-24,251.1,25,38,stable,-2.5,183.2,-24,251.1,25
 11, 2011-2015,Lung & Bronchus,Florida,Dixie County,12029,***,102.4,85.3,-21.6,122.4,14.3,27,stable,-5.3,85.3,-21.6,122.4,14.3
 12, 2011-2015,Lung & Bronchus,Florida,Okeechobee County,12093,***,100.3,88.4,-8.3,113.4,12,53,stable,1.3,88.4,-8.3,113.4,12
@@ -1516,7 +1516,7 @@
 75, 2011-2015,Lung & Bronchus,Florida,Miami-Dade County,12086,***,42,41,-7,43,4.3,1316,stable,-1.5,41,-7,43,4.3
 76, 2011-2015,Lung & Bronchus,Florida,Collier County,12021,***,37,34.9,-11.7,39.2,-5.2,251,falling,-8.5,34.9,-11.7,39.2,-5.2
 8, 2011-2015,Prostate,Florida,Florida,12000,***,97.4,96.7,-13.4,98.2,-8.1,12667,falling,-10.8,96.7,-13.4,98.2,-8.1
-9, 2011-2015,Prostate,Florida,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Florida,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Florida,Union County,12125,***,201,167.1,-23.7,241.1,37.7,28,stable,2.5,167.1,-23.7,241.1,37.7
 11, 2011-2015,Prostate,Florida,Duval County,12031,***,118.6,113.9,-21.9,123.4,-13.2,526,falling,-17.6,113.9,-21.9,123.4,-13.2
 12, 2011-2015,Prostate,Florida,Bay County,12005,***,118.4,109.2,-22.2,128.2,-10.4,127,falling,-16.5,109.2,-22.2,128.2,-10.4
@@ -1585,7 +1585,7 @@
 75, 2011-2015,Prostate,Florida,Jackson County,12063,***,48.1,37.9,-36,60.5,7.1,16,stable,-17.2,37.9,-36,60.5,7.1
 76, 2011-2015,Prostate,Florida,Holmes County,12059,***,33.3,20.7,*,51.4,*,4,*,*,20.7,*,51.4,*
 8, 2011-2015,Breast,Georgia,Georgia(3,13000,***,125.2,123.8,-0.2,126.5,0.3,6974,stable,0,123.8,-0.2,126.5,0.3
-9, 2011-2015,Breast,Georgia,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Georgia,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Georgia,Quitman County,13239,***,190.8,108.9,*,321.8,*,4,*,*,108.9,*,321.8,*
 11, 2011-2015,Breast,Georgia,Warren County,13301,***,185.2,126.7,*,263.4,*,8,*,*,126.7,*,263.4,*
 12, 2011-2015,Breast,Georgia,Wilkes County,13317,***,169.9,128.4,1.2,221.8,8.4,13,rising,4.7,128.4,1.2,221.8,8.4
@@ -1746,7 +1746,7 @@
 167, 2011-2015,Breast,Georgia,Webster County,13307,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 168, 2011-2015,Breast,Georgia,Wheeler County,13309,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Georgia,Georgia(3,13000,No,41.8,41.2,-1.5,42.4,1.3,4230,stable,-0.1,41.2,-1.5,42.4,1.3
-9, 2011-2015,Colon & Rectum,Georgia,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Georgia,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Georgia,Turner County,13287,No,88.6,63.3,*,120.8,*,9,*,*,63.3,*,120.8,*
 11, 2011-2015,Colon & Rectum,Georgia,Chattahoochee County,13053,No,81.5,46.4,*,130.6,*,3,*,*,46.4,*,130.6,*
 12, 2011-2015,Colon & Rectum,Georgia,Peach County,13225,No,66.7,53.6,-2.7,82.1,4.6,19,stable,0.9,53.6,-2.7,82.1,4.6
@@ -1907,7 +1907,7 @@
 167, 2011-2015,Colon & Rectum,Georgia,Warren County,13301,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 168, 2011-2015,Colon & Rectum,Georgia,Webster County,13307,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Georgia,Georgia(3,13000,***,64.9,64.2,-3,65.7,-1.4,6525,falling,-2.2,64.2,-3,65.7,-1.4
-9, 2011-2015,Lung & Bronchus,Georgia,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Georgia,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Georgia,Crawford County,13079,***,111.3,88.9,-1.3,138.1,5,18,stable,1.8,88.9,-1.3,138.1,5
 11, 2011-2015,Lung & Bronchus,Georgia,Miller County,13201,***,100,70.8,-4,138.1,4.6,8,stable,0.2,70.8,-4,138.1,4.6
 12, 2011-2015,Lung & Bronchus,Georgia,Heard County,13149,***,99.8,77.6,-2.7,126.7,2.9,15,stable,0,77.6,-2.7,126.7,2.9
@@ -2068,7 +2068,7 @@
 167, 2011-2015,Lung & Bronchus,Georgia,Taliaferro County,13265,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 168, 2011-2015,Lung & Bronchus,Georgia,Webster County,13307,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Georgia,Georgia(3,13000,***,123.3,121.8,-8.4,124.7,-4.2,6035,falling,-6.3,121.8,-8.4,124.7,-4.2
-9, 2011-2015,Prostate,Georgia,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Georgia,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Georgia,Dougherty County,13095,***,165.3,148.7,-4.7,183.3,-1,77,falling,-2.9,148.7,-4.7,183.3,-1
 11, 2011-2015,Prostate,Georgia,Clinch County,13065,***,164,108.3,-7.7,239,3.7,7,stable,-2.2,108.3,-7.7,239,3.7
 12, 2011-2015,Prostate,Georgia,Towns County,13281,***,163,129.8,-4.7,205.9,3.4,18,stable,-0.7,129.8,-4.7,205.9,3.4
@@ -2229,35 +2229,35 @@
 167, 2011-2015,Prostate,Georgia,Taliaferro County,13265,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 168, 2011-2015,Prostate,Georgia,Treutlen County,13283,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Hawaii,Hawaii(3,15000,***,136.1,132.5,-0.4,139.8,0.5,1157,stable,0.1,132.5,-0.4,139.8,0.5
-9, 2011-2015,Breast,Hawaii,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Hawaii,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Hawaii,Honolulu County,15003,***,140.6,136.2,0.5,145.1,2.3,817,rising,1.4,136.2,0.5,145.1,2.3
 11, 2011-2015,Breast,Hawaii,Hawaii County,15001,***,129.7,120.3,-3.1,139.6,1,161,stable,-1.1,120.3,-3.1,139.6,1
 12, 2011-2015,Breast,Hawaii,Maui County,15009,***,125.7,115.6,-2.5,136.4,2.4,124,stable,-0.1,115.6,-2.5,136.4,2.4
 13, 2011-2015,Breast,Hawaii,Kauai County,15007,***,119.6,105.2,-1.7,135.5,3.7,55,stable,0.9,105.2,-1.7,135.5,3.7
 14, 2011-2015,Breast,Hawaii,Kalawao County,15005,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Hawaii,Hawaii(3,15000,No,42.4,41,-2.3,43.9,-1.4,717,falling,-1.9,41,-2.3,43.9,-1.4
-9, 2011-2015,Colon & Rectum,Hawaii,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Hawaii,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Hawaii,Honolulu County,15003,No,44.1,42.4,-2.1,45.9,0.1,510,stable,-1,42.4,-2.1,45.9,0.1
 11, 2011-2015,Colon & Rectum,Hawaii,Maui County,15009,No,43.6,39.4,-5.1,48.1,0.3,85,stable,-2.4,39.4,-5.1,48.1,0.3
 12, 2011-2015,Colon & Rectum,Hawaii,Kauai County,15007,Yes,37.3,31.7,-6.8,43.6,-0.3,34,falling,-3.6,31.7,-6.8,43.6,-0.3
 13, 2011-2015,Colon & Rectum,Hawaii,Hawaii County,15001,Yes,36.1,32.6,-3.2,39.8,0.9,89,stable,-1.2,32.6,-3.2,39.8,0.9
 14, 2011-2015,Colon & Rectum,Hawaii,Kalawao County,15005,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Hawaii,Hawaii(3,15000,***,46.2,44.7,-2.3,47.7,-1.5,798,falling,-1.9,44.7,-2.3,47.7,-1.5
-9, 2011-2015,Lung & Bronchus,Hawaii,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Hawaii,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Hawaii,Honolulu County,15003,***,47.3,45.5,-3.4,49.1,-0.9,560,falling,-2.2,45.5,-3.4,49.1,-0.9
 11, 2011-2015,Lung & Bronchus,Hawaii,Maui County,15009,***,44.7,40.5,-3.5,49.3,-0.3,88,falling,-1.9,40.5,-3.5,49.3,-0.3
 12, 2011-2015,Lung & Bronchus,Hawaii,Hawaii County,15001,***,44.6,40.9,-5.5,48.6,-1.8,114,falling,-3.7,40.9,-5.5,48.6,-1.8
 13, 2011-2015,Lung & Bronchus,Hawaii,Kauai County,15007,***,39.4,33.6,-6.7,45.9,0.1,36,stable,-3.4,33.6,-6.7,45.9,0.1
 14, 2011-2015,Lung & Bronchus,Hawaii,Kalawao County,15005,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Hawaii,Hawaii(3,15000,***,86.9,84,-8.9,89.9,-2.7,716,falling,-5.9,84,-8.9,89.9,-2.7
-9, 2011-2015,Prostate,Hawaii,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Hawaii,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Hawaii,Honolulu County,15003,***,100,96.2,-7.2,103.9,7.4,547,stable,-0.2,96.2,-7.2,103.9,7.4
 11, 2011-2015,Prostate,Hawaii,Kauai County,15007,***,98.2,85.3,-5.8,112.7,2.4,46,stable,-1.8,85.3,-5.8,112.7,2.4
 12, 2011-2015,Prostate,Hawaii,Maui County,15009,***,56.7,49.9,-7.6,64.2,-4,55,falling,-5.8,49.9,-7.6,64.2,-4
 13, 2011-2015,Prostate,Hawaii,Hawaii County,15001,***,49.2,43.8,-10,55.2,-4.9,67,falling,-7.5,43.8,-10,55.2,-4.9
 14, 2011-2015,Prostate,Hawaii,Kalawao County,15005,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Idaho,Idaho,16000,***,122.2,118.9,-1.3,125.5,4.4,1097,stable,1.5,118.9,-1.3,125.5,4.4
-9, 2011-2015,Breast,Idaho,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Idaho,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Idaho,Owyhee County,16073,***,165.5,121.7,-41.5,220.1,51.5,10,stable,-5.8,121.7,-41.5,220.1,51.5
 11, 2011-2015,Breast,Idaho,Boise County,16015,***,161.9,110.8,-5.7,232.8,49,8,stable,18.5,110.8,-5.7,232.8,49
 12, 2011-2015,Breast,Idaho,Latah County,16057,***,158.2,131.6,-11.3,188.5,51.2,27,stable,15.8,131.6,-11.3,188.5,51.2
@@ -2303,7 +2303,7 @@
 52, 2011-2015,Breast,Idaho,Lewis County,16061,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 53, 2011-2015,Breast,Idaho,Oneida County,16071,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Idaho,Idaho,16000,Yes,36.3,35,-5,37.6,1,630,stable,-2,35,-5,37.6,1
-9, 2011-2015,Colon & Rectum,Idaho,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Idaho,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Idaho,Lemhi County,16059,No,57.7,41.3,-37.6,80.7,15.3,9,stable,-15.2,41.3,-37.6,80.7,15.3
 11, 2011-2015,Colon & Rectum,Idaho,Payette County,16075,No,51.2,39.3,-24.9,65.6,39.3,13,stable,2.3,39.3,-24.9,65.6,39.3
 12, 2011-2015,Colon & Rectum,Idaho,Elmore County,16039,No,49.4,37.7,-25.3,63.6,22.8,12,stable,-4.2,37.7,-25.3,63.6,22.8
@@ -2349,7 +2349,7 @@
 52, 2011-2015,Colon & Rectum,Idaho,Power County,16077,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 53, 2011-2015,Colon & Rectum,Idaho,Teton County,16081,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Idaho,Idaho,16000,***,50.7,49.2,-4.5,52.3,1.8,898,stable,-1.4,49.2,-4.5,52.3,1.8
-9, 2011-2015,Lung & Bronchus,Idaho,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Idaho,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Idaho,Shoshone County,16079,***,94.7,76.7,-16.1,116.5,-2.7,20,falling,-9.6,76.7,-16.1,116.5,-2.7
 11, 2011-2015,Lung & Bronchus,Idaho,Benewah County,16009,***,76.7,56.7,-30.7,102.5,49.1,11,stable,1.6,56.7,-30.7,102.5,49.1
 12, 2011-2015,Lung & Bronchus,Idaho,Elmore County,16039,***,70.9,56.6,-31,87.6,6.2,17,stable,-14.4,56.6,-31,87.6,6.2
@@ -2395,7 +2395,7 @@
 52, 2011-2015,Lung & Bronchus,Idaho,Oneida County,16071,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 53, 2011-2015,Lung & Bronchus,Idaho,Teton County,16081,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Idaho,Idaho,16000,***,112.2,109.1,-15.9,115.5,-3,1004,falling,-9.7,109.1,-15.9,115.5,-3
-9, 2011-2015,Prostate,Idaho,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Idaho,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Idaho,Lincoln County,16063,***,169.3,106.7,-39.3,255.6,6.9,5,stable,-19.5,106.7,-39.3,255.6,6.9
 11, 2011-2015,Prostate,Idaho,Washington County,16087,***,136.3,102.3,-20.5,180.2,20.8,11,stable,-2,102.3,-20.5,180.2,20.8
 12, 2011-2015,Prostate,Idaho,Payette County,16075,***,130.8,104.6,-37.2,161.9,-12.7,18,falling,-26,104.6,-37.2,161.9,-12.7
@@ -2441,7 +2441,7 @@
 52, 2011-2015,Prostate,Idaho,Camas County,16025,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 53, 2011-2015,Prostate,Idaho,Clark County,16033,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Illinois,Illinois,17000,***,131.7,130.5,-0.7,132.9,2.8,9947,stable,1.1,130.5,-0.7,132.9,2.8
-9, 2011-2015,Breast,Illinois,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Illinois,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Illinois,Scott County,17171,***,214.4,149.2,-22.1,300.7,39.6,8,stable,4.3,149.2,-22.1,300.7,39.6
 11, 2011-2015,Breast,Illinois,Ford County,17053,***,170.5,135,-24.2,213.4,10.9,17,stable,-8.3,135,-24.2,213.4,10.9
 12, 2011-2015,Breast,Illinois,Greene County,17061,***,161.1,124.2,-39.2,206.2,57.7,14,stable,-2.1,124.2,-39.2,206.2,57.7
@@ -2545,7 +2545,7 @@
 110, 2011-2015,Breast,Illinois,Hamilton County,17065,***,76.8,48.7,-41.5,117.6,70.1,5,stable,-0.3,48.7,-41.5,117.6,70.1
 111, 2011-2015,Breast,Illinois,Cumberland County,17035,***,64.7,39.8,-24.6,100.4,30.2,5,stable,-0.9,39.8,-24.6,100.4,30.2
 8, 2011-2015,Colon & Rectum,Illinois,Illinois,17000,No,43.9,43.4,-4,44.4,0,6250,stable,-2,43.4,-4,44.4,0
-9, 2011-2015,Colon & Rectum,Illinois,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Illinois,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Illinois,Wabash County,17185,No,69,52.1,-22.5,90.2,32.3,12,stable,1.2,52.1,-22.5,90.2,32.3
 11, 2011-2015,Colon & Rectum,Illinois,Stark County,17175,No,68.1,43.9,-54.6,102,75.8,6,stable,-10.6,43.9,-54.6,102,75.8
 12, 2011-2015,Colon & Rectum,Illinois,Jasper County,17079,No,67.6,48.9,-23.7,91.8,17.8,9,stable,-5.2,48.9,-23.7,91.8,17.8
@@ -2649,7 +2649,7 @@
 110, 2011-2015,Colon & Rectum,Illinois,Pope County,17151,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 111, 2011-2015,Colon & Rectum,Illinois,Pulaski County,17153,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Illinois,Illinois,17000,***,66,65.4,-3.4,66.6,0.5,9401,stable,-1.5,65.4,-3.4,66.6,0.5
-9, 2011-2015,Lung & Bronchus,Illinois,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Illinois,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Illinois,Pulaski County,17153,***,124.1,92.5,-32.5,164.5,52.7,11,stable,1.6,92.5,-32.5,164.5,52.7
 11, 2011-2015,Lung & Bronchus,Illinois,Franklin County,17055,***,113.8,101.6,-8,127.2,12.8,65,stable,1.9,101.6,-8,127.2,12.8
 12, 2011-2015,Lung & Bronchus,Illinois,Hardin County,17069,***,109.7,77,-18.1,154.7,79.6,8,stable,21.3,77,-18.1,154.7,79.6
@@ -2753,7 +2753,7 @@
 110, 2011-2015,Lung & Bronchus,Illinois,Kane County,17089,***,52.9,50,-10.8,56,-0.2,262,falling,-5.6,50,-10.8,56,-0.2
 111, 2011-2015,Lung & Bronchus,Illinois,DuPage County,17043,***,52.8,50.7,-6.6,54.9,2.2,524,stable,-2.3,50.7,-6.6,54.9,2.2
 8, 2011-2015,Prostate,Illinois,Illinois,17000,***,114.9,113.8,-11.2,116.1,-0.4,7862,falling,-5.9,113.8,-11.2,116.1,-0.4
-9, 2011-2015,Prostate,Illinois,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Illinois,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Illinois,Jefferson County,17081,***,158.5,136.9,-17.2,182.8,13.4,40,stable,-3.1,136.9,-17.2,182.8,13.4
 11, 2011-2015,Prostate,Illinois,Effingham County,17049,***,157.4,133.9,-29.1,184.1,30.1,33,stable,-4,133.9,-29.1,184.1,30.1
 12, 2011-2015,Prostate,Illinois,Jasper County,17079,***,157.4,116.9,-57.5,208.7,53,10,stable,-19.3,116.9,-57.5,208.7,53
@@ -2857,7 +2857,7 @@
 110, 2011-2015,Prostate,Illinois,Johnson County,17087,***,68,47.1,-25,96.5,21.4,7,stable,-4.6,47.1,-25,96.5,21.4
 111, 2011-2015,Prostate,Illinois,Henderson County,17071,***,61.5,36.9,-38.4,101.8,79.2,4,stable,5.1,36.9,-38.4,101.8,79.2
 8, 2011-2015,Breast,Indiana,Indiana,18000,***,121.7,120.2,-0.9,123.3,2.4,4735,stable,0.7,120.2,-0.9,123.3,2.4
-9, 2011-2015,Breast,Indiana,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Indiana,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Indiana,Tipton County,18159,***,146.4,114.7,-18.9,185.1,25.4,16,stable,0.9,114.7,-18.9,185.1,25.4
 11, 2011-2015,Breast,Indiana,Rush County,18139,***,145.3,113.8,-22.3,183.2,23.6,16,stable,-2,113.8,-22.3,183.2,23.6
 12, 2011-2015,Breast,Indiana,Knox County,18083,***,142.5,121.7,-14,166.2,24.7,36,stable,3.6,121.7,-14,166.2,24.7
@@ -2951,7 +2951,7 @@
 100, 2011-2015,Breast,Indiana,Union County,18161,***,75.4,45,-29.1,121,27.2,4,stable,-5.1,45,-29.1,121,27.2
 101, 2011-2015,Breast,Indiana,Fayette County,18041,***,73.5,55.6,-14.4,96,5.3,12,stable,-5,55.6,-14.4,96,5.3
 8, 2011-2015,Colon & Rectum,Indiana,Indiana,18000,No,42.9,42.2,-2.6,43.6,-0.2,3148,falling,-1.4,42.2,-2.6,43.6,-0.2
-9, 2011-2015,Colon & Rectum,Indiana,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Indiana,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Indiana,Jay County,18075,No,68.7,54.9,-10.8,85,13,18,stable,0.4,54.9,-10.8,85,13
 11, 2011-2015,Colon & Rectum,Indiana,Ohio County,18115,No,62.7,41.1,-46.7,93.5,48.2,6,stable,-11.2,41.1,-46.7,93.5,48.2
 12, 2011-2015,Colon & Rectum,Indiana,Orange County,18117,No,60.2,46.9,-20.7,76.3,13.1,15,stable,-5.3,46.9,-20.7,76.3,13.1
@@ -3045,7 +3045,7 @@
 100, 2011-2015,Colon & Rectum,Indiana,Hamilton County,18057,Yes,33.4,30.2,-16.3,36.7,13.4,88,stable,-2.6,30.2,-16.3,36.7,13.4
 101, 2011-2015,Colon & Rectum,Indiana,Boone County,18011,Yes,32.1,26.1,-23,39,17.5,21,stable,-4.9,26.1,-23,39,17.5
 8, 2011-2015,Lung & Bronchus,Indiana,Indiana,18000,***,72.8,71.9,-2.7,73.7,0.8,5422,stable,-1,71.9,-2.7,73.7,0.8
-9, 2011-2015,Lung & Bronchus,Indiana,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Indiana,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Indiana,Crawford County,18025,***,101.9,79,-13.2,129.9,2.5,14,stable,-5.7,79,-13.2,129.9,2.5
 11, 2011-2015,Lung & Bronchus,Indiana,Putnam County,18133,***,99.7,86.9,0.3,114,11.7,44,rising,5.8,86.9,0.3,114,11.7
 12, 2011-2015,Lung & Bronchus,Indiana,Starke County,18149,***,99.1,83.9,-4.2,116.4,26.1,31,stable,9.9,83.9,-4.2,116.4,26.1
@@ -3139,7 +3139,7 @@
 100, 2011-2015,Lung & Bronchus,Indiana,Union County,18161,***,53,34.2,-34.1,79.4,53.9,5,stable,0.7,34.2,-34.1,79.4,53.9
 101, 2011-2015,Lung & Bronchus,Indiana,Hamilton County,18057,***,46.4,42.5,-13,50.5,10.7,112,stable,-1.8,42.5,-13,50.5,10.7
 8, 2011-2015,Prostate,Indiana,Indiana,18000,***,92.7,91.2,-9.7,94.1,-2.6,3313,falling,-6.2,91.2,-9.7,94.1,-2.6
-9, 2011-2015,Prostate,Indiana,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Indiana,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Indiana,Posey County,18129,***,124.4,100.3,-36.2,152.8,11.1,20,stable,-15.8,100.3,-36.2,152.8,11.1
 11, 2011-2015,Prostate,Indiana,Hendricks County,18063,***,117.9,106.9,-12,129.8,1.6,91,stable,-5.5,106.9,-12,129.8,1.6
 12, 2011-2015,Prostate,Indiana,Porter County,18127,***,114.6,104.7,-16,125.1,6.3,109,stable,-5.5,104.7,-16,125.1,6.3
@@ -3233,7 +3233,7 @@
 100, 2011-2015,Prostate,Indiana,Clark County,18019,***,45.6,38.3,-21.2,54,30.9,29,stable,1.5,38.3,-21.2,54,30.9
 101, 2011-2015,Prostate,Indiana,Ohio County,18115,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Iowa,Iowa(3,19000,***,123.4,121.1,-0.4,125.8,0,2329,stable,-0.2,121.1,-0.4,125.8,0
-9, 2011-2015,Breast,Iowa,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Iowa,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Iowa,Monona County,19133,***,187.4,138.4,-0.4,249.5,4.2,12,stable,1.8,138.4,-0.4,249.5,4.2
 11, 2011-2015,Breast,Iowa,Winnebago County,19189,***,172.7,129.3,-0.4,226.7,4.1,13,stable,1.8,129.3,-0.4,226.7,4.1
 12, 2011-2015,Breast,Iowa,Adams County,19003,***,168.5,102,*,265.3,*,5,*,*,102,*,265.3,*
@@ -3334,7 +3334,7 @@
 107, 2011-2015,Breast,Iowa,Wayne County,19185,***,70.3,41.2,-4.8,116.3,1.6,4,stable,-1.7,41.2,-4.8,116.3,1.6
 108, 2011-2015,Breast,Iowa,Appanoose County,19007,***,70.3,48.2,-2.8,100.5,1.6,7,stable,-0.6,48.2,-2.8,100.5,1.6
 8, 2011-2015,Colon & Rectum,Iowa,Iowa(3,19000,No,44.9,43.9,-2.9,45.8,-2.3,1681,falling,-2.6,43.9,-2.9,45.8,-2.3
-9, 2011-2015,Colon & Rectum,Iowa,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Iowa,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Iowa,Adams County,19003,No,82.4,52.7,-0.8,125.7,4.9,5,stable,2,52.7,-0.8,125.7,4.9
 11, 2011-2015,Colon & Rectum,Iowa,Osceola County,19143,No,67.5,43.8,-2.1,100.2,3.4,6,stable,0.6,43.8,-2.1,100.2,3.4
 12, 2011-2015,Colon & Rectum,Iowa,Cass County,19029,No,64.9,49.4,-1.2,84.2,2.2,13,stable,0.5,49.4,-1.2,84.2,2.2
@@ -3435,7 +3435,7 @@
 107, 2011-2015,Colon & Rectum,Iowa,Bremer County,19017,Yes,29.3,21.6,-4.2,39.2,-0.7,10,falling,-2.5,21.6,-4.2,39.2,-0.7
 108, 2011-2015,Colon & Rectum,Iowa,Ringgold County,19159,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Iowa,Iowa(3,19000,***,63.6,62.5,-1.7,64.8,-0.6,2425,falling,-1.2,62.5,-1.7,64.8,-0.6
-9, 2011-2015,Lung & Bronchus,Iowa,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Iowa,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Iowa,Page County,19145,***,93.5,76.8,-0.7,113.2,2.2,23,stable,0.8,76.8,-0.7,113.2,2.2
 11, 2011-2015,Lung & Bronchus,Iowa,Monroe County,19135,***,91.7,68.7,-1,121,2.6,11,stable,0.8,68.7,-1,121,2.6
 12, 2011-2015,Lung & Bronchus,Iowa,Van Buren County,19177,***,86.4,63.8,0.4,115.7,3.2,10,rising,1.8,63.8,0.4,115.7,3.2
@@ -3536,7 +3536,7 @@
 107, 2011-2015,Lung & Bronchus,Iowa,Sioux County,19167,***,37.3,29,-1.4,47.2,1.7,15,stable,0.2,29,-1.4,47.2,1.7
 108, 2011-2015,Lung & Bronchus,Iowa,Audubon County,19009,***,36.6,21.3,*,61.4,*,4,*,*,21.3,*,61.4,*
 8, 2011-2015,Prostate,Iowa,Iowa(3,19000,***,108,105.8,-6.6,110.2,-3,1982,falling,-4.8,105.8,-6.6,110.2,-3
-9, 2011-2015,Prostate,Iowa,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Iowa,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Iowa,Crawford County,19047,***,170.9,136.8,-2,211.3,1.4,18,stable,-0.3,136.8,-2,211.3,1.4
 11, 2011-2015,Prostate,Iowa,Ida County,19093,***,166.4,120.8,-2.1,226.4,1.8,9,stable,-0.2,120.8,-2.1,226.4,1.8
 12, 2011-2015,Prostate,Iowa,Emmet County,19063,***,154.4,115.6,-2.8,203.6,0.4,11,stable,-1.2,115.6,-2.8,203.6,0.4
@@ -3637,7 +3637,7 @@
 107, 2011-2015,Prostate,Iowa,Van Buren County,19177,***,53.5,30.4,-5.9,90.8,-0.3,3,falling,-3.1,30.4,-5.9,90.8,-0.3
 108, 2011-2015,Prostate,Iowa,Adams County,19003,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Kansas,Kansas,20000,***,125.3,122.8,-3.8,127.8,4.8,2092,stable,0.4,122.8,-3.8,127.8,4.8
-9, 2011-2015,Breast,Kansas,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Kansas,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Kansas,Allen County,20001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Breast,Kansas,Anderson County,20003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Breast,Kansas,Atchison County,20005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -3744,7 +3744,7 @@
 113, 2011-2015,Breast,Kansas,Woodson County,20207,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 114, 2011-2015,Breast,Kansas,Wyandotte County,20209,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Colon & Rectum,Kansas,Kansas,20000,No,40.2,39.2,-4.6,41.2,1.9,1297,stable,-1.4,39.2,-4.6,41.2,1.9
-9, 2011-2015,Colon & Rectum,Kansas,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Kansas,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Kansas,Allen County,20001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Colon & Rectum,Kansas,Anderson County,20003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Colon & Rectum,Kansas,Atchison County,20005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -3851,7 +3851,7 @@
 113, 2011-2015,Colon & Rectum,Kansas,Woodson County,20207,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 114, 2011-2015,Colon & Rectum,Kansas,Wyandotte County,20209,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Lung & Bronchus,Kansas,Kansas,20000,***,60.9,59.7,-3.9,62.1,1.5,1991,stable,-1.2,59.7,-3.9,62.1,1.5
-9, 2011-2015,Lung & Bronchus,Kansas,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Kansas,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Kansas,Allen County,20001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Lung & Bronchus,Kansas,Anderson County,20003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Lung & Bronchus,Kansas,Atchison County,20005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -3958,7 +3958,7 @@
 113, 2011-2015,Lung & Bronchus,Kansas,Woodson County,20207,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 114, 2011-2015,Lung & Bronchus,Kansas,Wyandotte County,20209,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Prostate,Kansas,Kansas,20000,***,116.8,114.3,-17.2,119.2,-2.5,1838,falling,-10.1,114.3,-17.2,119.2,-2.5
-9, 2011-2015,Prostate,Kansas,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Kansas,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Kansas,Allen County,20001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Prostate,Kansas,Anderson County,20003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Prostate,Kansas,Atchison County,20005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -4065,7 +4065,7 @@
 113, 2011-2015,Prostate,Kansas,Woodson County,20207,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 114, 2011-2015,Prostate,Kansas,Wyandotte County,20209,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Breast,Kentucky,Kentucky(3,21000,***,125,123,0.2,126.9,0.9,3371,rising,0.5,123,0.2,126.9,0.9
-9, 2011-2015,Breast,Kentucky,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Kentucky,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Kentucky,Trimble County,21223,***,164.2,116.8,1.6,224.9,9.6,8,rising,5.5,116.8,1.6,224.9,9.6
 11, 2011-2015,Breast,Kentucky,Anderson County,21005,***,161.5,132.5,-3.4,195.4,2.8,22,stable,-0.4,132.5,-3.4,195.4,2.8
 12, 2011-2015,Breast,Kentucky,Carroll County,21041,***,150.9,109.7,-3.1,202.8,5.3,9,stable,1,109.7,-3.1,202.8,5.3
@@ -4187,7 +4187,7 @@
 128, 2011-2015,Breast,Kentucky,Metcalfe County,21169,***,76.3,48.7,-5.8,115,4.3,5,stable,-0.9,48.7,-5.8,115,4.3
 129, 2011-2015,Breast,Kentucky,Robertson County,21201,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Kentucky,Kentucky(3,21000,No,49.5,48.6,-2.1,50.4,-1.6,2506,falling,-1.9,48.6,-2.1,50.4,-1.6
-9, 2011-2015,Colon & Rectum,Kentucky,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Kentucky,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Kentucky,Bracken County,21023,No,90,65.3,-4.9,121.5,9.6,9,stable,2.1,65.3,-4.9,121.5,9.6
 11, 2011-2015,Colon & Rectum,Kentucky,Powell County,21197,No,86.7,65.7,-0.7,112.4,7.6,12,stable,3.4,65.7,-0.7,112.4,7.6
 12, 2011-2015,Colon & Rectum,Kentucky,Estill County,21065,No,76.7,58.8,-2.5,98.5,6.4,13,stable,1.9,58.8,-2.5,98.5,6.4
@@ -4309,7 +4309,7 @@
 128, 2011-2015,Colon & Rectum,Kentucky,Henry County,21103,Yes,31.4,20.8,-9.3,45.9,-0.2,6,falling,-4.8,20.8,-9.3,45.9,-0.2
 129, 2011-2015,Colon & Rectum,Kentucky,Robertson County,21201,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Kentucky,Kentucky(3,21000,***,93.5,92.3,-2.8,94.7,-1.1,4857,falling,-1.9,92.3,-2.8,94.7,-1.1
-9, 2011-2015,Lung & Bronchus,Kentucky,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Kentucky,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Kentucky,Owsley County,21189,***,179.7,134.8,0.9,236.3,7.7,11,rising,4.3,134.8,0.9,236.3,7.7
 11, 2011-2015,Lung & Bronchus,Kentucky,McCreary County,21147,***,154.1,130.5,-3,180.9,1.7,32,stable,-0.7,130.5,-3,180.9,1.7
 12, 2011-2015,Lung & Bronchus,Kentucky,Powell County,21197,***,140.9,115.2,-3.3,171,4.3,22,stable,0.4,115.2,-3.3,171,4.3
@@ -4431,7 +4431,7 @@
 128, 2011-2015,Lung & Bronchus,Kentucky,Hickman County,21105,***,69.5,45.5,-5.9,104.6,4,5,stable,-1.1,45.5,-5.9,104.6,4
 129, 2011-2015,Lung & Bronchus,Kentucky,Boyle County,21021,***,58.6,48.3,-6.3,70.6,-0.4,23,falling,-3.4,48.3,-6.3,70.6,-0.4
 8, 2011-2015,Prostate,Kentucky,Kentucky(3,21000,***,108.8,107,-3.9,110.7,-2.5,2716,falling,-3.2,107,-3.9,110.7,-2.5
-9, 2011-2015,Prostate,Kentucky,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Kentucky,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Kentucky,Trimble County,21223,***,144,99.3,-9.1,202.6,4.7,7,stable,-2.5,99.3,-9.1,202.6,4.7
 11, 2011-2015,Prostate,Kentucky,Taylor County,21217,***,140,113.9,-2.8,170.8,6.9,21,stable,2,113.9,-2.8,170.8,6.9
 12, 2011-2015,Prostate,Kentucky,Oldham County,21185,***,139.5,120.5,-4.5,160.7,-0.3,47,falling,-2.5,120.5,-4.5,160.7,-0.3
@@ -4553,7 +4553,7 @@
 128, 2011-2015,Prostate,Kentucky,Owsley County,21189,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 129, 2011-2015,Prostate,Kentucky,Robertson County,21201,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Louisiana,Louisiana(3,22000,No,46.5,45.6,-2.3,47.4,-1.8,2347,falling,-2.1,45.6,-2.3,47.4,-1.8
-9, 2011-2015,Colon & Rectum,Louisiana,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Louisiana,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Louisiana,East Carroll Parish,22035,No,77.3,52.4,-1.4,110.1,5.6,6,stable,2,52.4,-1.4,110.1,5.6
 11, 2011-2015,Colon & Rectum,Louisiana,Evangeline Parish,22039,No,73.1,61.1,-1,86.8,3.7,27,stable,1.3,61.1,-1,86.8,3.7
 12, 2011-2015,Colon & Rectum,Louisiana,St. Landry Parish,22097,No,65.2,58,-1.1,73,2.6,63,stable,0.7,58,-1.1,73,2.6
@@ -4619,7 +4619,7 @@
 72, 2011-2015,Colon & Rectum,Louisiana,St. Helena Parish,22091,Yes,35.8,22.7,-8.2,54.4,2.8,5,stable,-2.8,22.7,-8.2,54.4,2.8
 73, 2011-2015,Colon & Rectum,Louisiana,Red River Parish,22081,Yes,35,21.1,-8.3,55.2,0.4,4,stable,-4.1,21.1,-8.3,55.2,0.4
 8, 2011-2015,Breast,Louisiana,Louisiana(3,22000,***,124.1,122.2,0.3,126.1,1.1,3340,rising,0.7,122.2,0.3,126.1,1.1
-9, 2011-2015,Breast,Louisiana,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Louisiana,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Louisiana,West Feliciana Parish,22125,***,148.7,108.9,-4.2,199.1,4.5,10,stable,0,108.9,-4.2,199.1,4.5
 11, 2011-2015,Breast,Louisiana,Claiborne Parish,22027,***,148.7,114,-2.8,191.1,5.5,14,stable,1.2,114,-2.8,191.1,5.5
 12, 2011-2015,Breast,Louisiana,St. Tammany Parish,22103,***,142.5,133.8,-0.9,151.6,1.2,214,stable,0.2,133.8,-0.9,151.6,1.2
@@ -4685,7 +4685,7 @@
 72, 2011-2015,Breast,Louisiana,Tensas Parish,22107,***,79.7,45.2,*,135.9,*,3,*,*,45.2,*,135.9,*
 73, 2011-2015,Breast,Louisiana,Cameron Parish,22023,***,78.2,46.2,*,126.8,*,4,*,*,46.2,*,126.8,*
 8, 2011-2015,Lung & Bronchus,Louisiana,Louisiana(3,22000,***,68.8,67.8,-2.5,69.9,-1.4,3515,falling,-2,67.8,-2.5,69.9,-1.4
-9, 2011-2015,Lung & Bronchus,Louisiana,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Louisiana,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Louisiana,Caldwell Parish,22021,***,103.9,80,-2,133.1,3.6,13,stable,0.8,80,-2,133.1,3.6
 11, 2011-2015,Lung & Bronchus,Louisiana,East Carroll Parish,22035,***,103.5,74.7,-0.8,140.1,7.3,9,stable,3.2,74.7,-0.8,140.1,7.3
 12, 2011-2015,Lung & Bronchus,Louisiana,St. Bernard Parish,22087,***,98.5,84.2,-0.7,114.4,5.4,37,stable,2.3,84.2,-0.7,114.4,5.4
@@ -4751,7 +4751,7 @@
 72, 2011-2015,Lung & Bronchus,Louisiana,Pointe Coupee Parish,22077,***,54.4,43.5,-5.8,67.6,-0.5,18,falling,-3.2,43.5,-5.8,67.6,-0.5
 73, 2011-2015,Lung & Bronchus,Louisiana,East Baton Rouge Parish,22033,***,52,49,-3.1,55.1,-0.9,232,falling,-2,49,-3.1,55.1,-0.9
 8, 2011-2015,Prostate,Louisiana,Louisiana(3,22000,***,137.4,135.3,-8,139.6,-3.3,3387,falling,-5.6,135.3,-8,139.6,-3.3
-9, 2011-2015,Prostate,Louisiana,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Louisiana,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Louisiana,West Baton Rouge Parish,22121,***,187.8,153.1,-3.4,228,1.4,23,stable,-1,153.1,-3.4,228,1.4
 11, 2011-2015,Prostate,Louisiana,St. James Parish,22093,***,185.8,152.8,-3.3,224.2,2.4,23,stable,-0.5,152.8,-3.3,224.2,2.4
 12, 2011-2015,Prostate,Louisiana,Catahoula Parish,22025,***,177.2,133.2,-3.9,231.9,3.7,11,stable,-0.2,133.2,-3.9,231.9,3.7
@@ -4817,7 +4817,7 @@
 72, 2011-2015,Prostate,Louisiana,East Carroll Parish,22035,***,86.6,47.8,-14.2,143.5,-1.7,3,falling,-8.2,47.8,-14.2,143.5,-1.7
 73, 2011-2015,Prostate,Louisiana,West Carroll Parish,22123,***,77.5,52.1,-15.4,112.4,-8,6,falling,-11.8,52.1,-15.4,112.4,-8
 8, 2011-2015,Breast,Maine,Maine,23000,***,125.7,122.4,-2.4,129.2,2.7,1161,stable,0.1,122.4,-2.4,129.2,2.7
-9, 2011-2015,Breast,Maine,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Maine,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Maine,Piscataquis County,23021,***,144.4,114.1,-21.3,181.1,25,18,stable,-0.9,114.1,-21.3,181.1,25
 11, 2011-2015,Breast,Maine,York County,23031,***,141.8,132.7,-8.9,151.5,7.5,196,stable,-1,132.7,-8.9,151.5,7.5
 12, 2011-2015,Breast,Maine,Knox County,23013,***,138.1,118.7,-11.7,160.2,19.7,42,stable,2.8,118.7,-11.7,160.2,19.7
@@ -4835,7 +4835,7 @@
 24, 2011-2015,Breast,Maine,Aroostook County,23003,***,105.8,92.7,-7.8,120.4,19.1,54,stable,4.8,92.7,-7.8,120.4,19.1
 25, 2011-2015,Breast,Maine,Somerset County,23025,***,99.3,84.9,-12,115.6,8.1,37,stable,-2.5,84.9,-12,115.6,8.1
 8, 2011-2015,Colon & Rectum,Maine,Maine,23000,Yes,37.4,36.1,-2.7,38.7,-1.7,671,falling,-2.2,36.1,-2.7,38.7,-1.7
-9, 2011-2015,Colon & Rectum,Maine,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Maine,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Maine,Washington County,23029,No,49.6,40.8,-26,60.1,9,24,stable,-10.2,40.8,-26,60.1,9
 11, 2011-2015,Colon & Rectum,Maine,Aroostook County,23003,No,44.3,38.6,-16.9,50.6,25.1,47,stable,2,38.6,-16.9,50.6,25.1
 12, 2011-2015,Colon & Rectum,Maine,Hancock County,23009,No,42.4,36,-17.8,49.8,-0.6,35,falling,-9.6,36,-17.8,49.8,-0.6
@@ -4853,7 +4853,7 @@
 24, 2011-2015,Colon & Rectum,Maine,Cumberland County,23005,Yes,35.4,32.6,-8.2,38.4,1.4,127,stable,-3.5,32.6,-8.2,38.4,1.4
 25, 2011-2015,Colon & Rectum,Maine,Sagadahoc County,23023,Yes,28.6,22.1,-22.3,36.6,10.5,14,stable,-7.4,22.1,-22.3,36.6,10.5
 8, 2011-2015,Lung & Bronchus,Maine,Maine,23000,***,72.5,70.7,-5,74.3,4.1,1344,stable,-0.6,70.7,-5,74.3,4.1
-9, 2011-2015,Lung & Bronchus,Maine,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Maine,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Maine,Washington County,23029,***,86.9,75.8,-10.1,99.5,22,46,stable,4.7,75.8,-10.1,99.5,22
 11, 2011-2015,Lung & Bronchus,Maine,Somerset County,23025,***,86.9,77.4,-15.1,97.4,15.6,63,stable,-0.9,77.4,-15.1,97.4,15.6
 12, 2011-2015,Lung & Bronchus,Maine,Penobscot County,23019,***,84.4,78.7,-5.8,90.5,9.7,168,stable,1.6,78.7,-5.8,90.5,9.7
@@ -4871,7 +4871,7 @@
 24, 2011-2015,Lung & Bronchus,Maine,Franklin County,23007,***,55.3,45.5,-11.3,66.8,17.5,23,stable,2.1,45.5,-11.3,66.8,17.5
 25, 2011-2015,Lung & Bronchus,Maine,Lincoln County,23015,***,51.7,43.5,-10.8,61.4,7.5,30,stable,-2.1,43.5,-10.8,61.4,7.5
 8, 2011-2015,Prostate,Maine,Maine,23000,***,93.6,90.8,-16.4,96.5,3.4,867,stable,-7,90.8,-16.4,96.5,3.4
-9, 2011-2015,Prostate,Maine,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Maine,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Maine,Hancock County,23009,***,122.7,107.7,-26.5,139.6,9.7,52,stable,-10.2,107.7,-26.5,139.6,9.7
 11, 2011-2015,Prostate,Maine,Waldo County,23027,***,114.7,97.3,-20.5,134.8,-5.2,34,falling,-13.2,97.3,-20.5,134.8,-5.2
 12, 2011-2015,Prostate,Maine,Aroostook County,23003,***,112.8,100.6,-20.8,126.3,19.9,65,stable,-2.6,100.6,-20.8,126.3,19.9
@@ -4889,7 +4889,7 @@
 24, 2011-2015,Prostate,Maine,Lincoln County,23015,***,79,65.3,-41.4,95.6,10.4,24,stable,-19.5,65.3,-41.4,95.6,10.4
 25, 2011-2015,Prostate,Maine,Piscataquis County,23021,***,76,57.5,-28.4,100.5,6.5,12,stable,-12.7,57.5,-28.4,100.5,6.5
 8, 2011-2015,Breast,Maryland,Maryland,24000,***,131.7,130,-1.6,133.4,2.4,4724,stable,0.3,130,-1.6,133.4,2.4
-9, 2011-2015,Breast,Maryland,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Maryland,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Maryland,Kent County,24029,***,151.5,123,-0.7,185.3,16.1,24,stable,7.3,123,-0.7,185.3,16.1
 11, 2011-2015,Breast,Maryland,Calvert County,24009,***,146.9,132.4,-13.1,162.7,8.4,80,stable,-2.9,132.4,-13.1,162.7,8.4
 12, 2011-2015,Breast,Maryland,Wicomico County,24045,***,138.4,124.9,-13.7,153.1,12.9,82,stable,-1.3,124.9,-13.7,153.1,12.9
@@ -4915,7 +4915,7 @@
 32, 2011-2015,Breast,Maryland,Somerset County,24039,***,112.2,88,-13,141.4,59.9,17,stable,17.9,88,-13,141.4,59.9
 33, 2011-2015,Breast,Maryland,Garrett County,24023,***,106.4,86.9,-1.4,129.4,21.3,23,stable,9.4,86.9,-1.4,129.4,21.3
 8, 2011-2015,Colon & Rectum,Maryland,Maryland,24000,Yes,37,36.4,-3.6,37.7,1.2,2420,stable,-1.2,36.4,-3.6,37.7,1.2
-9, 2011-2015,Colon & Rectum,Maryland,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Maryland,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Maryland,Dorchester County,24019,No,50.4,41,-24.5,61.4,12.3,22,stable,-7.9,41,-24.5,61.4,12.3
 11, 2011-2015,Colon & Rectum,Maryland,Somerset County,24039,No,47.9,37.3,-23.1,60.7,-1.7,14,falling,-13,37.3,-23.1,60.7,-1.7
 12, 2011-2015,Colon & Rectum,Maryland,Allegany County,24001,No,47.2,41.2,-16.5,53.9,16.5,47,stable,-1.4,41.2,-16.5,53.9,16.5
@@ -4941,7 +4941,7 @@
 32, 2011-2015,Colon & Rectum,Maryland,Talbot County,24041,Yes,29.5,23.4,-25.1,36.9,17.8,19,stable,-6.1,23.4,-25.1,36.9,17.8
 33, 2011-2015,Colon & Rectum,Maryland,Montgomery County,24031,Yes,29.3,27.9,-3.3,30.8,3.4,330,stable,0,27.9,-3.3,30.8,3.4
 8, 2011-2015,Lung & Bronchus,Maryland,Maryland,24000,***,57.4,56.6,-2.2,58.3,-1.2,3753,falling,-1.7,56.6,-2.2,58.3,-1.2
-9, 2011-2015,Lung & Bronchus,Maryland,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Maryland,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Maryland,Somerset County,24039,***,89.7,75.1,-25.4,106.3,2.9,28,stable,-12.4,75.1,-25.4,106.3,2.9
 11, 2011-2015,Lung & Bronchus,Maryland,Caroline County,24011,***,82.7,70.4,-25.7,96.7,11.2,33,stable,-9.1,70.4,-25.7,96.7,11.2
 12, 2011-2015,Lung & Bronchus,Maryland,Baltimore City,24510,***,80.2,77.1,-4.4,83.4,5.6,519,stable,0.5,77.1,-4.4,83.4,5.6
@@ -4967,7 +4967,7 @@
 32, 2011-2015,Lung & Bronchus,Maryland,Howard County,24027,***,43.6,40.2,-16.5,47.3,8.2,128,stable,-4.9,40.2,-16.5,47.3,8.2
 33, 2011-2015,Lung & Bronchus,Maryland,Montgomery County,24031,***,32.9,31.4,-7.1,34.5,-2.2,365,falling,-4.7,31.4,-7.1,34.5,-2.2
 8, 2011-2015,Prostate,Maryland,Maryland,24000,***,125.7,123.9,-8.9,127.5,1.2,4019,stable,-4,123.9,-8.9,127.5,1.2
-9, 2011-2015,Prostate,Maryland,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Maryland,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Maryland,Wicomico County,24045,***,149.6,135.1,-20.8,165.3,8.5,82,stable,-7.3,135.1,-20.8,165.3,8.5
 11, 2011-2015,Prostate,Maryland,Prince Georges County,24033,***,147,141.5,-12.6,152.7,9.1,607,stable,-2.3,141.5,-12.6,152.7,9.1
 12, 2011-2015,Prostate,Maryland,Baltimore City,24510,***,144.5,138.1,-10.9,151,0.1,421,stable,-5.6,138.1,-10.9,151,0.1
@@ -4993,7 +4993,7 @@
 32, 2011-2015,Prostate,Maryland,St. Marys County,24037,***,89.2,78.4,-17.6,101,13.2,52,stable,-3.4,78.4,-17.6,101,13.2
 33, 2011-2015,Prostate,Maryland,Garrett County,24023,***,80.3,63.9,3.1,100.1,26.2,17,rising,14.1,63.9,3.1,100.1,26.2
 8, 2011-2015,Prostate,Massachusetts,Massachusetts,25000,***,106.4,104.9,-17.1,107.9,1.7,4078,stable,-8.2,104.9,-17.1,107.9,1.7
-9, 2011-2015,Prostate,Massachusetts,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Massachusetts,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Massachusetts,Suffolk County,25025,***,120.6,115.2,-16.7,126.2,-0.4,391,falling,-8.9,115.2,-16.7,126.2,-0.4
 11, 2011-2015,Prostate,Massachusetts,Barnstable County,25001,***,116.3,109.4,-23.5,123.7,-0.8,221,falling,-12.9,109.4,-23.5,123.7,-0.8
 12, 2011-2015,Prostate,Massachusetts,Essex County,25009,***,113.4,108.9,-20.1,118,0.3,512,stable,-10.5,108.9,-20.1,118,0.3
@@ -5009,7 +5009,7 @@
 22, 2011-2015,Prostate,Massachusetts,Hampshire County,25015,***,82.7,74.3,-25.3,92,7.1,75,stable,-10.6,74.3,-25.3,92,7.1
 23, 2011-2015,Prostate,Massachusetts,Franklin County,25011,***,72.8,62.2,-37.9,84.9,-0.5,37,falling,-21.4,62.2,-37.9,84.9,-0.5
 8, 2011-2015,Breast,Massachusetts,Massachusetts,25000,***,137.6,136,-0.2,139.2,0.6,5747,stable,0.2,136,-0.2,139.2,0.6
-9, 2011-2015,Breast,Massachusetts,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Massachusetts,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Massachusetts,Nantucket County,25019,***,183.9,137,-13.9,242.2,20.4,11,stable,1.8,137,-13.9,242.2,20.4
 11, 2011-2015,Breast,Massachusetts,Dukes County,25007,***,167.7,135,-47.4,206.7,43.3,21,stable,-13.2,135,-47.4,206.7,43.3
 12, 2011-2015,Breast,Massachusetts,Barnstable County,25001,***,158.2,149.4,-10.5,167.5,9.2,308,stable,-1.1,149.4,-10.5,167.5,9.2
@@ -5025,7 +5025,7 @@
 22, 2011-2015,Breast,Massachusetts,Suffolk County,25025,***,122.7,117.7,-8.9,127.9,6.9,464,stable,-1.3,117.7,-8.9,127.9,6.9
 23, 2011-2015,Breast,Massachusetts,Franklin County,25011,***,115.5,101.9,-22,130.6,7.8,59,stable,-8.3,101.9,-22,130.6,7.8
 8, 2011-2015,Colon & Rectum,Massachusetts,Massachusetts,25000,Yes,37,36.4,-3.5,37.6,0.8,2915,stable,-1.4,36.4,-3.5,37.6,0.8
-9, 2011-2015,Colon & Rectum,Massachusetts,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Massachusetts,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Massachusetts,Nantucket County,25019,No,44,28.5,-1.5,65.1,68.7,5,stable,28.9,28.5,-1.5,65.1,68.7
 11, 2011-2015,Colon & Rectum,Massachusetts,Dukes County,25007,No,41.4,30.3,-6,55.8,58.8,10,stable,22.2,30.3,-6,55.8,58.8
 12, 2011-2015,Colon & Rectum,Massachusetts,Berkshire County,25003,No,40,35.9,-11,44.4,15.2,78,stable,1.3,35.9,-11,44.4,15.2
@@ -5041,7 +5041,7 @@
 22, 2011-2015,Colon & Rectum,Massachusetts,Franklin County,25011,Yes,34.9,29.6,-16.2,41,13.3,34,stable,-2.6,29.6,-16.2,41,13.3
 23, 2011-2015,Colon & Rectum,Massachusetts,Worcester County,25027,Yes,33.9,32.2,-2.8,35.7,6,314,stable,1.5,32.2,-2.8,35.7,6
 8, 2011-2015,Lung & Bronchus,Massachusetts,Massachusetts,25000,***,63.8,63,-2.4,64.6,-1.2,5047,falling,-1.8,63,-2.4,64.6,-1.2
-9, 2011-2015,Lung & Bronchus,Massachusetts,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Massachusetts,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Massachusetts,Plymouth County,25023,***,69.9,67,-5.8,72.9,-1.2,445,falling,-3.5,67,-5.8,72.9,-1.2
 11, 2011-2015,Lung & Bronchus,Massachusetts,Bristol County,25005,***,69.5,66.7,-6.6,72.4,-0.6,473,falling,-3.7,66.7,-6.6,72.4,-0.6
 12, 2011-2015,Lung & Bronchus,Massachusetts,Worcester County,25027,***,68,65.6,-2.3,70.5,2.4,625,stable,0,65.6,-2.3,70.5,2.4
@@ -5057,7 +5057,7 @@
 22, 2011-2015,Lung & Bronchus,Massachusetts,Dukes County,25007,***,56.6,43.9,-34.6,72.4,38.7,15,stable,-4.8,43.9,-34.6,72.4,38.7
 23, 2011-2015,Lung & Bronchus,Massachusetts,Hampshire County,25015,***,51.6,46.8,-7.1,56.7,17.8,92,stable,4.6,46.8,-7.1,56.7,17.8
 8, 2011-2015,Breast,Michigan,Michigan(5,26000,***,123.4 #  ,122.1,-4.3,124.7,1.3,7614,stable,-1.5,122.1,-4.3,124.7,1.3
-9, 2011-2015,Breast,Michigan,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Michigan,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Michigan,Grand Traverse County,26055,***,159.8 #  ,145,-8.6,175.7,12.9,94,stable,1.6,145,-8.6,175.7,12.9
 11, 2011-2015,Breast,Michigan,Arenac County,26011,***,150.6 #  ,117.7,-17.3,190.8,53.2,17,stable,12.6,117.7,-17.3,190.8,53.2
 12, 2011-2015,Breast,Michigan,Clare County,26035,***,140.1 #  ,117,-24.1,166.8,24.3,31,stable,-2.9,117,-24.1,166.8,24.3
@@ -5142,7 +5142,7 @@
 91, 2011-2015,Breast,Michigan,Cass County,26027,***,70.3 #  ,58,-12.6,84.6,34.8,26,stable,8.6,58,-12.6,84.6,34.8
 92, 2011-2015,Breast,Michigan,Keweenaw County,26083,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Michigan,Michigan(5,26000,Yes,37.7 #  ,37.2,-4,38.2,-0.7,4443,falling,-2.4,37.2,-4,38.2,-0.7
-9, 2011-2015,Colon & Rectum,Michigan,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Michigan,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Michigan,Gogebic County,26053,No,49.6 #  ,37.2,-22.2,65.5,53.4,12,stable,9.3,37.2,-22.2,65.5,53.4
 11, 2011-2015,Colon & Rectum,Michigan,Oscoda County,26135,No,49.4 #  ,31.7,-51.8,74.5,40.7,7,stable,-17.7,31.7,-51.8,74.5,40.7
 12, 2011-2015,Colon & Rectum,Michigan,Manistee County,26101,No,49.1 #  ,39.1,-20.4,61.2,40.9,19,stable,5.9,39.1,-20.4,61.2,40.9
@@ -5227,7 +5227,7 @@
 91, 2011-2015,Colon & Rectum,Michigan,Keweenaw County,26083,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 92, 2011-2015,Colon & Rectum,Michigan,Luce County,26095,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Michigan,Michigan(5,26000,***,65.6 #  ,64.9,-3.6,66.2,-1,7902,falling,-2.3,64.9,-3.6,66.2,-1
-9, 2011-2015,Lung & Bronchus,Michigan,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Michigan,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Michigan,Arenac County,26011,***,103.8 #  ,86.6,-18.1,124.2,32,27,stable,4,86.6,-18.1,124.2,32
 11, 2011-2015,Lung & Bronchus,Michigan,Osceola County,26133,***,90.6 #  ,76.2,-19.1,107.2,4.7,29,stable,-8,76.2,-19.1,107.2,4.7
 12, 2011-2015,Lung & Bronchus,Michigan,Schoolcraft County,26153,***,87.7 #  ,66.5,-21,115.3,42.8,13,stable,6.2,66.5,-21,115.3,42.8
@@ -5312,7 +5312,7 @@
 91, 2011-2015,Lung & Bronchus,Michigan,Clinton County,26037,***,35.1 #  ,29.8,-12.6,41.1,15.4,32,stable,0.4,29.8,-12.6,41.1,15.4
 92, 2011-2015,Lung & Bronchus,Michigan,Keweenaw County,26083,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Michigan,Michigan(5,26000,***,117.6 #  ,116.3,-19.9,118.9,-0.1,6909,falling,-10.5,116.3,-19.9,118.9,-0.1
-9, 2011-2015,Prostate,Michigan,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Michigan,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Michigan,Wayne County,26163,***,154.4,150.8,-15.6,158.2,-3.5,1444,falling,-9.8,150.8,-15.6,158.2,-3.5
 11, 2011-2015,Prostate,Michigan,Grand Traverse County,26055,***,154 #  ,139.5,-16.7,169.6,3.4,89,stable,-7.2,139.5,-16.7,169.6,3.4
 12, 2011-2015,Prostate,Michigan,Ingham County,26065,***,149.1 #  ,139.5,-27.5,159.1,3.1,198,stable,-13.5,139.5,-27.5,159.1,3.1
@@ -5397,7 +5397,7 @@
 91, 2011-2015,Prostate,Michigan,Crawford County,26039,***,49.5 #  ,33.6,-28.4,73.1,24.1,6,stable,-5.7,33.6,-28.4,73.1,24.1
 92, 2011-2015,Prostate,Michigan,Keweenaw County,26083,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Minnesota,Minnesota,27000,***,131.4,129.6,-2.7,133.3,2.9,4157,stable,0.1,129.6,-2.7,133.3,2.9
-9, 2011-2015,Breast,Minnesota,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Minnesota,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Minnesota,Aitkin County,27001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Breast,Minnesota,Anoka County,27003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Breast,Minnesota,Becker County,27005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -5486,7 +5486,7 @@
 95, 2011-2015,Breast,Minnesota,Wright County,27171,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 96, 2011-2015,Breast,Minnesota,Yellow Medicine County,27173,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Colon & Rectum,Minnesota,Minnesota,27000,Yes,38.3,37.6,-2.7,39,1.6,2336,stable,-0.5,37.6,-2.7,39,1.6
-9, 2011-2015,Colon & Rectum,Minnesota,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Minnesota,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Minnesota,Aitkin County,27001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Colon & Rectum,Minnesota,Anoka County,27003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Colon & Rectum,Minnesota,Becker County,27005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -5575,7 +5575,7 @@
 95, 2011-2015,Colon & Rectum,Minnesota,Wright County,27171,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 96, 2011-2015,Colon & Rectum,Minnesota,Yellow Medicine County,27173,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Lung & Bronchus,Minnesota,Minnesota,27000,***,55.2,54.4,-3.1,56,4.7,3402,stable,0.7,54.4,-3.1,56,4.7
-9, 2011-2015,Lung & Bronchus,Minnesota,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Minnesota,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Minnesota,Aitkin County,27001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Lung & Bronchus,Minnesota,Anoka County,27003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Lung & Bronchus,Minnesota,Becker County,27005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -5664,7 +5664,7 @@
 95, 2011-2015,Lung & Bronchus,Minnesota,Wright County,27171,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 96, 2011-2015,Lung & Bronchus,Minnesota,Yellow Medicine County,27173,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Prostate,Minnesota,Minnesota,27000,***,113.8,112.1,-16.3,115.5,4.7,3496,stable,-6.4,112.1,-16.3,115.5,4.7
-9, 2011-2015,Prostate,Minnesota,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Minnesota,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Minnesota,Aitkin County,27001,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 11, 2011-2015,Prostate,Minnesota,Anoka County,27003,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 12, 2011-2015,Prostate,Minnesota,Becker County,27005,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
@@ -5753,7 +5753,7 @@
 95, 2011-2015,Prostate,Minnesota,Wright County,27171,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 96, 2011-2015,Prostate,Minnesota,Yellow Medicine County,27173,***,¶ ,¶,¶, ¶,¶,¶,¶,¶,¶,¶, ¶,¶
 8, 2011-2015,Breast,Mississippi,Mississippi,28000,***,116,113.7,-2.5,118.3,2.5,2051,stable,0,113.7,-2.5,118.3,2.5
-9, 2011-2015,Breast,Mississippi,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Mississippi,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Mississippi,Yalobusha County,28161,***,161.1,123.3,-14.6,207.5,21.4,13,stable,1.9,123.3,-14.6,207.5,21.4
 11, 2011-2015,Breast,Mississippi,Jefferson County,28063,***,149.1,99.2,-45.6,215.3,17,6,stable,-20.2,99.2,-45.6,215.3,17
 12, 2011-2015,Breast,Mississippi,Calhoun County,28013,***,144,110.9,-7.4,184.2,3.5,14,stable,-2.1,110.9,-7.4,184.2,3.5
@@ -5837,7 +5837,7 @@
 90, 2011-2015,Breast,Mississippi,Benton County,28009,***,68.8,41.6,*,108.8,*,4,*,*,41.6,*,108.8,*
 91, 2011-2015,Breast,Mississippi,Issaquena County,28055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Mississippi,Mississippi,28000,No,48.4,47.3,-3.1,49.5,1.3,1623,stable,-1,47.3,-3.1,49.5,1.3
-9, 2011-2015,Colon & Rectum,Mississippi,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Mississippi,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Mississippi,Sharkey County,28125,No,84.5,53.7,*,127.6,*,5,*,*,53.7,*,127.6,*
 11, 2011-2015,Colon & Rectum,Mississippi,Holmes County,28051,No,78.1,61.6,-13.6,97.8,29.5,16,stable,5.8,61.6,-13.6,97.8,29.5
 12, 2011-2015,Colon & Rectum,Mississippi,Humphreys County,28053,No,77.2,54.2,-60.2,106.8,8.3,8,stable,-34.3,54.2,-60.2,106.8,8.3
@@ -5921,7 +5921,7 @@
 90, 2011-2015,Colon & Rectum,Mississippi,Lafayette County,28071,Yes,34.9,27.4,-41.7,43.8,68.1,16,stable,-1,27.4,-41.7,43.8,68.1
 91, 2011-2015,Colon & Rectum,Mississippi,Issaquena County,28055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Mississippi,Mississippi,28000,***,75,73.7,-3,76.3,1.3,2554,stable,-0.9,73.7,-3,76.3,1.3
-9, 2011-2015,Lung & Bronchus,Mississippi,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Mississippi,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Mississippi,Lawrence County,28077,***,102.2,80.6,-23.1,128,46.8,16,stable,6.2,80.6,-23.1,128,46.8
 11, 2011-2015,Lung & Bronchus,Mississippi,Yalobusha County,28161,***,101.7,81.6,-22.2,126,10.9,18,stable,-7.1,81.6,-22.2,126,10.9
 12, 2011-2015,Lung & Bronchus,Mississippi,Yazoo County,28163,***,97.9,82.2,-23.3,115.8,23.6,28,stable,-2.7,82.2,-23.3,115.8,23.6
@@ -6005,7 +6005,7 @@
 90, 2011-2015,Lung & Bronchus,Mississippi,Issaquena County,28055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 91, 2011-2015,Lung & Bronchus,Mississippi,Sharkey County,28125,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Mississippi,Mississippi,28000,***,130.6,128.1,-10.7,133.2,3,2123,stable,-4.1,128.1,-10.7,133.2,3
-9, 2011-2015,Prostate,Mississippi,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Mississippi,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Mississippi,Wilkinson County,28157,***,235,179.6,-7.2,302.7,36.3,13,stable,12.5,179.6,-7.2,302.7,36.3
 11, 2011-2015,Prostate,Mississippi,Jefferson County,28063,***,227.4,164.7,-23.2,306.5,36.8,9,stable,2.5,164.7,-23.2,306.5,36.8
 12, 2011-2015,Prostate,Mississippi,Franklin County,28037,***,209.8,157.2,-24.8,276.2,43.3,11,stable,3.8,157.2,-24.8,276.2,43.3
@@ -6089,7 +6089,7 @@
 90, 2011-2015,Prostate,Mississippi,Alcorn County,28003,***,76,60.6,-34.8,94.5,30.1,17,stable,-7.9,60.6,-34.8,94.5,30.1
 91, 2011-2015,Prostate,Mississippi,Issaquena County,28055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Missouri,Missouri,29000,***,128.2,126.5,-0.7,129.8,1.8,4775,stable,0.5,126.5,-0.7,129.8,1.8
-9, 2011-2015,Breast,Missouri,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Missouri,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Missouri,Grundy County,29079,***,226.5,173.3,-16.8,291,28,14,stable,3.2,173.3,-16.8,291,28
 11, 2011-2015,Breast,Missouri,Shelby County,29205,***,171.9,115.9,-31.3,246.8,83.7,7,stable,12.3,115.9,-31.3,246.8,83.7
 12, 2011-2015,Breast,Missouri,Adair County,29001,***,167,136.3,-41.6,202.9,51.5,22,stable,-6,136.3,-41.6,202.9,51.5
@@ -6206,7 +6206,7 @@
 123, 2011-2015,Breast,Missouri,Schuyler County,29197,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 124, 2011-2015,Breast,Missouri,Worth County,29227,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Missouri,Missouri,29000,No,41.7,41.1,-3.4,42.4,-1.4,2969,falling,-2.4,41.1,-3.4,42.4,-1.4
-9, 2011-2015,Colon & Rectum,Missouri,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Missouri,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Missouri,Mercer County,29129,No,66,37.6,*,109.8,*,3,*,*,37.6,*,109.8,*
 11, 2011-2015,Colon & Rectum,Missouri,Knox County,29103,No,65.5,38.6,-0.6,106.3,36.3,4,stable,16.4,38.6,-0.6,106.3,36.3
 12, 2011-2015,Colon & Rectum,Missouri,Linn County,29115,No,61.1,45.3,-12.1,81.1,14.5,11,stable,0.4,45.3,-12.1,81.1,14.5
@@ -6323,7 +6323,7 @@
 123, 2011-2015,Colon & Rectum,Missouri,Schuyler County,29197,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 124, 2011-2015,Colon & Rectum,Missouri,Worth County,29227,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Missouri,Missouri,29000,***,74.2,73.3,-3,75.1,-0.9,5403,falling,-1.9,73.3,-3,75.1,-0.9
-9, 2011-2015,Lung & Bronchus,Missouri,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Missouri,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Missouri,Madison County,29123,***,118.9,96.9,-1.2,145,16,21,stable,7.1,96.9,-1.2,145,16
 11, 2011-2015,Lung & Bronchus,Missouri,Dunklin County,29069,***,112.9,98.8,-9.5,128.7,12.8,47,stable,1,98.8,-9.5,128.7,12.8
 12, 2011-2015,Lung & Bronchus,Missouri,Ripley County,29181,***,110.9,91.5,-16.9,133.9,8,23,stable,-5.2,91.5,-16.9,133.9,8
@@ -6440,7 +6440,7 @@
 123, 2011-2015,Lung & Bronchus,Missouri,Osage County,29151,***,39.1,27,-27.9,55.3,27.3,7,stable,-4.2,27,-27.9,55.3,27.3
 124, 2011-2015,Lung & Bronchus,Missouri,Worth County,29227,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Missouri,Missouri,29000,***,98,96.5,-14.1,99.5,0.8,3455,stable,-6.9,96.5,-14.1,99.5,0.8
-9, 2011-2015,Prostate,Missouri,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Missouri,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Missouri,Mississippi County,29133,***,142.6,107.8,-5.1,185.3,58,12,stable,22.4,107.8,-5.1,185.3,58
 11, 2011-2015,Prostate,Missouri,St. Louis County,29189,***,128.4,124.2,-13.5,132.6,4.4,763,stable,-4.9,124.2,-13.5,132.6,4.4
 12, 2011-2015,Prostate,Missouri,St. Charles County,29183,***,123.2,116.3,-11.9,130.5,1,247,stable,-5.7,116.3,-11.9,130.5,1
@@ -6557,7 +6557,7 @@
 123, 2011-2015,Prostate,Missouri,Scotland County,29199,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 124, 2011-2015,Prostate,Missouri,Worth County,29227,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Montana,Montana,30000,***,123.2,119.2,-6.3,127.3,9.1,790,stable,1.1,119.2,-6.3,127.3,9.1
-9, 2011-2015,Breast,Montana,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Montana,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Montana,Fallon County,30025,***,192.4,107.8,-19.6,318.5,98.7,4,stable,26.4,107.8,-19.6,318.5,98.7
 11, 2011-2015,Breast,Montana,Teton County,30099,***,165,112,-57.2,236.3,69.9,7,stable,-14.7,112,-57.2,236.3,69.9
 12, 2011-2015,Breast,Montana,Richland County,30083,***,163.1,120.4,3.6,216.6,21.4,10,rising,12.2,120.4,3.6,216.6,21.4
@@ -6615,7 +6615,7 @@
 64, 2011-2015,Breast,Montana,Wheatland County,30107,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 65, 2011-2015,Breast,Montana,Wibaux County,30109,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Montana,Montana,30000,Yes,38.2,36.6,-3.2,39.8,4.3,486,stable,0.5,36.6,-3.2,39.8,4.3
-9, 2011-2015,Colon & Rectum,Montana,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Montana,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Montana,Custer County,30017,No,59,42.4,-38.9,80.4,78.8,9,stable,4.6,42.4,-38.9,80.4,78.8
 11, 2011-2015,Colon & Rectum,Montana,Big Horn County,30003,No,55.9,38.2,-27.7,78.9,71.3,7,stable,11.3,38.2,-27.7,78.9,71.3
 12, 2011-2015,Colon & Rectum,Montana,Phillips County,30071,No,55.9,33.9,-43.8,90.5,78.2,4,stable,0.1,33.9,-43.8,90.5,78.2
@@ -6673,7 +6673,7 @@
 64, 2011-2015,Colon & Rectum,Montana,Wheatland County,30107,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 65, 2011-2015,Colon & Rectum,Montana,Wibaux County,30109,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Montana,Montana,30000,***,55.7,53.9,-7.5,57.6,1.5,729,stable,-3.1,53.9,-7.5,57.6,1.5
-9, 2011-2015,Lung & Bronchus,Montana,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Montana,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Montana,Meagher County,30059,***,92.5,52.2,*,162.9,*,3,*,*,52.2,*,162.9,*
 11, 2011-2015,Lung & Bronchus,Montana,Powell County,30077,***,81.4,57.8,-17.7,112.9,34.9,8,stable,5.4,57.8,-17.7,112.9,34.9
 12, 2011-2015,Lung & Bronchus,Montana,Dawson County,30021,***,80.5,60,-36.9,106.5,26,11,stable,-10.8,60,-36.9,106.5,26
@@ -6731,7 +6731,7 @@
 64, 2011-2015,Lung & Bronchus,Montana,Wheatland County,30107,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 65, 2011-2015,Lung & Bronchus,Montana,Wibaux County,30109,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Montana,Montana,30000,***,111.1,107.5,-13.1,114.8,4.2,757,stable,-4.8,107.5,-13.1,114.8,4.2
-9, 2011-2015,Prostate,Montana,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Montana,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Montana,Flathead County,30029,***,154.1,140.4,-17.2,168.9,5.7,100,stable,-6.4,140.4,-17.2,168.9,5.7
 11, 2011-2015,Prostate,Montana,Sheridan County,30091,***,146.8,91,*,232,*,4,*,*,91,*,232,*
 12, 2011-2015,Prostate,Montana,Dawson County,30021,***,146,106.9,-39.4,196.2,15.5,10,stable,-16.4,106.9,-39.4,196.2,15.5
@@ -6789,7 +6789,7 @@
 64, 2011-2015,Prostate,Montana,Wheatland County,30107,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 65, 2011-2015,Prostate,Montana,Wibaux County,30109,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Nebraska,Nebraska,31000,***,124.1,121,-2.3,127.2,3.7,1342,stable,0.6,121,-2.3,127.2,3.7
-9, 2011-2015,Breast,Nebraska,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Nebraska,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Nebraska,Keith County,31101,***,178,127.7,-41.6,242.8,91.7,10,stable,5.8,127.7,-41.6,242.8,91.7
 11, 2011-2015,Breast,Nebraska,Phelps County,31137,***,164.6,119.8,5,221.4,90.1,10,rising,41.3,119.8,5,221.4,90.1
 12, 2011-2015,Breast,Nebraska,Cheyenne County,31033,***,161.5,117.8,-21.4,216.5,58.2,10,stable,11.5,117.8,-21.4,216.5,58.2
@@ -6884,7 +6884,7 @@
 101, 2011-2015,Breast,Nebraska,Webster County,31181,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 102, 2011-2015,Breast,Nebraska,Wheeler County,31183,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Nebraska,Nebraska,31000,***,59,57.5,-4.9,60.5,3.4,1252,stable,-0.8,57.5,-4.9,60.5,3.4
-9, 2011-2015,Lung & Bronchus,Nebraska,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Nebraska,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Nebraska,Morrill County,31123,***,81,53.4,-20,119.5,20.2,6,stable,-1.9,53.4,-20,119.5,20.2
 11, 2011-2015,Lung & Bronchus,Nebraska,Nemaha County,31127,***,80,55.3,-41.4,112.6,68.3,7,stable,-0.7,55.3,-41.4,112.6,68.3
 12, 2011-2015,Lung & Bronchus,Nebraska,Merrick County,31121,***,78.4,57,-25.5,106.3,18.1,9,stable,-6.2,57,-25.5,106.3,18.1
@@ -6979,7 +6979,7 @@
 101, 2011-2015,Lung & Bronchus,Nebraska,Thomas County,31171,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 102, 2011-2015,Lung & Bronchus,Nebraska,Wheeler County,31183,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Nebraska,Nebraska,31000,***,114.3,111.3,-9.9,117.3,1,1175,stable,-4.6,111.3,-9.9,117.3,1
-9, 2011-2015,Prostate,Nebraska,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Nebraska,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Nebraska,Boone County,31011,***,167.8,116.3,-54.8,238.4,10.7,7,stable,-29.2,116.3,-54.8,238.4,10.7
 11, 2011-2015,Prostate,Nebraska,Burt County,31021,***,163.2,118.2,-33.1,223.5,38.6,9,stable,-3.7,118.2,-33.1,223.5,38.6
 12, 2011-2015,Prostate,Nebraska,Pawnee County,31133,***,159.9,95.7,-35.9,263.8,74.2,4,stable,5.7,95.7,-35.9,263.8,74.2
@@ -7074,7 +7074,7 @@
 101, 2011-2015,Prostate,Nebraska,Thurston County,31173,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 102, 2011-2015,Prostate,Nebraska,Wheeler County,31183,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Nebraska,Nebraska,31000,No,43,41.7,-4.1,44.3,1.5,905,stable,-1.4,41.7,-4.1,44.3,1.5
-9, 2011-2015,Colon & Rectum,Nebraska,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Nebraska,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Nebraska,Kearney County,31099,No,71.7,47.8,-29,104.2,59.7,6,stable,6.5,47.8,-29,104.2,59.7
 11, 2011-2015,Colon & Rectum,Nebraska,Nuckolls County,31129,No,70.8,39.8,-62,117.2,55.7,4,stable,-23.1,39.8,-62,117.2,55.7
 12, 2011-2015,Colon & Rectum,Nebraska,Polk County,31143,No,69.6,43.9,-56,106.3,84.3,5,stable,-9.9,43.9,-56,106.3,84.3
@@ -7169,7 +7169,7 @@
 101, 2011-2015,Colon & Rectum,Nebraska,Webster County,31181,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 102, 2011-2015,Colon & Rectum,Nebraska,Wheeler County,31183,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Nevada,Nevada,32000,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
-9, 2011-2015,Breast,Nevada,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Nevada,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Nevada,Carson City,32510,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 11, 2011-2015,Breast,Nevada,Churchill County,32001,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 12, 2011-2015,Breast,Nevada,Clark County,32003,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
@@ -7188,7 +7188,7 @@
 25, 2011-2015,Breast,Nevada,Washoe County,32031,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 26, 2011-2015,Breast,Nevada,White Pine County,32033,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 8, 2011-2015,Colon & Rectum,Nevada,Nevada,32000,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
-9, 2011-2015,Colon & Rectum,Nevada,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Nevada,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Nevada,Carson City,32510,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 11, 2011-2015,Colon & Rectum,Nevada,Churchill County,32001,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 12, 2011-2015,Colon & Rectum,Nevada,Clark County,32003,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
@@ -7207,7 +7207,7 @@
 25, 2011-2015,Colon & Rectum,Nevada,Washoe County,32031,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 26, 2011-2015,Colon & Rectum,Nevada,White Pine County,32033,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 8, 2011-2015,Lung & Bronchus,Nevada,Nevada,32000,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
-9, 2011-2015,Lung & Bronchus,Nevada,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Nevada,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Nevada,Carson City,32510,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 11, 2011-2015,Lung & Bronchus,Nevada,Churchill County,32001,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 12, 2011-2015,Lung & Bronchus,Nevada,Clark County,32003,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
@@ -7226,7 +7226,7 @@
 25, 2011-2015,Lung & Bronchus,Nevada,Washoe County,32031,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 26, 2011-2015,Lung & Bronchus,Nevada,White Pine County,32033,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 8, 2011-2015,Prostate,Nevada,Nevada,32000,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
-9, 2011-2015,Prostate,Nevada,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Nevada,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Nevada,Carson City,32510,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 11, 2011-2015,Prostate,Nevada,Churchill County,32001,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 12, 2011-2015,Prostate,Nevada,Clark County,32003,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
@@ -7245,7 +7245,7 @@
 25, 2011-2015,Prostate,Nevada,Washoe County,32031,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 26, 2011-2015,Prostate,Nevada,White Pine County,32033,***,¶¶ ,¶¶,¶¶, ¶¶,¶¶,¶¶,¶¶,¶¶,¶¶,¶¶, ¶¶,¶¶
 8, 2011-2015,Colon & Rectum,New Hampshire,New Hampshire,33000,Yes,38.1,36.7,-5.6,39.5,-0.3,618,falling,-3,36.7,-5.6,39.5,-0.3
-9, 2011-2015,Colon & Rectum,New Hampshire,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,New Hampshire,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,New Hampshire,Belknap County,33001,No,45.4,38.9,-20.4,52.8,43,38,stable,6.7,38.9,-20.4,52.8,43
 11, 2011-2015,Colon & Rectum,New Hampshire,Strafford County,33017,No,42.7,37.8,-10.1,48,7.9,58,stable,-1.5,37.8,-10.1,48,7.9
 12, 2011-2015,Colon & Rectum,New Hampshire,Coos County,33007,No,40.7,33,-13.7,49.9,17.7,21,stable,0.8,33,-13.7,49.9,17.7
@@ -7257,7 +7257,7 @@
 18, 2011-2015,Colon & Rectum,New Hampshire,Merrimack County,33013,Yes,35.4,31.5,-5.4,39.7,7.9,64,stable,1,31.5,-5.4,39.7,7.9
 19, 2011-2015,Colon & Rectum,New Hampshire,Carroll County,33003,Yes,34.8,29,-21.7,41.8,13,28,stable,-5.9,29,-21.7,41.8,13
 8, 2011-2015,Prostate,New Hampshire,New Hampshire,33000,***,116.1,112.8,-16.7,119.5,-1.9,989,falling,-9.6,112.8,-16.7,119.5,-1.9
-9, 2011-2015,Prostate,New Hampshire,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,New Hampshire,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,New Hampshire,Belknap County,33001,***,134.9,120,-20,151.5,0.1,63,stable,-10.5,120,-20,151.5,0.1
 11, 2011-2015,Prostate,New Hampshire,Rockingham County,33015,***,128.1,120.7,-20.5,135.8,4.6,247,stable,-8.8,120.7,-20.5,135.8,4.6
 12, 2011-2015,Prostate,New Hampshire,Hillsborough County,33011,***,125.3,118.8,-13.7,132.2,-4.8,295,falling,-9.4,118.8,-13.7,132.2,-4.8
@@ -7269,7 +7269,7 @@
 18, 2011-2015,Prostate,New Hampshire,Cheshire County,33005,***,86.5,75,-29.5,99.4,9.2,43,stable,-12.3,75,-29.5,99.4,9.2
 19, 2011-2015,Prostate,New Hampshire,Sullivan County,33019,***,71.6,58.7,-13.5,87,20.6,23,stable,2.1,58.7,-13.5,87,20.6
 8, 2011-2015,Prostate,New Jersey,New Jersey(3,34000,***,134.7,133.2,-10,136.2,-1.8,6575,falling,-6,133.2,-10,136.2,-1.8
-9, 2011-2015,Prostate,New Jersey,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,New Jersey,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,New Jersey,Cape May County,34009,***,161.5,148.9,-2.2,175.2,-0.9,126,falling,-1.5,148.9,-2.2,175.2,-0.9
 11, 2011-2015,Prostate,New Jersey,Essex County,34013,***,158.8,152.9,-7.3,164.9,-2.2,580,falling,-4.8,152.9,-7.3,164.9,-2.2
 12, 2011-2015,Prostate,New Jersey,Burlington County,34005,***,147.8,141.1,-10.3,154.6,-2.1,390,falling,-6.3,141.1,-10.3,154.6,-2.1
@@ -7292,7 +7292,7 @@
 29, 2011-2015,Prostate,New Jersey,Hudson County,34017,***,111.8,106,-5.5,117.8,-3.4,297,falling,-4.4,106,-5.5,117.8,-3.4
 30, 2011-2015,Prostate,New Jersey,Hunterdon County,34019,***,103,92.8,-3.1,114.1,-1.1,83,falling,-2.1,92.8,-3.1,114.1,-1.1
 8, 2011-2015,Prostate,New Mexico,New Mexico(3,35000,***,82.4,80.1,-11.4,84.8,-7,991,falling,-9.2,80.1,-11.4,84.8,-7
-9, 2011-2015,Prostate,New Mexico,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,New Mexico,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,New Mexico,Chaves County,35005,***,119.2,103.5,-4.6,136.6,-2.1,42,falling,-3.3,103.5,-4.6,136.6,-2.1
 11, 2011-2015,Prostate,New Mexico,Luna County,35029,***,118.7,97.3,-2.9,143.9,-0.1,22,falling,-1.5,97.3,-2.9,143.9,-0.1
 12, 2011-2015,Prostate,New Mexico,Los Alamos County,35028,***,118.4,92.4,-4.4,150.4,-1,15,falling,-2.7,92.4,-4.4,150.4,-1
@@ -7327,7 +7327,7 @@
 41, 2011-2015,Prostate,New Mexico,Hidalgo County,35023,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 42, 2011-2015,Prostate,New Mexico,Union County,35059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,New York,New York,36000,***,131.7,130.7,-11.3,132.7,-0.6,14076,falling,-6.1,130.7,-11.3,132.7,-0.6
-9, 2011-2015,Prostate,New York,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,New York,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,New York,Chautauqua County,36013,***,204.7,191.3,-26.7,218.9,-2.2,180,falling,-15.3,191.3,-26.7,218.9,-2.2
 11, 2011-2015,Prostate,New York,Erie County,36029,***,161.8,156.9,-16.3,166.7,-2.2,883,falling,-9.6,156.9,-16.3,166.7,-2.2
 12, 2011-2015,Prostate,New York,Bronx County,36005,***,160.6,155.9,-10.6,165.4,-0.6,936,falling,-5.8,155.9,-10.6,165.4,-0.6
@@ -7391,7 +7391,7 @@
 70, 2011-2015,Prostate,New York,Schoharie County,36095,***,75.6,60.4,-28.6,94.1,27.8,18,stable,-4.5,60.4,-28.6,94.1,27.8
 71, 2011-2015,Prostate,New York,Hamilton County,36041,***,69.6,39.4,*,125.6,*,3,*,*,39.4,*,125.6,*
 8, 2011-2015,Breast,New Hampshire,New Hampshire,33000,***,143.9,140.2,-2.7,147.7,5.2,1232,stable,1.2,140.2,-2.7,147.7,5.2
-9, 2011-2015,Breast,New Hampshire,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,New Hampshire,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,New Hampshire,Belknap County,33001,***,154.8,137.9,-14.2,173.4,13.3,68,stable,-1.4,137.9,-14.2,173.4,13.3
 11, 2011-2015,Breast,New Hampshire,Merrimack County,33013,***,148.1,137,-12.6,160,16.6,142,stable,0.9,137,-12.6,160,16.6
 12, 2011-2015,Breast,New Hampshire,Rockingham County,33015,***,148,140.2,-4,156.1,8.8,289,stable,2.2,140.2,-4,156.1,8.8
@@ -7403,7 +7403,7 @@
 18, 2011-2015,Breast,New Hampshire,Carroll County,33003,***,126,110.1,-12,144.1,15.6,52,stable,0.9,110.1,-12,144.1,15.6
 19, 2011-2015,Breast,New Hampshire,Coos County,33007,***,107.3,88.5,-19.8,129.4,-2.6,26,falling,-11.6,88.5,-19.8,129.4,-2.6
 8, 2011-2015,Lung & Bronchus,New Hampshire,New Hampshire,33000,***,65.7,63.9,-5.1,67.5,-1,1084,falling,-3,63.9,-5.1,67.5,-1
-9, 2011-2015,Lung & Bronchus,New Hampshire,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,New Hampshire,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,New Hampshire,Strafford County,33017,***,76.6,70,-12.2,83.6,3,105,stable,-4.9,70,-12.2,83.6,3
 11, 2011-2015,Lung & Bronchus,New Hampshire,Rockingham County,33015,***,70.3,66.4,-6,74.5,-1.5,250,falling,-3.8,66.4,-6,74.5,-1.5
 12, 2011-2015,Lung & Bronchus,New Hampshire,Sullivan County,33019,***,69.7,60.6,-18.3,80,10.6,44,stable,-4.9,60.6,-18.3,80,10.6
@@ -7415,7 +7415,7 @@
 18, 2011-2015,Lung & Bronchus,New Hampshire,Carroll County,33003,***,60.4,52.9,-14.4,69,12,50,stable,-2.1,52.9,-14.4,69,12
 19, 2011-2015,Lung & Bronchus,New Hampshire,Grafton County,33009,***,54,48.3,-9.5,60.3,18.9,68,stable,3.7,48.3,-9.5,60.3,18.9
 8, 2011-2015,Breast,New Jersey,New Jersey(3,34000,***,133.4,132,0.1,134.8,0.6,7357,rising,0.4,132,0.1,134.8,0.6
-9, 2011-2015,Breast,New Jersey,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,New Jersey,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,New Jersey,Hunterdon County,34019,***,155.1,143,-0.8,168.1,0.7,133,stable,-0.1,143,-0.8,168.1,0.7
 11, 2011-2015,Breast,New Jersey,Morris County,34027,***,144.4,138.5,-0.6,150.6,0,465,stable,-0.3,138.5,-0.6,150.6,0
 12, 2011-2015,Breast,New Jersey,Monmouth County,34025,***,144.1,138.8,-0.3,149.6,0.1,594,stable,-0.1,138.8,-0.3,149.6,0.1
@@ -7438,7 +7438,7 @@
 29, 2011-2015,Breast,New Jersey,Cumberland County,34011,***,113.9,104,-1.4,124.6,-0.2,101,falling,-0.8,104,-1.4,124.6,-0.2
 30, 2011-2015,Breast,New Jersey,Hudson County,34017,***,104.4,99.6,-1,109.5,-0.1,356,falling,-0.5,99.6,-1,109.5,-0.1
 8, 2011-2015,Colon & Rectum,New Jersey,New Jersey(3,34000,No,41.9,41.3,-2.5,42.4,-0.7,4346,falling,-1.6,41.3,-2.5,42.4,-0.7
-9, 2011-2015,Colon & Rectum,New Jersey,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,New Jersey,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,New Jersey,Cumberland County,34011,No,49.3,44.6,-2.2,54.3,-0.7,84,falling,-1.4,44.6,-2.2,54.3,-0.7
 11, 2011-2015,Colon & Rectum,New Jersey,Salem County,34033,No,47.4,40.9,-2.9,54.6,-1.3,40,falling,-2.1,40.9,-2.9,54.6,-1.3
 12, 2011-2015,Colon & Rectum,New Jersey,Burlington County,34005,No,46.8,44.3,-2.5,49.5,-1.8,256,falling,-2.1,44.3,-2.5,49.5,-1.8
@@ -7461,7 +7461,7 @@
 29, 2011-2015,Colon & Rectum,New Jersey,Morris County,34027,Yes,36.5,34.4,-3.5,38.8,-2.5,224,falling,-3,34.4,-3.5,38.8,-2.5
 30, 2011-2015,Colon & Rectum,New Jersey,Somerset County,34035,Yes,35.9,33.2,-3,38.8,-1.8,139,falling,-2.4,33.2,-3,38.8,-1.8
 8, 2011-2015,Lung & Bronchus,New Jersey,New Jersey(3,34000,***,57.3,56.7,-2.8,58,-1.5,5940,falling,-2.2,56.7,-2.8,58,-1.5
-9, 2011-2015,Lung & Bronchus,New Jersey,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,New Jersey,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,New Jersey,Cape May County,34009,***,79.3,73.2,-0.7,85.9,0.2,131,stable,-0.2,73.2,-0.7,85.9,0.2
 11, 2011-2015,Lung & Bronchus,New Jersey,Salem County,34033,***,76.5,68.3,-1.3,85.5,0.1,66,stable,-0.6,68.3,-1.3,85.5,0.1
 12, 2011-2015,Lung & Bronchus,New Jersey,Gloucester County,34015,***,76,71.8,-0.9,80.5,-0.1,249,falling,-0.5,71.8,-0.9,80.5,-0.1
@@ -7484,7 +7484,7 @@
 29, 2011-2015,Lung & Bronchus,New Jersey,Somerset County,34035,***,47.1,44,-1.7,50.4,-0.8,177,falling,-1.2,44,-1.7,50.4,-0.8
 30, 2011-2015,Lung & Bronchus,New Jersey,Hudson County,34017,***,46.3,43.8,-2.3,48.9,-1.7,274,falling,-2,43.8,-2.3,48.9,-1.7
 8, 2011-2015,Breast,New Mexico,New Mexico(3,35000,***,112.4,109.7,-0.5,115.2,0.7,1410,stable,0.1,109.7,-0.5,115.2,0.7
-9, 2011-2015,Breast,New Mexico,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,New Mexico,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,New Mexico,Guadalupe County,35019,***,155.4,92.7,*,247.6,*,4,*,*,92.7,*,247.6,*
 11, 2011-2015,Breast,New Mexico,Los Alamos County,35028,***,154.8,123.9,-2.4,191.9,0.7,19,stable,-0.9,123.9,-2.4,191.9,0.7
 12, 2011-2015,Breast,New Mexico,Torrance County,35057,***,149.8,114.6,0.2,192.8,5.1,14,rising,2.6,114.6,0.2,192.8,5.1
@@ -7519,7 +7519,7 @@
 41, 2011-2015,Breast,New Mexico,Harding County,35021,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 42, 2011-2015,Breast,New Mexico,Union County,35059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,New Mexico,New Mexico(3,35000,Yes,33.2,32.2,-3.7,34.3,-2.3,796,falling,-3,32.2,-3.7,34.3,-2.3
-9, 2011-2015,Colon & Rectum,New Mexico,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,New Mexico,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,New Mexico,Hidalgo County,35023,No,56.4,31.3,1,94.6,6.2,3,rising,3.6,31.3,1,94.6,6.2
 11, 2011-2015,Colon & Rectum,New Mexico,Cibola County,35006,No,49.5,38.7,-1,62.4,2,15,stable,0.5,38.7,-1,62.4,2
 12, 2011-2015,Colon & Rectum,New Mexico,Quay County,35037,No,44.2,29.5,0.3,65,5.9,6,rising,3.1,29.5,0.3,65,5.9
@@ -7554,7 +7554,7 @@
 41, 2011-2015,Colon & Rectum,New Mexico,Mora County,35033,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 42, 2011-2015,Colon & Rectum,New Mexico,Union County,35059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,New Mexico,New Mexico(3,35000,***,40.3,39.1,-3,41.4,-1.7,979,falling,-2.4,39.1,-3,41.4,-1.7
-9, 2011-2015,Lung & Bronchus,New Mexico,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,New Mexico,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,New Mexico,Sierra County,35051,***,64.9,52,-1.7,82.1,1.2,18,stable,-0.2,52,-1.7,82.1,1.2
 11, 2011-2015,Lung & Bronchus,New Mexico,Lea County,35025,***,55.6,47.4,-2.4,64.7,-0.5,33,falling,-1.4,47.4,-2.4,64.7,-0.5
 12, 2011-2015,Lung & Bronchus,New Mexico,Otero County,35035,***,55.3,48.2,-0.2,63.3,1.7,44,stable,0.7,48.2,-0.2,63.3,1.7
@@ -7589,7 +7589,7 @@
 41, 2011-2015,Lung & Bronchus,New Mexico,Mora County,35033,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 42, 2011-2015,Lung & Bronchus,New Mexico,Union County,35059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,New York,New York,36000,***,131.3,130.3,-0.7,132.2,2.6,15765,stable,0.9,130.3,-0.7,132.2,2.6
-9, 2011-2015,Breast,New York,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,New York,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,New York,Hamilton County,36041,***,177.8,119.2,-30.2,262.3,66.7,8,stable,7.8,119.2,-30.2,262.3,66.7
 11, 2011-2015,Breast,New York,Wyoming County,36121,***,166.6,143.3,-8.9,192.7,23.9,40,stable,6.2,143.3,-8.9,192.7,23.9
 12, 2011-2015,Breast,New York,Albany County,36001,***,149,141,-3.6,157.3,11.7,281,stable,3.8,141,-3.6,157.3,11.7
@@ -7653,7 +7653,7 @@
 70, 2011-2015,Breast,New York,Steuben County,36101,***,105.8,94.7,-15.7,118,9.6,71,stable,-3.9,94.7,-15.7,118,9.6
 71, 2011-2015,Breast,New York,St. Lawrence County,36089,***,105.4,94.4,-16.2,117.4,11.5,71,stable,-3.3,94.4,-16.2,117.4,11.5
 8, 2011-2015,Colon & Rectum,New York,New York,36000,Yes,39.8,39.4,-3.4,40.2,0.2,9003,stable,-1.6,39.4,-3.4,40.2,0.2
-9, 2011-2015,Colon & Rectum,New York,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,New York,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,New York,Lewis County,36049,No,61.7,49.9,-20.5,75.6,11.3,20,stable,-5.9,49.9,-20.5,75.6,11.3
 11, 2011-2015,Colon & Rectum,New York,Schuyler County,36097,No,53.3,40.4,-11.3,69.2,51,13,stable,15.7,40.4,-11.3,69.2,51
 12, 2011-2015,Colon & Rectum,New York,Jefferson County,36045,No,51.2,45.3,-14.7,57.5,17.9,57,stable,0.3,45.3,-14.7,57.5,17.9
@@ -7717,7 +7717,7 @@
 70, 2011-2015,Colon & Rectum,New York,Tompkins County,36109,Yes,32,27.1,-34.6,37.6,7.4,31,stable,-16.2,27.1,-34.6,37.6,7.4
 71, 2011-2015,Colon & Rectum,New York,Ontario County,36069,Yes,31.7,27.7,-5.3,36.3,16.4,46,stable,5,27.7,-5.3,36.3,16.4
 8, 2011-2015,Lung & Bronchus,New York,New York,36000,***,60.2,59.8,-3.2,60.7,0,13737,stable,-1.6,59.8,-3.2,60.7,0
-9, 2011-2015,Lung & Bronchus,New York,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,New York,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,New York,Oswego County,36075,***,95.5,88.2,-2.1,103.1,2.4,136,stable,0.1,88.2,-2.1,103.1,2.4
 11, 2011-2015,Lung & Bronchus,New York,Clinton County,36019,***,92.9,84.5,-14.5,101.9,4,92,stable,-5.7,84.5,-14.5,101.9,4
 12, 2011-2015,Lung & Bronchus,New York,Jefferson County,36045,***,86.3,78.7,-2.2,94.4,11,98,stable,4.2,78.7,-2.2,94.4,11
@@ -7781,7 +7781,7 @@
 70, 2011-2015,Lung & Bronchus,New York,Kings County,36047,***,48.2,47,-4.7,49.5,0.6,1231,stable,-2.1,47,-4.7,49.5,0.6
 71, 2011-2015,Lung & Bronchus,New York,Queens County,36081,***,45.5,44.3,-6.2,46.7,0.3,1153,stable,-3,44.3,-6.2,46.7,0.3
 8, 2011-2015,Prostate,North Carolina,North Carolina,37000,***,120.9,119.5,-13.6,122.2,1.9,6583,stable,-6.2,119.5,-13.6,122.2,1.9
-9, 2011-2015,Prostate,North Carolina,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,North Carolina,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,North Carolina,Hoke County,37093,***,160.8,134,-33.6,191.3,-6.1,30,falling,-21,134,-33.6,191.3,-6.1
 11, 2011-2015,Prostate,North Carolina,Scotland County,37165,***,160.8,136.4,-25.3,188.3,8.5,34,stable,-10,136.4,-25.3,188.3,8.5
 12, 2011-2015,Prostate,North Carolina,Hertford County,37091,***,155.8,129,-22.2,187,10,25,stable,-7.5,129,-22.2,187,10
@@ -7883,7 +7883,7 @@
 108, 2011-2015,Prostate,North Carolina,Yancey County,37199,***,77.1,57.8,-26.1,102.1,-8.4,11,falling,-17.7,57.8,-26.1,102.1,-8.4
 109, 2011-2015,Prostate,North Carolina,Graham County,37075,***,63.7,40,-43.4,99.5,48.4,5,stable,-8.3,40,-43.4,99.5,48.4
 8, 2011-2015,Prostate,North Dakota,North Dakota,38000,***,121,116.2,-15.6,126,8.7,497,stable,-4.2,116.2,-15.6,126,8.7
-9, 2011-2015,Prostate,North Dakota,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,North Dakota,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,North Dakota,Emmons County,38029,***,176.7,115.7,-42.1,269.6,74.5,6,stable,0.5,115.7,-42.1,269.6,74.5
 11, 2011-2015,Prostate,North Dakota,Mercer County,38057,***,173.1,128.4,-47,230.1,46.1,11,stable,-12,128.4,-47,230.1,46.1
 12, 2011-2015,Prostate,North Dakota,Grant County,38037,***,158.7,95.2,-33.1,269.2,92.8,4,stable,13.6,95.2,-33.1,269.2,92.8
@@ -7938,7 +7938,7 @@
 61, 2011-2015,Prostate,North Dakota,Steele County,38091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 62, 2011-2015,Prostate,North Dakota,Towner County,38095,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,North Carolina,North Carolina,37000,***,131,129.7,-1.4,132.3,2.1,7854,stable,0.4,129.7,-1.4,132.3,2.1
-9, 2011-2015,Breast,North Carolina,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,North Carolina,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,North Carolina,Camden County,37029,***,154.1,113.4,-26.1,205.7,74.8,10,stable,13.7,113.4,-26.1,205.7,74.8
 11, 2011-2015,Breast,North Carolina,Durham County,37063,***,151.7,142.9,-10.4,160.9,7.3,232,stable,-1.9,142.9,-10.4,160.9,7.3
 12, 2011-2015,Breast,North Carolina,Orange County,37135,***,148.5,135.9,-13,161.9,22.2,109,stable,3.1,135.9,-13,161.9,22.2
@@ -8040,7 +8040,7 @@
 108, 2011-2015,Breast,North Carolina,Polk County,37149,***,89.7,70.1,-20.3,114.5,11.6,17,stable,-5.7,70.1,-20.3,114.5,11.6
 109, 2011-2015,Breast,North Carolina,Greene County,37079,***,83.2,61.7,-34.1,110.3,57.1,11,stable,1.8,61.7,-34.1,110.3,57.1
 8, 2011-2015,Colon & Rectum,North Carolina,North Carolina,37000,Yes,37.5,37,-2.8,38,0.9,4176,stable,-1,37,-2.8,38,0.9
-9, 2011-2015,Colon & Rectum,North Carolina,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,North Carolina,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,North Carolina,Washington County,37187,No,62.4,46.9,-34.8,82.1,72.1,12,stable,5.9,46.9,-34.8,82.1,72.1
 11, 2011-2015,Colon & Rectum,North Carolina,Swain County,37173,No,59.4,44,-34,78.8,12.5,11,stable,-13.9,44,-34,78.8,12.5
 12, 2011-2015,Colon & Rectum,North Carolina,Warren County,37185,No,52,40.4,-24.7,66.2,29.8,15,stable,-1.1,40.4,-24.7,66.2,29.8
@@ -8142,7 +8142,7 @@
 108, 2011-2015,Colon & Rectum,North Carolina,Hyde County,37095,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 109, 2011-2015,Colon & Rectum,North Carolina,Tyrrell County,37177,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,North Carolina,North Carolina,37000,***,69.2,68.5,-2.5,69.9,0.4,7870,stable,-1.1,68.5,-2.5,69.9,0.4
-9, 2011-2015,Lung & Bronchus,North Carolina,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,North Carolina,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,North Carolina,Pamlico County,37137,***,91.7,74.3,-31.3,113,66.5,22,stable,7,74.3,-31.3,113,66.5
 11, 2011-2015,Lung & Bronchus,North Carolina,Yancey County,37199,***,89.7,74.6,-38.5,107.6,16.3,26,stable,-15.4,74.6,-38.5,107.6,16.3
 12, 2011-2015,Lung & Bronchus,North Carolina,Onslow County,37133,***,89.4,82.1,-14.5,97.2,12.8,113,stable,-1.8,82.1,-14.5,97.2,12.8
@@ -8244,7 +8244,7 @@
 108, 2011-2015,Lung & Bronchus,North Carolina,Chatham County,37037,***,51.4,45.5,-10.3,58,3.6,57,stable,-3.6,45.5,-10.3,58,3.6
 109, 2011-2015,Lung & Bronchus,North Carolina,Polk County,37149,***,46.9,37.2,-34.9,59.1,54.9,18,stable,0.4,37.2,-34.9,59.1,54.9
 8, 2011-2015,Breast,North Dakota,North Dakota,38000,***,123.7,118.7,-4.5,128.9,7.8,496,stable,1.4,118.7,-4.5,128.9,7.8
-9, 2011-2015,Breast,North Dakota,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,North Dakota,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,North Dakota,Adams County,38001,***,213,117,-41.9,362.6,35.4,4,stable,-11.3,117,-41.9,362.6,35.4
 11, 2011-2015,Breast,North Dakota,Sargent County,38081,***,185.8,113.2,-20.9,291,136.8,5,stable,36.9,113.2,-20.9,291,136.8
 12, 2011-2015,Breast,North Dakota,McLean County,38055,***,176.1,129.9,-47.3,234.6,121.2,12,stable,8,129.9,-47.3,234.6,121.2
@@ -8299,7 +8299,7 @@
 61, 2011-2015,Breast,North Dakota,Steele County,38091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 62, 2011-2015,Breast,North Dakota,Towner County,38095,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,North Dakota,North Dakota,38000,No,45.7,43.6,-9.3,47.9,3.7,373,stable,-3,43.6,-9.3,47.9,3.7
-9, 2011-2015,Colon & Rectum,North Dakota,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,North Dakota,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,North Dakota,Bowman County,38011,No,80.9,48.2,-53.4,130.6,148.8,4,stable,7.7,48.2,-53.4,130.6,148.8
 11, 2011-2015,Colon & Rectum,North Dakota,Mountrail County,38061,No,72.8,50.1,-27.1,102.3,21.9,7,stable,-5.7,50.1,-27.1,102.3,21.9
 12, 2011-2015,Colon & Rectum,North Dakota,Sargent County,38081,No,72.5,41.7,*,118.7,*,4,*,*,41.7,*,118.7,*
@@ -8354,7 +8354,7 @@
 61, 2011-2015,Colon & Rectum,North Dakota,Traill County,38097,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 62, 2011-2015,Colon & Rectum,North Dakota,Wells County,38103,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,North Dakota,North Dakota,38000,***,58.2,55.9,-5.2,60.7,1.4,480,stable,-1.9,55.9,-5.2,60.7,1.4
-9, 2011-2015,Lung & Bronchus,North Dakota,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,North Dakota,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,North Dakota,Rolette County,38079,***,100.5,77.1,-34.5,128.6,38.8,13,stable,-4.6,77.1,-34.5,128.6,38.8
 11, 2011-2015,Lung & Bronchus,North Dakota,Mercer County,38057,***,74.5,53.3,-14,102.1,64.7,9,stable,19,53.3,-14,102.1,64.7
 12, 2011-2015,Lung & Bronchus,North Dakota,Mountrail County,38061,***,74,50.6,-35.2,104.4,56.3,7,stable,0.6,50.6,-35.2,104.4,56.3
@@ -8409,7 +8409,7 @@
 61, 2011-2015,Lung & Bronchus,North Dakota,Steele County,38091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 62, 2011-2015,Lung & Bronchus,North Dakota,Towner County,38095,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Ohio,Ohio,39000,***,126.2,125.1,0,127.4,1.6,9183,stable,0.8,125.1,0,127.4,1.6
-9, 2011-2015,Breast,Ohio,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Ohio,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Ohio,Clark County,39023,***,141.9,130.7,-5.4,153.9,19.4,130,stable,6.3,130.7,-5.4,153.9,19.4
 11, 2011-2015,Breast,Ohio,Warren County,39165,***,139.6,130.4,-14,149.3,10.4,176,stable,-2.6,130.4,-14,149.3,10.4
 12, 2011-2015,Breast,Ohio,Auglaize County,39011,***,139,119.8,-11.9,160.6,4.1,40,stable,-4.2,119.8,-11.9,160.6,4.1
@@ -8499,7 +8499,7 @@
 96, 2011-2015,Breast,Ohio,Monroe County,39111,***,78.2,54.3,-26.5,109.9,66,8,stable,10.5,54.3,-26.5,109.9,66
 97, 2011-2015,Breast,Ohio,Holmes County,39075,***,71.4,56.4,-13.8,89.2,35.6,16,stable,8.1,56.4,-13.8,89.2,35.6
 8, 2011-2015,Colon & Rectum,Ohio,Ohio,39000,No,41.7,41.2,-1.6,42.2,2.3,5786,stable,0.3,41.2,-1.6,42.2,2.3
-9, 2011-2015,Colon & Rectum,Ohio,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Ohio,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Ohio,Guernsey County,39059,No,63.3,53.6,-15.8,74.4,16.5,32,stable,-0.9,53.6,-15.8,74.4,16.5
 11, 2011-2015,Colon & Rectum,Ohio,Marion County,39101,No,57.1,49.9,-18.3,65.1,27.6,47,stable,2.1,49.9,-18.3,65.1,27.6
 12, 2011-2015,Colon & Rectum,Ohio,Van Wert County,39161,No,55.5,45.2,-10.2,67.7,10.2,21,stable,-0.5,45.2,-10.2,67.7,10.2
@@ -8589,7 +8589,7 @@
 96, 2011-2015,Colon & Rectum,Ohio,Gallia County,39053,Yes,32.8,25.2,-19.8,42.2,31.4,13,stable,2.7,25.2,-19.8,42.2,31.4
 97, 2011-2015,Colon & Rectum,Ohio,Noble County,39121,Yes,32.2,22.5,-32.8,45.5,38.9,8,stable,-3.4,22.5,-32.8,45.5,38.9
 8, 2011-2015,Lung & Bronchus,Ohio,Ohio,39000,***,69.3,68.7,-2.6,69.9,-0.6,9794,falling,-1.6,68.7,-2.6,69.9,-0.6
-9, 2011-2015,Lung & Bronchus,Ohio,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Ohio,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Ohio,Vinton County,39163,***,117.7,95.1,-28.2,144.4,26.8,20,stable,-4.6,95.1,-28.2,144.4,26.8
 11, 2011-2015,Lung & Bronchus,Ohio,Brown County,39015,***,101.7,90.2,-16.7,114.4,17.7,58,stable,-1,90.2,-16.7,114.4,17.7
 12, 2011-2015,Lung & Bronchus,Ohio,Ross County,39141,***,94.7,86,-10.5,104,21.3,90,stable,4.2,86,-10.5,104,21.3
@@ -8679,7 +8679,7 @@
 96, 2011-2015,Lung & Bronchus,Ohio,Putnam County,39137,***,46.1,37.3,-6.4,56.4,3.5,20,stable,-1.6,37.3,-6.4,56.4,3.5
 97, 2011-2015,Lung & Bronchus,Ohio,Holmes County,39075,***,44.7,35.9,-16.4,54.9,27.4,18,stable,3.2,35.9,-16.4,54.9,27.4
 8, 2011-2015,Prostate,Ohio,Ohio,39000,***,108,106.9,-13.2,109.1,-0.2,7334,falling,-6.9,106.9,-13.2,109.1,-0.2
-9, 2011-2015,Prostate,Ohio,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Ohio,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Ohio,Cuyahoga County,39035,***,131.7,128,-13.8,135.5,-0.2,976,falling,-7.3,128,-13.8,135.5,-0.2
 11, 2011-2015,Prostate,Ohio,Knox County,39083,***,129.5,113.4,-24.2,147.4,-11.3,48,falling,-18,113.4,-24.2,147.4,-11.3
 12, 2011-2015,Prostate,Ohio,Tuscarawas County,39157,***,125.8,113.2,-25.2,139.5,-5.8,76,falling,-16,113.2,-25.2,139.5,-5.8
@@ -8769,7 +8769,7 @@
 96, 2011-2015,Prostate,Ohio,Coshocton County,39031,***,65.9,52.5,-17.3,82.2,27.3,17,stable,2.6,52.5,-17.3,82.2,27.3
 97, 2011-2015,Prostate,Ohio,Noble County,39121,***,36.8,24.7,-40.7,55.9,55,7,stable,-4.2,24.7,-40.7,55.9,55
 8, 2011-2015,Breast,Oklahoma,Oklahoma,40000,***,118.4,116.3,0.2,120.5,2.4,2667,rising,1.3,116.3,0.2,120.5,2.4
-9, 2011-2015,Breast,Oklahoma,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Oklahoma,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Oklahoma,Tillman County,40141,***,170.8,121.5,1.7,234.5,115.9,9,rising,48.2,121.5,1.7,234.5,115.9
 11, 2011-2015,Breast,Oklahoma,Major County,40093,***,148,100.2,-61.3,211.1,62.5,7,stable,-20.7,100.2,-61.3,211.1,62.5
 12, 2011-2015,Breast,Oklahoma,Blaine County,40011,***,139.4,101.7,-31.8,187.8,6.9,10,stable,-14.6,101.7,-31.8,187.8,6.9
@@ -8848,7 +8848,7 @@
 85, 2011-2015,Breast,Oklahoma,Harper County,40059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 86, 2011-2015,Breast,Oklahoma,Roger Mills County,40129,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Oklahoma,Oklahoma,40000,No,42,41.1,-4.4,42.9,1.4,1804,stable,-1.6,41.1,-4.4,42.9,1.4
-9, 2011-2015,Colon & Rectum,Oklahoma,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Oklahoma,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Oklahoma,Kiowa County,40075,No,68.3,47.9,-51.7,94.9,95.2,8,stable,-2.9,47.9,-51.7,94.9,95.2
 11, 2011-2015,Colon & Rectum,Oklahoma,Craig County,40035,No,60.3,45.9,-28.3,78.2,7.1,12,stable,-12.4,45.9,-28.3,78.2,7.1
 12, 2011-2015,Colon & Rectum,Oklahoma,Garvin County,40049,No,57.8,46.8,-34.6,70.8,30.7,20,stable,-7.6,46.8,-34.6,70.8,30.7
@@ -8927,7 +8927,7 @@
 85, 2011-2015,Colon & Rectum,Oklahoma,Harmon County,40057,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 86, 2011-2015,Colon & Rectum,Oklahoma,Roger Mills County,40129,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Oklahoma,Oklahoma,40000,***,70.5,69.4,-3.6,71.6,0,3111,stable,-1.8,69.4,-3.6,71.6,0
-9, 2011-2015,Lung & Bronchus,Oklahoma,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Oklahoma,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Oklahoma,Hughes County,40063,***,101.6,82.5,-18.9,124.4,18.2,20,stable,-2.1,82.5,-18.9,124.4,18.2
 11, 2011-2015,Lung & Bronchus,Oklahoma,Greer County,40055,***,98.1,69.5,-18.9,135.4,46.1,8,stable,8.8,69.5,-18.9,135.4,46.1
 12, 2011-2015,Lung & Bronchus,Oklahoma,Muskogee County,40101,***,97.2,88.1,-18.4,107.1,11.1,85,stable,-4.8,88.1,-18.4,107.1,11.1
@@ -9006,7 +9006,7 @@
 85, 2011-2015,Lung & Bronchus,Oklahoma,Harper County,40059,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 86, 2011-2015,Lung & Bronchus,Oklahoma,Roger Mills County,40129,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Oklahoma,Oklahoma,40000,***,101.1,99.1,-17,103.1,1.5,2134,stable,-8.2,99.1,-17,103.1,1.5
-9, 2011-2015,Prostate,Oklahoma,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Oklahoma,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Oklahoma,Jackson County,40065,***,133.4,107.6,-17.7,163.8,15.7,19,stable,-2.4,107.6,-17.7,163.8,15.7
 11, 2011-2015,Prostate,Oklahoma,Oklahoma County,40109,***,131.6,126.2,-17.3,137.2,13.3,476,stable,-3.2,126.2,-17.3,137.2,13.3
 12, 2011-2015,Prostate,Oklahoma,Harper County,40059,***,128.7,72.9,*,214.4,*,3,*,*,72.9,*,214.4,*
@@ -9085,7 +9085,7 @@
 85, 2011-2015,Prostate,Oklahoma,Harmon County,40057,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 86, 2011-2015,Prostate,Oklahoma,Roger Mills County,40129,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Oregon,Oregon,41000,***,124.9,122.9,-4.9,127,-1,3070,falling,-2.9,122.9,-4.9,127,-1
-9, 2011-2015,Breast,Oregon,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Oregon,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Oregon,Lake County,41037,***,156.4,110.1,-24.4,218,15.2,9,stable,-6.7,110.1,-24.4,218,15.2
 11, 2011-2015,Breast,Oregon,Josephine County,41033,***,146.3,132.5,-13.3,161.3,7.9,100,stable,-3.3,132.5,-13.3,161.3,7.9
 12, 2011-2015,Breast,Oregon,Clackamas County,41005,***,141.4,134.7,-9.5,148.4,4,358,stable,-3,134.7,-9.5,148.4,4
@@ -9123,7 +9123,7 @@
 44, 2011-2015,Breast,Oregon,Sherman County,41055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 45, 2011-2015,Breast,Oregon,Wheeler County,41069,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Oregon,Oregon,41000,Yes,34.8,34.1,-5.3,35.6,-1.5,1635,falling,-3.4,34.1,-5.3,35.6,-1.5
-9, 2011-2015,Colon & Rectum,Oregon,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Oregon,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Oregon,Umatilla County,41059,No,45,38.7,-14.2,52.1,21.1,37,stable,1.9,38.7,-14.2,52.1,21.1
 11, 2011-2015,Colon & Rectum,Oregon,Josephine County,41033,No,43.3,38.2,-9.2,48.9,8.5,60,stable,-0.8,38.2,-9.2,48.9,8.5
 12, 2011-2015,Colon & Rectum,Oregon,Clatsop County,41007,No,41.8,33.8,-30.2,51.2,25.8,21,stable,-6.3,33.8,-30.2,51.2,25.8
@@ -9161,7 +9161,7 @@
 44, 2011-2015,Colon & Rectum,Oregon,Sherman County,41055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 45, 2011-2015,Colon & Rectum,Oregon,Wheeler County,41069,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Oregon,Oregon,41000,***,56.2,55.2,-8.4,57.2,-1.5,2694,falling,-5,55.2,-8.4,57.2,-1.5
-9, 2011-2015,Lung & Bronchus,Oregon,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Oregon,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Oregon,Josephine County,41033,***,71.6,65.4,-10.8,78.4,-0.1,105,falling,-5.6,65.4,-10.8,78.4,-0.1
 11, 2011-2015,Lung & Bronchus,Oregon,Coos County,41011,***,69.4,62.5,-22.7,77.1,4.5,77,stable,-10.1,62.5,-22.7,77.1,4.5
 12, 2011-2015,Lung & Bronchus,Oregon,Wasco County,41065,***,69.4,57.9,-33.1,82.8,44.9,27,stable,-1.6,57.9,-33.1,82.8,44.9
@@ -9199,7 +9199,7 @@
 44, 2011-2015,Lung & Bronchus,Oregon,Sherman County,41055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 45, 2011-2015,Lung & Bronchus,Oregon,Wheeler County,41069,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Oregon,Oregon,41000,***,95.4,93.6,-17.4,97.2,1.6,2299,stable,-8.4,93.6,-17.4,97.2,1.6
-9, 2011-2015,Prostate,Oregon,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Oregon,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Oregon,Deschutes County,41017,***,114.8,106.2,-24,124.1,13,138,stable,-7.3,106.2,-24,124.1,13
 11, 2011-2015,Prostate,Oregon,Hood River County,41027,***,113.3,87.5,-35.6,144.5,27.1,14,stable,-9.5,87.5,-35.6,144.5,27.1
 12, 2011-2015,Prostate,Oregon,Douglas County,41019,***,106.7,97.2,-27.3,117,24.3,98,stable,-4.9,97.2,-27.3,117,24.3
@@ -9237,7 +9237,7 @@
 44, 2011-2015,Prostate,Oregon,Sherman County,41055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 45, 2011-2015,Prostate,Oregon,Wheeler County,41069,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Pennsylvania,Pennsylvania,42000,***,131,129.9,-0.3,132.2,1.2,10934,stable,0.5,129.9,-0.3,132.2,1.2
-9, 2011-2015,Breast,Pennsylvania,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Pennsylvania,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Pennsylvania,Sullivan County,42113,***,161.3,112.8,-42.4,229.2,47.8,9,stable,-7.7,112.8,-42.4,229.2,47.8
 11, 2011-2015,Breast,Pennsylvania,Lycoming County,42081,***,151.9,139.5,-11.3,165.2,15.3,121,stable,1.1,139.5,-11.3,165.2,15.3
 12, 2011-2015,Breast,Pennsylvania,Elk County,42047,***,150.8,127.8,-13,177.3,1.5,35,stable,-6,127.8,-13,177.3,1.5
@@ -9306,7 +9306,7 @@
 75, 2011-2015,Breast,Pennsylvania,Jefferson County,42065,***,104.8,88.7,-28.5,123.2,32.5,33,stable,-2.6,88.7,-28.5,123.2,32.5
 76, 2011-2015,Breast,Pennsylvania,Somerset County,42111,***,104,91.7,-4.9,117.8,13.2,58,stable,3.7,91.7,-4.9,117.8,13.2
 8, 2011-2015,Colon & Rectum,Pennsylvania,Pennsylvania,42000,No,42.6,42.2,-3.9,43.1,0.2,6922,stable,-1.9,42.2,-3.9,43.1,0.2
-9, 2011-2015,Colon & Rectum,Pennsylvania,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Pennsylvania,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Pennsylvania,Greene County,42059,No,57.4,48,-15,68.2,26.8,28,stable,3.8,48,-15,68.2,26.8
 11, 2011-2015,Colon & Rectum,Pennsylvania,Elk County,42047,No,55.2,45.8,-25.6,66.2,48.9,26,stable,5.3,45.8,-25.6,66.2,48.9
 12, 2011-2015,Colon & Rectum,Pennsylvania,Clinton County,42035,No,54.5,45.4,-16.3,64.9,18.1,27,stable,-0.5,45.4,-16.3,64.9,18.1
@@ -9375,7 +9375,7 @@
 75, 2011-2015,Colon & Rectum,Pennsylvania,Chester County,42029,Yes,35.7,33.5,-8.3,38,15.6,211,stable,3,33.5,-8.3,38,15.6
 76, 2011-2015,Colon & Rectum,Pennsylvania,Forest County,42053,Yes,32.1,17.9,*,58.6,*,3,*,*,17.9,*,58.6,*
 8, 2011-2015,Lung & Bronchus,Pennsylvania,Pennsylvania,42000,***,64.7,64.2,-2.4,65.3,-0.4,10719,falling,-1.4,64.2,-2.4,65.3,-0.4
-9, 2011-2015,Lung & Bronchus,Pennsylvania,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Pennsylvania,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Pennsylvania,Philadelphia County,42101,***,78.7,76.8,-3,80.7,-0.4,1244,falling,-1.7,76.8,-3,80.7,-0.4
 11, 2011-2015,Lung & Bronchus,Pennsylvania,Fayette County,42051,***,77.2,71.7,-12.9,83,16.2,152,stable,0.6,71.7,-12.9,83,16.2
 12, 2011-2015,Lung & Bronchus,Pennsylvania,Beaver County,42007,***,75.4,70.6,-12.3,80.5,5.4,191,stable,-3.9,70.6,-12.3,80.5,5.4
@@ -9444,7 +9444,7 @@
 75, 2011-2015,Lung & Bronchus,Pennsylvania,Centre County,42027,***,48.3,43.4,-17.8,53.6,0.8,74,stable,-9,43.4,-17.8,53.6,0.8
 76, 2011-2015,Lung & Bronchus,Pennsylvania,Union County,42119,***,47.2,39.3,-21.5,56.2,8.6,26,stable,-7.7,39.3,-21.5,56.2,8.6
 8, 2011-2015,Prostate,Pennsylvania,Pennsylvania,42000,***,111.1,110,-17,112.2,2.5,8725,stable,-7.8,110,-17,112.2,2.5
-9, 2011-2015,Prostate,Pennsylvania,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Pennsylvania,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Pennsylvania,Cameron County,42023,***,162.7,112.5,-29,234.2,12.8,7,stable,-10.5,112.5,-29,234.2,12.8
 11, 2011-2015,Prostate,Pennsylvania,Elk County,42047,***,151.3,129.9,-30.7,175.8,12.8,36,stable,-11.6,129.9,-30.7,175.8,12.8
 12, 2011-2015,Prostate,Pennsylvania,Philadelphia County,42101,***,147.2,143.1,-14.9,151.4,1.9,1046,stable,-6.9,143.1,-14.9,151.4,1.9
@@ -9513,43 +9513,43 @@
 75, 2011-2015,Prostate,Pennsylvania,Greene County,42059,***,59.8,46.7,-35.6,75.7,15.5,15,stable,-13.7,46.7,-35.6,75.7,15.5
 76, 2011-2015,Prostate,Pennsylvania,Juniata County,42067,***,52.7,38.6,-39.9,70.9,26,9,stable,-12.9,38.6,-39.9,70.9,26
 8, 2011-2015,Prostate,Puerto Rico,Puerto Rico,72001,***,146.6,144.2,-5.8,148.9,1.2,3088,stable,-2.3,144.2,-5.8,148.9,1.2
-9, 2011-2015,Prostate,Puerto Rico,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Puerto Rico,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 8, 2011-2015,Breast,Puerto Rico,Puerto Rico,72001,***,93.2,91.4,-4.1,95,2.8,2159,stable,-0.7,91.4,-4.1,95,2.8
-9, 2011-2015,Breast,Puerto Rico,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Puerto Rico,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 8, 2011-2015,Colon & Rectum,Puerto Rico,Puerto Rico,72001,No,42.8,42,-1.9,43.7,-0.6,1910,falling,-1.3,42,-1.9,43.7,-0.6
-9, 2011-2015,Colon & Rectum,Puerto Rico,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Puerto Rico,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 8, 2011-2015,Lung & Bronchus,Puerto Rico,Puerto Rico,72001,***,17.7,17.1,-5.7,18.3,3.6,804,stable,-1.2,17.1,-5.7,18.3,3.6
-9, 2011-2015,Lung & Bronchus,Puerto Rico,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Puerto Rico,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 8, 2011-2015,Prostate,Rhode Island,Rhode Island,44000,***,104.1,100.4,-14.8,107.9,-0.6,636,falling,-8,100.4,-14.8,107.9,-0.6
-9, 2011-2015,Prostate,Rhode Island,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Rhode Island,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Rhode Island,Bristol County,44001,***,114.3,98.4,-22.6,132.4,12.5,38,stable,-6.7,98.4,-22.6,132.4,12.5
 11, 2011-2015,Prostate,Rhode Island,Washington County,44009,***,108.9,99,-26.3,119.7,4.2,95,stable,-12.4,99,-26.3,119.7,4.2
 12, 2011-2015,Prostate,Rhode Island,Newport County,44005,***,104.6,92.8,-18.4,117.5,2.3,60,stable,-8.7,92.8,-18.4,117.5,2.3
 13, 2011-2015,Prostate,Rhode Island,Kent County,44003,***,104.1,95.3,-20.1,113.6,13.2,108,stable,-4.9,95.3,-20.1,113.6,13.2
 14, 2011-2015,Prostate,Rhode Island,Providence County,44007,***,101.4,96.5,-11.8,106.5,-2.9,333,falling,-7.5,96.5,-11.8,106.5,-2.9
 8, 2011-2015,Breast,Rhode Island,Rhode Island,44000,***,135.3,131.3,-3,139.5,5,907,stable,0.9,131.3,-3,139.5,5
-9, 2011-2015,Breast,Rhode Island,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Rhode Island,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Rhode Island,Newport County,44005,***,146.7,132.5,-11.1,162.1,2.6,87,stable,-4.5,132.5,-11.1,162.1,2.6
 11, 2011-2015,Breast,Rhode Island,Kent County,44003,***,139.8,129.9,-7.1,150.4,5.6,160,stable,-0.9,129.9,-7.1,150.4,5.6
 12, 2011-2015,Breast,Rhode Island,Washington County,44009,***,137.2,125.7,-4.9,149.7,9.8,118,stable,2.2,125.7,-4.9,149.7,9.8
 13, 2011-2015,Breast,Rhode Island,Providence County,44007,***,133.1,127.8,-1.9,138.6,5.4,500,stable,1.7,127.8,-1.9,138.6,5.4
 14, 2011-2015,Breast,Rhode Island,Bristol County,44001,***,122.7,106.3,-10.4,141.2,24.1,43,stable,5.4,106.3,-10.4,141.2,24.1
 8, 2011-2015,Colon & Rectum,Rhode Island,Rhode Island,44000,Yes,35.9,34.4,-7.8,37.4,1.2,464,stable,-3.4,34.4,-7.8,37.4,1.2
-9, 2011-2015,Colon & Rectum,Rhode Island,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Rhode Island,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Rhode Island,Newport County,44005,Yes,38.3,33.2,-30,44.1,37.6,43,stable,-1.9,33.2,-30,44.1,37.6
 11, 2011-2015,Colon & Rectum,Rhode Island,Kent County,44003,Yes,37.8,34.2,-15.5,41.7,0.5,86,stable,-7.8,34.2,-15.5,41.7,0.5
 12, 2011-2015,Colon & Rectum,Rhode Island,Providence County,44007,Yes,36.2,34.2,-9.1,38.3,1.9,259,stable,-3.8,34.2,-9.1,38.3,1.9
 13, 2011-2015,Colon & Rectum,Rhode Island,Washington County,44009,Yes,32.2,28.3,-7.2,36.5,9,53,stable,0.6,28.3,-7.2,36.5,9
 14, 2011-2015,Colon & Rectum,Rhode Island,Bristol County,44001,Yes,31.9,26.1,-12.1,38.9,21.1,22,stable,3.2,26.1,-12.1,38.9,21.1
 8, 2011-2015,Lung & Bronchus,Rhode Island,Rhode Island,44000,***,69.7,67.6,-2.9,71.8,4.8,903,stable,0.9,67.6,-2.9,71.8,4.8
-9, 2011-2015,Lung & Bronchus,Rhode Island,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Rhode Island,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Rhode Island,Kent County,44003,***,73.7,68.7,-3,79.1,16.7,166,stable,6.4,68.7,-3,79.1,16.7
 11, 2011-2015,Lung & Bronchus,Rhode Island,Providence County,44007,***,72.4,69.6,-5.9,75.4,5.9,513,stable,-0.1,69.6,-5.9,75.4,5.9
 12, 2011-2015,Lung & Bronchus,Rhode Island,Washington County,44009,***,64.7,59.3,-9.1,70.5,-0.8,111,falling,-5,59.3,-9.1,70.5,-0.8
 13, 2011-2015,Lung & Bronchus,Rhode Island,Newport County,44005,***,64.5,58.1,-4,71.5,4.3,77,stable,0.1,58.1,-4,71.5,4.3
 14, 2011-2015,Lung & Bronchus,Rhode Island,Bristol County,44001,***,51.1,43.7,-7.2,59.6,36.3,36,stable,12.5,43.7,-7.2,59.6,36.3
 8, 2011-2015,Prostate,South Carolina,South Carolina,45000,***,119.4,117.5,-12.9,121.3,3.2,3363,stable,-5.2,117.5,-12.9,121.3,3.2
-9, 2011-2015,Prostate,South Carolina,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,South Carolina,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,South Carolina,Lee County,45061,***,196.9,159.4,-18.3,240.9,6.3,21,stable,-6.8,159.4,-18.3,240.9,6.3
 11, 2011-2015,Prostate,South Carolina,Marlboro County,45069,***,194.7,163.5,-26.9,230.3,5.1,31,stable,-12.4,163.5,-26.9,230.3,5.1
 12, 2011-2015,Prostate,South Carolina,Marion County,45067,***,181.6,154.2,-26.8,212.7,1.7,34,stable,-13.8,154.2,-26.8,212.7,1.7
@@ -9597,7 +9597,7 @@
 54, 2011-2015,Prostate,South Carolina,Newberry County,45071,***,86.9,70.7,-29.4,106,8,22,stable,-12.7,70.7,-29.4,106,8
 55, 2011-2015,Prostate,South Carolina,Aiken County,45003,***,82.4,74.5,-13,91,23.8,84,stable,3.8,74.5,-13,91,23.8
 8, 2011-2015,Prostate,South Dakota,South Dakota,46000,***,114.6,110.4,-11.9,119,5.6,568,stable,-3.5,110.4,-11.9,119,5.6
-9, 2011-2015,Prostate,South Dakota,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,South Dakota,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,South Dakota,Potter County,46107,***,241.8,152,-14.4,378.8,7,5,stable,-4.3,152,-14.4,378.8,7
 11, 2011-2015,Prostate,South Dakota,Miner County,46097,***,212.6,125.6,-38.8,348,36.6,4,stable,-8.6,125.6,-38.8,348,36.6
 12, 2011-2015,Prostate,South Dakota,Stanley County,46117,***,201.7,124.9,-43.5,314.5,39.4,4,stable,-11.2,124.9,-43.5,314.5,39.4
@@ -9665,7 +9665,7 @@
 74, 2011-2015,Prostate,South Dakota,Todd County,46121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 75, 2011-2015,Prostate,South Dakota,Ziebach County,46137,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,South Carolina,South Carolina,45000,***,128.3,126.4,-0.8,130.1,1.5,3845,stable,0.4,126.4,-0.8,130.1,1.5
-9, 2011-2015,Breast,South Carolina,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,South Carolina,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,South Carolina,McCormick County,45065,***,167.4,122.3,-33.3,226.6,25.5,13,stable,-8.5,122.3,-33.3,226.6,25.5
 11, 2011-2015,Breast,South Carolina,Fairfield County,45039,***,146.5,119.6,-19,178.1,45.7,23,stable,8.7,119.6,-19,178.1,45.7
 12, 2011-2015,Breast,South Carolina,Richland County,45079,***,141.8,134.5,-1,149.3,3.4,297,stable,1.2,134.5,-1,149.3,3.4
@@ -9713,7 +9713,7 @@
 54, 2011-2015,Breast,South Carolina,Edgefield County,45037,***,94,73.8,-28.4,118.7,18.4,16,stable,-7.9,73.8,-28.4,118.7,18.4
 55, 2011-2015,Breast,South Carolina,Allendale County,45005,***,83.8,55.8,-21.5,123.2,8.5,6,stable,-7.7,55.8,-21.5,123.2,8.5
 8, 2011-2015,Colon & Rectum,South Carolina,South Carolina,45000,Yes,38.6,37.9,-4,39.4,3.1,2167,stable,-0.5,37.9,-4,39.4,3.1
-9, 2011-2015,Colon & Rectum,South Carolina,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,South Carolina,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,South Carolina,Newberry County,45071,No,53.1,44.2,-24.1,63.5,39.5,26,stable,2.9,44.2,-24.1,63.5,39.5
 11, 2011-2015,Colon & Rectum,South Carolina,Orangeburg County,45075,No,48.7,42.9,-19.6,55.2,20.3,54,stable,-1.7,42.9,-19.6,55.2,20.3
 12, 2011-2015,Colon & Rectum,South Carolina,Jasper County,45053,No,48.2,37.4,-19.8,61.2,22.4,14,stable,-0.9,37.4,-19.8,61.2,22.4
@@ -9761,7 +9761,7 @@
 54, 2011-2015,Colon & Rectum,South Carolina,Barnwell County,45011,Yes,30.8,22,-11.7,42.2,78,8,stable,25.4,22,-11.7,42.2,78
 55, 2011-2015,Colon & Rectum,South Carolina,Allendale County,45005,Yes,27.6,15.8,*,45.5,*,3,*,*,15.8,*,45.5,*
 8, 2011-2015,Lung & Bronchus,South Carolina,South Carolina,45000,***,66.9,66,-2.8,67.9,-0.8,3895,falling,-1.8,66,-2.8,67.9,-0.8
-9, 2011-2015,Lung & Bronchus,South Carolina,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,South Carolina,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,South Carolina,Marlboro County,45069,***,93.8,79.3,-28.1,110.3,21.6,31,stable,-6.5,79.3,-28.1,110.3,21.6
 11, 2011-2015,Lung & Bronchus,South Carolina,Union County,45087,***,91.8,78.8,-8.6,106.5,8.5,37,stable,-0.4,78.8,-8.6,106.5,8.5
 12, 2011-2015,Lung & Bronchus,South Carolina,Dillon County,45033,***,88.8,75.8,-20.6,103.5,17.8,35,stable,-3.3,75.8,-20.6,103.5,17.8
@@ -9809,7 +9809,7 @@
 54, 2011-2015,Lung & Bronchus,South Carolina,Beaufort County,45013,***,50.5,46.7,-6.7,54.6,-2.9,141,falling,-4.8,46.7,-6.7,54.6,-2.9
 55, 2011-2015,Lung & Bronchus,South Carolina,Jasper County,45053,***,48.1,37.7,-30.1,60.7,71.7,15,stable,9.6,37.7,-30.1,60.7,71.7
 8, 2011-2015,Breast,South Dakota,South Dakota,46000,***,134.3,129.6,-9.5,139.2,6,659,stable,-2,129.6,-9.5,139.2,6
-9, 2011-2015,Breast,South Dakota,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,South Dakota,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,South Dakota,Miner County,46097,***,223.7,116.8,*,390.3,*,3,*,*,116.8,*,390.3,*
 11, 2011-2015,Breast,South Dakota,Potter County,46107,***,218.1,121.8,-66.3,369.8,70.6,4,stable,-24.2,121.8,-66.3,369.8,70.6
 12, 2011-2015,Breast,South Dakota,Haakon County,46055,***,204.7,109.2,*,365.7,*,3,*,*,109.2,*,365.7,*
@@ -9877,7 +9877,7 @@
 74, 2011-2015,Breast,South Dakota,Todd County,46121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 75, 2011-2015,Breast,South Dakota,Ziebach County,46137,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,South Dakota,South Dakota,46000,No,42.6,40.8,-7.5,44.5,3.9,425,stable,-2,40.8,-7.5,44.5,3.9
-9, 2011-2015,Colon & Rectum,South Dakota,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,South Dakota,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,South Dakota,Hanson County,46061,No,104.1,57.1,*,172.9,*,3,*,*,57.1,*,172.9,*
 11, 2011-2015,Colon & Rectum,South Dakota,Aurora County,46003,No,97.8,59.3,-45.9,155.9,75.2,4,stable,-2.7,59.3,-45.9,155.9,75.2
 12, 2011-2015,Colon & Rectum,South Dakota,Kingsbury County,46077,No,95.6,64,-2.8,138.5,56,7,stable,23.2,64,-2.8,138.5,56
@@ -9945,7 +9945,7 @@
 74, 2011-2015,Colon & Rectum,South Dakota,Walworth County,46129,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 75, 2011-2015,Colon & Rectum,South Dakota,Ziebach County,46137,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,South Dakota,South Dakota,46000,***,58.1,56,-4.5,60.3,3.4,584,stable,-0.6,56,-4.5,60.3,3.4
-9, 2011-2015,Lung & Bronchus,South Dakota,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,South Dakota,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,South Dakota,Douglas County,46043,***,97.4,63,-40.1,149.4,10.7,5,stable,-18.6,63,-40.1,149.4,10.7
 11, 2011-2015,Lung & Bronchus,South Dakota,Miner County,46097,***,86.8,48.7,*,149.3,*,3,*,*,48.7,*,149.3,*
 12, 2011-2015,Lung & Bronchus,South Dakota,McCook County,46087,***,83.4,57.3,*,119,*,7,*,*,57.3,*,119,*
@@ -10013,7 +10013,7 @@
 74, 2011-2015,Lung & Bronchus,South Dakota,Todd County,46121,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 75, 2011-2015,Lung & Bronchus,South Dakota,Ziebach County,46137,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Tennessee,Tennessee,47000,***,114.4,112.8,-13,116,0.6,4259,stable,-6.5,112.8,-13,116,0.6
-9, 2011-2015,Prostate,Tennessee,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Tennessee,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Tennessee,Benton County,47005,***,158.8,127.9,-30.6,196.2,13.1,20,stable,-11.4,127.9,-30.6,196.2,13.1
 11, 2011-2015,Prostate,Tennessee,Henry County,47079,***,153.2,131.7,-14.4,177.9,28.2,38,stable,4.7,131.7,-14.4,177.9,28.2
 12, 2011-2015,Prostate,Tennessee,Carroll County,47017,***,149.3,125.5,-20.2,176.8,-1.4,29,falling,-11.3,125.5,-20.2,176.8,-1.4
@@ -10110,7 +10110,7 @@
 103, 2011-2015,Prostate,Tennessee,Decatur County,47039,***,65.3,44,-27,95.4,16.3,6,stable,-7.9,44,-27,95.4,16.3
 104, 2011-2015,Prostate,Tennessee,Pickett County,47137,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Tennessee,Tennessee,47000,***,122.2,120.6,-2.6,123.8,2.5,4898,stable,-0.1,120.6,-2.6,123.8,2.5
-9, 2011-2015,Breast,Tennessee,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Tennessee,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Tennessee,Haywood County,47075,***,160,128.1,-27.2,197.7,12.4,19,stable,-9.6,128.1,-27.2,197.7,12.4
 11, 2011-2015,Breast,Tennessee,Moore County,47127,***,150.9,101.6,-45.5,218.2,102.3,7,stable,5,101.6,-45.5,218.2,102.3
 12, 2011-2015,Breast,Tennessee,Williamson County,47187,***,149,138.8,-6.6,159.7,15.9,169,stable,4,138.8,-6.6,159.7,15.9
@@ -10207,7 +10207,7 @@
 103, 2011-2015,Breast,Tennessee,Decatur County,47039,***,82.5,56.7,-5.8,117.6,23.6,8,stable,7.9,56.7,-5.8,117.6,23.6
 104, 2011-2015,Breast,Tennessee,Trousdale County,47169,***,78.5,47.3,-28.8,123.9,65.6,4,stable,8.6,47.3,-28.8,123.9,65.6
 8, 2011-2015,Colon & Rectum,Tennessee,Tennessee,47000,No,40.4,39.7,-3.9,41.1,2.7,3024,stable,-0.6,39.7,-3.9,41.1,2.7
-9, 2011-2015,Colon & Rectum,Tennessee,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Tennessee,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Tennessee,Trousdale County,47169,No,70,48,-50,99.2,114.6,7,stable,3.6,48,-50,99.2,114.6
 11, 2011-2015,Colon & Rectum,Tennessee,Grundy County,47061,No,63.3,47.2,-26.4,83.5,29.2,11,stable,-2.5,47.2,-26.4,83.5,29.2
 12, 2011-2015,Colon & Rectum,Tennessee,Lauderdale County,47097,No,63,50.6,-9.8,77.6,12.3,19,stable,0.7,50.6,-9.8,77.6,12.3
@@ -10304,7 +10304,7 @@
 103, 2011-2015,Colon & Rectum,Tennessee,Monroe County,47123,Yes,29.8,23.9,-16.8,36.9,48,19,stable,11,23.9,-16.8,36.9,48
 104, 2011-2015,Colon & Rectum,Tennessee,Loudon County,47105,Yes,28.1,22.8,-11.4,34.4,10.4,22,stable,-1.1,22.8,-11.4,34.4,10.4
 8, 2011-2015,Lung & Bronchus,Tennessee,Tennessee,47000,***,75.7,74.9,-1.4,76.6,1.2,5845,stable,-0.1,74.9,-1.4,76.6,1.2
-9, 2011-2015,Lung & Bronchus,Tennessee,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Tennessee,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Tennessee,Claiborne County,47025,***,113.7,99.9,-13.9,129.2,24.2,51,stable,3.4,99.9,-13.9,129.2,24.2
 11, 2011-2015,Lung & Bronchus,Tennessee,Campbell County,47013,***,112.1,100,-13.5,125.4,24.1,65,stable,3.6,100,-13.5,125.4,24.1
 12, 2011-2015,Lung & Bronchus,Tennessee,Trousdale County,47169,***,109.7,81.4,-25.6,145.3,48.1,10,stable,4.9,81.4,-25.6,145.3,48.1
@@ -10401,7 +10401,7 @@
 103, 2011-2015,Lung & Bronchus,Tennessee,Cannon County,47015,***,56.4,42.1,-7.8,74.5,26.9,11,stable,8.2,42.1,-7.8,74.5,26.9
 104, 2011-2015,Lung & Bronchus,Tennessee,Williamson County,47187,***,43.5,39.2,-2.8,48.1,2,82,stable,-0.4,39.2,-2.8,48.1,2
 8, 2011-2015,Breast,Texas,Texas,48000,***,111.7,110.9,-0.8,112.5,1.5,15257,stable,0.4,110.9,-0.8,112.5,1.5
-9, 2011-2015,Breast,Texas,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Texas,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Texas,Collingsworth County,48087,***,192.1,109.4,-14,313.6,122.3,4,stable,38.3,109.4,-14,313.6,122.3
 11, 2011-2015,Breast,Texas,Runnels County,48399,***,144.4,106.4,-16.4,192.7,10.8,11,stable,-3.8,106.4,-16.4,192.7,10.8
 12, 2011-2015,Breast,Texas,Karnes County,48255,***,142.4,105.8,-12,188.1,55.1,11,stable,16.9,105.8,-12,188.1,55.1
@@ -10657,7 +10657,7 @@
 262, 2011-2015,Breast,Texas,Throckmorton County,48447,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 263, 2011-2015,Breast,Texas,Upton County,48461,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Texas,Texas,48000,Yes,38.1,37.8,-1.7,38.4,-0.5,9670,falling,-1.1,37.8,-1.7,38.4,-0.5
-9, 2011-2015,Colon & Rectum,Texas,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Texas,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Texas,Hall County,48191,No,67.4,37.4,*,115.3,*,3,*,*,37.4,*,115.3,*
 11, 2011-2015,Colon & Rectum,Texas,Dallam County,48111,No,65.3,37.2,*,105.2,*,3,*,*,37.2,*,105.2,*
 12, 2011-2015,Colon & Rectum,Texas,Brooks County,48047,No,64.3,43.4,-26.8,92.7,100.5,6,stable,21.1,43.4,-26.8,92.7,100.5
@@ -10913,7 +10913,7 @@
 262, 2011-2015,Colon & Rectum,Texas,Winkler County,48495,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 263, 2011-2015,Colon & Rectum,Texas,Yoakum County,48501,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Texas,Texas,48000,***,53.1,52.7,-4.7,53.5,-1.1,13139,falling,-2.9,52.7,-4.7,53.5,-1.1
-9, 2011-2015,Lung & Bronchus,Texas,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Texas,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Texas,Polk County,48373,***,94.4,84.1,-9.3,105.8,6.5,64,stable,-1.7,84.1,-9.3,105.8,6.5
 11, 2011-2015,Lung & Bronchus,Texas,Marion County,48315,***,92.9,73.1,-25.6,117.6,-11.9,16,falling,-19,73.1,-25.6,117.6,-11.9
 12, 2011-2015,Lung & Bronchus,Texas,Trinity County,48455,***,92.1,75.7,-11.4,111.9,6,23,stable,-3.1,75.7,-11.4,111.9,6
@@ -11169,7 +11169,7 @@
 262, 2011-2015,Lung & Bronchus,Texas,Throckmorton County,48447,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 263, 2011-2015,Lung & Bronchus,Texas,Upton County,48461,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Texas,Texas,48000,***,95.4,94.6,-9.5,96.2,-2.6,11572,falling,-6.1,94.6,-9.5,96.2,-2.6
-9, 2011-2015,Prostate,Texas,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Texas,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Texas,Sutton County,48435,***,149.4,85.8,-12.5,243.7,49.3,4,stable,14.3,85.8,-12.5,243.7,49.3
 11, 2011-2015,Prostate,Texas,Coke County,48081,***,137,81.2,-44.9,227.7,38,4,stable,-12.8,81.2,-44.9,227.7,38
 12, 2011-2015,Prostate,Texas,Wheeler County,48483,***,134.1,86.4,-53.3,201.3,85.3,5,stable,-6.9,86.4,-53.3,201.3,85.3
@@ -11425,7 +11425,7 @@
 262, 2011-2015,Prostate,Texas,Winkler County,48495,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 263, 2011-2015,Prostate,Texas,Yoakum County,48501,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Utah,Utah(3,49000,***,115.1,112.4,-0.2,117.8,0.2,1448,stable,0,112.4,-0.2,117.8,0.2
-9, 2011-2015,Breast,Utah,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Utah,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Utah,Grand County,49019,***,165,117.7,-0.5,225.3,5.2,9,stable,2.3,117.7,-0.5,225.3,5.2
 11, 2011-2015,Breast,Utah,Millard County,49027,***,144.9,105.9,-0.1,193.6,3.9,10,stable,1.9,105.9,-0.1,193.6,3.9
 12, 2011-2015,Breast,Utah,Emery County,49015,***,144.6,101.4,*,199.9,*,8,*,*,101.4,*,199.9,*
@@ -11456,7 +11456,7 @@
 37, 2011-2015,Breast,Utah,Rich County,49033,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 38, 2011-2015,Breast,Utah,Wayne County,49055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Utah,Utah(3,49000,Yes,30.6,29.6,-3.8,31.7,-2.3,730,falling,-3.1,29.6,-3.8,31.7,-2.3
-9, 2011-2015,Colon & Rectum,Utah,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Utah,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Utah,Carbon County,49007,No,45.6,34.1,-3.2,59.9,-0.4,11,falling,-1.8,34.1,-3.2,59.9,-0.4
 11, 2011-2015,Colon & Rectum,Utah,Uintah County,49047,No,44.8,34.2,-0.4,57.5,3,12,stable,1.3,34.2,-0.4,57.5,3
 12, 2011-2015,Colon & Rectum,Utah,Grand County,49019,No,44,27.6,-1.7,66.9,4.2,5,stable,1.2,27.6,-1.7,66.9,4.2
@@ -11487,7 +11487,7 @@
 37, 2011-2015,Colon & Rectum,Utah,San Juan County,49037,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 38, 2011-2015,Colon & Rectum,Utah,Wayne County,49055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Utah,Utah(3,49000,***,27.6,26.6,-1.2,28.6,-0.6,647,falling,-0.9,26.6,-1.2,28.6,-0.6
-9, 2011-2015,Lung & Bronchus,Utah,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Utah,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Utah,Grand County,49019,***,50.8,33.6,*,74.1,*,6,*,*,33.6,*,74.1,*
 11, 2011-2015,Lung & Bronchus,Utah,Carbon County,49007,***,41.4,30.4,-1.6,55.1,2.2,10,stable,0.3,30.4,-1.6,55.1,2.2
 12, 2011-2015,Lung & Bronchus,Utah,Duchesne County,49013,***,40.1,27.8,-3.8,55.9,1,7,stable,-1.5,27.8,-3.8,55.9,1
@@ -11518,7 +11518,7 @@
 37, 2011-2015,Lung & Bronchus,Utah,San Juan County,49037,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 38, 2011-2015,Lung & Bronchus,Utah,Wayne County,49055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Utah,Utah(3,49000,***,120.9,118.1,-10.8,123.8,-6,1426,falling,-8.5,118.1,-10.8,123.8,-6
-9, 2011-2015,Prostate,Utah,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Utah,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Utah,Tooele County,49045,***,174.5,150.1,-1.8,201.6,1.1,41,stable,-0.4,150.1,-1.8,201.6,1.1
 11, 2011-2015,Prostate,Utah,Washington County,49053,***,145.6,134.9,-2.2,157.1,-0.5,142,falling,-1.4,134.9,-2.2,157.1,-0.5
 12, 2011-2015,Prostate,Utah,Davis County,49011,***,140.4,130.9,-16.7,150.5,1,171,stable,-8.3,130.9,-16.7,150.5,1
@@ -11549,7 +11549,7 @@
 37, 2011-2015,Prostate,Utah,Rich County,49033,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 38, 2011-2015,Prostate,Utah,Wayne County,49055,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Vermont,Vermont,50000,***,130.4,125.4,-2.3,135.7,4.6,540,stable,1.1,125.4,-2.3,135.7,4.6
-9, 2011-2015,Breast,Vermont,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Vermont,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Vermont,Lamoille County,50015,***,148.1,121.1,-9.7,179.7,33,22,stable,9.6,121.1,-9.7,179.7,33
 11, 2011-2015,Breast,Vermont,Chittenden County,50007,***,142.7,131.6,-7.4,154.5,7.1,129,stable,-0.4,131.6,-7.4,154.5,7.1
 12, 2011-2015,Breast,Vermont,Windsor County,50027,***,141.2,124.5,-1.1,159.9,21.6,59,stable,9.7,124.5,-1.1,159.9,21.6
@@ -11565,7 +11565,7 @@
 22, 2011-2015,Breast,Vermont,Essex County,50009,***,107.3,65,-31.6,169.8,74.8,5,stable,9.3,65,-31.6,169.8,74.8
 23, 2011-2015,Breast,Vermont,Caledonia County,50005,***,95,76.7,-16.2,116.7,13.1,21,stable,-2.6,76.7,-16.2,116.7,13.1
 8, 2011-2015,Colon & Rectum,Vermont,Vermont,50000,Yes,36.1,34.2,-9.5,38.1,1.1,288,stable,-4.3,34.2,-9.5,38.1,1.1
-9, 2011-2015,Colon & Rectum,Vermont,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Vermont,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Vermont,Grand Isle County,50013,No,44.4,25,-32.9,73.4,63.9,4,stable,4.9,25,-32.9,73.4,63.9
 11, 2011-2015,Colon & Rectum,Vermont,Windham County,50025,No,42.4,35.4,-20.3,50.6,17.5,28,stable,-3.2,35.4,-20.3,50.6,17.5
 12, 2011-2015,Colon & Rectum,Vermont,Caledonia County,50005,No,42.1,33.3,-30.2,52.6,13.3,17,stable,-11.1,33.3,-30.2,52.6,13.3
@@ -11581,7 +11581,7 @@
 22, 2011-2015,Colon & Rectum,Vermont,Essex County,50009,Yes,32.8,18.2,*,57.1,*,3,*,*,18.2,*,57.1,*
 23, 2011-2015,Colon & Rectum,Vermont,Chittenden County,50007,Yes,31,27.3,-21.8,35.1,19.1,53,stable,-3.5,27.3,-21.8,35.1,19.1
 8, 2011-2015,Lung & Bronchus,Vermont,Vermont,50000,***,63.4,60.9,-5.4,65.9,0.5,522,stable,-2.5,60.9,-5.4,65.9,0.5
-9, 2011-2015,Lung & Bronchus,Vermont,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Vermont,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Vermont,Grand Isle County,50013,***,91.6,63.3,-34.4,129.1,19.5,8,stable,-11.5,63.3,-34.4,129.1,19.5
 11, 2011-2015,Lung & Bronchus,Vermont,Franklin County,50011,***,78.3,67.9,-8.1,89.9,4.3,43,stable,-2.1,67.9,-8.1,89.9,4.3
 12, 2011-2015,Lung & Bronchus,Vermont,Rutland County,50021,***,70.7,62.8,-4.6,79.5,3.3,62,stable,-0.7,62.8,-4.6,79.5,3.3
@@ -11597,7 +11597,7 @@
 22, 2011-2015,Lung & Bronchus,Vermont,Windham County,50025,***,53.9,45.8,-11.3,63.1,10.6,34,stable,-0.9,45.8,-11.3,63.1,10.6
 23, 2011-2015,Lung & Bronchus,Vermont,Addison County,50001,***,50.3,41.5,-29.4,60.5,13.4,25,stable,-10.5,41.5,-29.4,60.5,13.4
 8, 2011-2015,Prostate,Vermont,Vermont,50000,***,92,87.8,-21.3,96.4,2,383,stable,-10.4,87.8,-21.3,96.4,2
-9, 2011-2015,Prostate,Vermont,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Vermont,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Vermont,Bennington County,50003,***,108.4,91.3,-22.8,128.3,2.7,29,stable,-11,91.3,-22.8,128.3,2.7
 11, 2011-2015,Prostate,Vermont,Washington County,50023,***,107.3,93,-22.8,123.5,-2.7,43,falling,-13.3,93,-22.8,123.5,-2.7
 12, 2011-2015,Prostate,Vermont,Addison County,50001,***,104,86.5,-14.8,124.4,14.7,27,stable,-1.1,86.5,-14.8,124.4,14.7
@@ -11613,7 +11613,7 @@
 22, 2011-2015,Prostate,Vermont,Caledonia County,50005,***,68,52.6,-29.7,87,14.6,14,stable,-10.2,52.6,-29.7,87,14.6
 23, 2011-2015,Prostate,Vermont,Essex County,50009,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Virginia,Virginia,51000,***,127.9,126.4,-2.6,129.4,2.8,6217,stable,0.1,126.4,-2.6,129.4,2.8
-9, 2011-2015,Breast,Virginia,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Virginia,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Virginia,Lexington City,51678,***,156.7,97.5,-31,241.9,119,6,stable,22.9,97.5,-31,241.9,119
 11, 2011-2015,Breast,Virginia,Williamsburg City,51830,***,155.3,116.2,-25.3,204.5,78.8,12,stable,15.6,116.2,-25.3,204.5,78.8
 12, 2011-2015,Breast,Virginia,Hanover County,51085,***,154.7,141.1,-9.5,169.3,23.1,101,stable,5.6,141.1,-9.5,169.3,23.1
@@ -11748,7 +11748,7 @@
 141, 2011-2015,Breast,Virginia,Highland County,51091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 142, 2011-2015,Breast,Virginia,Norton City,51720,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Virginia,Virginia,51000,Yes,36,35.4,-5,36.6,1.4,3244,stable,-1.8,35.4,-5,36.6,1.4
-9, 2011-2015,Colon & Rectum,Virginia,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Virginia,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Virginia,Charlotte County,51037,No,70,53.6,-20.8,90.6,23.1,13,stable,-1.3,53.6,-20.8,90.6,23.1
 11, 2011-2015,Colon & Rectum,Virginia,Franklin City,51620,No,67.7,45.8,-37.6,96.6,75.4,7,stable,4.6,45.8,-37.6,96.6,75.4
 12, 2011-2015,Colon & Rectum,Virginia,King William County,51101,No,61.2,45.6,-25.9,80.5,56.8,11,stable,7.8,45.6,-25.9,80.5,56.8
@@ -11883,7 +11883,7 @@
 141, 2011-2015,Colon & Rectum,Virginia,Lexington City,51678,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 142, 2011-2015,Colon & Rectum,Virginia,Norton City,51720,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Virginia,Virginia,51000,***,58.9,58.1,-5,59.6,-0.3,5330,falling,-2.7,58.1,-5,59.6,-0.3
-9, 2011-2015,Lung & Bronchus,Virginia,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Virginia,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Virginia,Emporia City,51595,***,101.6,71,5.6,142,38.3,7,rising,20.8,71,5.6,142,38.3
 11, 2011-2015,Lung & Bronchus,Virginia,Covington City,51580,***,91.9,64,-40.2,129.2,9.1,7,stable,-19.2,64,-40.2,129.2,9.1
 12, 2011-2015,Lung & Bronchus,Virginia,Louisa County,51109,***,91.8,79.5,-10.9,105.7,23.4,42,stable,4.9,79.5,-10.9,105.7,23.4
@@ -12018,7 +12018,7 @@
 141, 2011-2015,Lung & Bronchus,Virginia,Fairfax City,51600,***,31.5,22.9,-21.8,42.5,11.1,9,stable,-6.7,22.9,-21.8,42.5,11.1
 142, 2011-2015,Lung & Bronchus,Virginia,Highland County,51091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Virginia,Virginia,51000,***,102.8,101.4,-13.8,104.2,2.6,4616,stable,-6,101.4,-13.8,104.2,2.6
-9, 2011-2015,Prostate,Virginia,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Virginia,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Virginia,Petersburg City,51730,***,218.9,188,-21.9,253.7,7.1,38,stable,-8.5,188,-21.9,253.7,7.1
 11, 2011-2015,Prostate,Virginia,Nottoway County,51135,***,169.4,136.2,-32.9,209,-3,18,falling,-19.3,136.2,-32.9,209,-3
 12, 2011-2015,Prostate,Virginia,Greensville County,51081,***,164.9,123.8,-40.8,215.9,29.1,12,stable,-12.6,123.8,-40.8,215.9,29.1
@@ -12153,7 +12153,7 @@
 141, 2011-2015,Prostate,Virginia,Manassas Park City,51685,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 142, 2011-2015,Prostate,Virginia,Norton City,51720,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Washington,Washington(5,53000,***,135.3,133.6,-1.9,136.9,0.5,5485,stable,-0.7,133.6,-1.9,136.9,0.5
-9, 2011-2015,Breast,Washington,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Washington,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Washington,Pend Oreille County,53051,***,151.3,115.9,-17.3,195.7,18.1,15,stable,-1.2,115.9,-17.3,195.7,18.1
 11, 2011-2015,Breast,Washington,San Juan County,53055,***,145.3,112.4,-2,186.1,1.6,19,stable,-0.2,112.4,-2,186.1,1.6
 12, 2011-2015,Breast,Washington,Clallam County,53009,***,142.6,128.3,-3,158.3,0.4,91,stable,-1.3,128.3,-3,158.3,0.4
@@ -12194,7 +12194,7 @@
 47, 2011-2015,Breast,Washington,Columbia County,53013,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 48, 2011-2015,Breast,Washington,Garfield County,53023,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Washington,Washington(5,53000,Yes,35.7,35.1,-4.4,36.3,-0.1,2740,falling,-2.3,35.1,-4.4,36.3,-0.1
-9, 2011-2015,Colon & Rectum,Washington,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Washington,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Washington,Grays Harbor County,53027,No,45,39.1,-2.4,51.7,-0.9,44,falling,-1.6,39.1,-2.4,51.7,-0.9
 11, 2011-2015,Colon & Rectum,Washington,Island County,53029,No,42.6,37,-2.4,48.9,0.1,48,stable,-1.2,37,-2.4,48.9,0.1
 12, 2011-2015,Colon & Rectum,Washington,Mason County,53045,No,41.3,35.3,-3.1,48,-1.2,37,falling,-2.2,35.3,-3.1,48,-1.2
@@ -12235,7 +12235,7 @@
 47, 2011-2015,Colon & Rectum,Washington,Garfield County,53023,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 48, 2011-2015,Colon & Rectum,Washington,Wahkiakum County,53069,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Washington,Washington(5,53000,***,56.7,56,-5.1,57.5,-1.2,4337,falling,-3.2,56,-5.1,57.5,-1.2
-9, 2011-2015,Lung & Bronchus,Washington,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Washington,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Washington,Mason County,53045,***,74.7,66.9,-3.3,83.3,-1.3,71,falling,-2.3,66.9,-3.3,83.3,-1.3
 11, 2011-2015,Lung & Bronchus,Washington,Pierce County,53053,***,71.9,69.3,-0.7,74.6,-0.1,595,falling,-0.4,69.3,-0.7,74.6,-0.1
 12, 2011-2015,Lung & Bronchus,Washington,Pend Oreille County,53051,***,71.5,55.7,-26.5,91.3,5.6,15,stable,-11.9,55.7,-26.5,91.3,5.6
@@ -12276,7 +12276,7 @@
 47, 2011-2015,Lung & Bronchus,Washington,Ferry County,53019,***,38.5,24.1,-31.7,60.2,65.7,5,stable,6.4,24.1,-31.7,60.2,65.7
 48, 2011-2015,Lung & Bronchus,Washington,Garfield County,53023,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Washington,Washington(5,53000,***,106.8,105.3,-14,108.4,-4.1,4148,falling,-9.2,105.3,-14,108.4,-4.1
-9, 2011-2015,Prostate,Washington,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Washington,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Washington,Douglas County,53017,***,159.7,137.6,-21.7,184.4,13.7,39,stable,-5.7,137.6,-21.7,184.4,13.7
 11, 2011-2015,Prostate,Washington,Columbia County,53013,***,156,103.3,-33.1,235.3,7.1,6,stable,-15.3,103.3,-33.1,235.3,7.1
 12, 2011-2015,Prostate,Washington,Kitsap County,53035,***,142,133.6,-2.2,150.8,-0.8,231,falling,-1.5,133.6,-2.2,150.8,-0.8
@@ -12317,9 +12317,9 @@
 47, 2011-2015,Prostate,Washington,Ferry County,53019,***,46,26,-41.1,80.6,14.8,4,stable,-17.8,26,-41.1,80.6,14.8
 48, 2011-2015,Prostate,Washington,Garfield County,53023,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,District of Columbia,District of Columbia,11001,***,139.7,134,-10.4,145.6,1.7,470,stable,-4.6,134,-10.4,145.6,1.7
-9, 2011-2015,Breast,District of Columbia,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,District of Columbia,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 8, 2011-2015,Prostate,West Virginia,West Virginia,54000,***,94.7,92.3,-14.1,97.2,1,1177,stable,-6.9,92.3,-14.1,97.2,1
-9, 2011-2015,Prostate,West Virginia,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,West Virginia,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,West Virginia,Ohio County,54069,***,146.3,126.7,-29.8,168.5,4.5,42,stable,-14.4,126.7,-29.8,168.5,4.5
 11, 2011-2015,Prostate,West Virginia,Wetzel County,54103,***,137.7,109.6,-16.9,171.9,-1.4,17,falling,-9.5,109.6,-16.9,171.9,-1.4
 12, 2011-2015,Prostate,West Virginia,Tyler County,54095,***,132.4,96.4,-50,180,64.1,10,stable,-9.4,96.4,-50,180,64.1
@@ -12376,7 +12376,7 @@
 63, 2011-2015,Prostate,West Virginia,Grant County,54023,***,39.9,23.6,-43.7,65.3,44.2,4,stable,-9.9,23.6,-43.7,65.3,44.2
 64, 2011-2015,Prostate,West Virginia,Wirt County,54105,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,West Virginia,West Virginia,54000,No,47,45.8,-2.5,48.3,2.3,1141,stable,-0.2,45.8,-2.5,48.3,2.3
-9, 2011-2015,Colon & Rectum,West Virginia,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,West Virginia,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,West Virginia,Calhoun County,54013,No,64.8,44.9,-20.9,91.8,23.1,7,stable,-1.3,44.9,-20.9,91.8,23.1
 11, 2011-2015,Colon & Rectum,West Virginia,Ritchie County,54085,No,64.1,47.2,-29.2,86.1,6.9,10,stable,-13,47.2,-29.2,86.1,6.9
 12, 2011-2015,Colon & Rectum,West Virginia,Mingo County,54059,No,62.8,50.6,2.6,77.1,37.6,20,rising,18.8,50.6,2.6,77.1,37.6
@@ -12433,7 +12433,7 @@
 63, 2011-2015,Colon & Rectum,West Virginia,Doddridge County,54017,Yes,33.4,20.1,-25.3,53.6,18.3,4,stable,-6,20.1,-25.3,53.6,18.3
 64, 2011-2015,Colon & Rectum,West Virginia,Wyoming County,54109,Yes,31.6,23.1,-18.9,42.5,42.5,10,stable,7.5,23.1,-18.9,42.5,42.5
 8, 2011-2015,Breast,West Virginia,West Virginia,54000,***,116.3,113.5,-2.3,119.1,3.5,1450,stable,0.6,113.5,-2.3,119.1,3.5
-9, 2011-2015,Breast,West Virginia,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,West Virginia,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,West Virginia,Webster County,54101,***,144.8,103.5,-22.3,198.4,20.1,9,stable,-3.4,103.5,-22.3,198.4,20.1
 11, 2011-2015,Breast,West Virginia,Cabell County,54011,***,141.4,127.9,-19.7,156,16.6,88,stable,-3.3,127.9,-19.7,156,16.6
 12, 2011-2015,Breast,West Virginia,Marion County,54049,***,139,121.8,-25.3,157.9,10.7,53,stable,-9.1,121.8,-25.3,157.9,10.7
@@ -12490,7 +12490,7 @@
 63, 2011-2015,Breast,West Virginia,Summers County,54089,***,77.7,55.3,-41,107.4,15.4,8,stable,-17.4,55.3,-41,107.4,15.4
 64, 2011-2015,Breast,West Virginia,Doddridge County,54017,***,67.1,40.2,-12.3,108.8,35.2,4,stable,8.9,40.2,-12.3,108.8,35.2
 8, 2011-2015,Lung & Bronchus,West Virginia,West Virginia,54000,***,80.3,78.7,-3.1,81.9,0.2,2039,stable,-1.5,78.7,-3.1,81.9,0.2
-9, 2011-2015,Lung & Bronchus,West Virginia,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,West Virginia,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,West Virginia,Mingo County,54059,***,114.7,98.3,-16.5,133.2,32.8,37,stable,5.3,98.3,-16.5,133.2,32.8
 11, 2011-2015,Lung & Bronchus,West Virginia,Logan County,54045,***,114.6,101.3,-17.1,129.4,16.4,57,stable,-1.8,101.3,-17.1,129.4,16.4
 12, 2011-2015,Lung & Bronchus,West Virginia,Boone County,54005,***,110.2,94,-5.6,128.6,17.6,35,stable,5.3,94,-5.6,128.6,17.6
@@ -12547,7 +12547,7 @@
 63, 2011-2015,Lung & Bronchus,West Virginia,Pendleton County,54071,***,53.4,37.2,-35.2,76.4,37.4,7,stable,-5.7,37.2,-35.2,76.4,37.4
 64, 2011-2015,Lung & Bronchus,West Virginia,Summers County,54089,***,49.3,36.5,-22.8,65.8,32.9,10,stable,1.3,36.5,-22.8,65.8,32.9
 8, 2011-2015,Breast,Wisconsin,Wisconsin,55000,***,129.7,127.9,-1.5,131.4,0.8,4512,stable,-0.3,127.9,-1.5,131.4,0.8
-9, 2011-2015,Breast,Wisconsin,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Wisconsin,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Wisconsin,Vilas County,55125,***,155.2,127.3,-21.7,188.5,43.9,29,stable,6.1,127.3,-21.7,188.5,43.9
 11, 2011-2015,Breast,Wisconsin,Sawyer County,55113,***,151.6,120,-24.4,189.8,35.2,19,stable,1.1,120,-24.4,189.8,35.2
 12, 2011-2015,Breast,Wisconsin,Washburn County,55129,***,149.6,118,-40.4,188.2,62.9,18,stable,-1.4,118,-40.4,188.2,62.9
@@ -12621,7 +12621,7 @@
 80, 2011-2015,Breast,Wisconsin,Forest County,55041,***,72.6,45.1,-39,112.7,43.5,5,stable,-6.5,45.1,-39,112.7,43.5
 81, 2011-2015,Breast,Wisconsin,Menominee County,55078,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Wisconsin,Wisconsin,55000,Yes,37.6,36.9,-3.8,38.2,-1.3,2548,falling,-2.5,36.9,-3.8,38.2,-1.3
-9, 2011-2015,Colon & Rectum,Wisconsin,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Wisconsin,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Wisconsin,Forest County,55041,No,56.7,39.5,-57.2,79.9,113.4,8,stable,-4.5,39.5,-57.2,79.9,113.4
 11, 2011-2015,Colon & Rectum,Wisconsin,Ashland County,55003,No,52.4,39.5,-15.4,68.6,33.6,12,stable,6.3,39.5,-15.4,68.6,33.6
 12, 2011-2015,Colon & Rectum,Wisconsin,Oneida County,55085,No,49.1,41.1,-0.7,58.6,22.5,29,stable,10.3,41.1,-0.7,58.6,22.5
@@ -12695,7 +12695,7 @@
 80, 2011-2015,Colon & Rectum,Wisconsin,Menominee County,55078,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 81, 2011-2015,Colon & Rectum,Wisconsin,Pepin County,55091,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Wisconsin,Wisconsin,55000,***,60,59.1,-2.8,60.8,-1.3,4132,falling,-2,59.1,-2.8,60.8,-1.3
-9, 2011-2015,Lung & Bronchus,Wisconsin,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Wisconsin,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Wisconsin,Forest County,55041,***,90.3,70.1,-42,115.8,28.9,14,stable,-13.5,70.1,-42,115.8,28.9
 11, 2011-2015,Lung & Bronchus,Wisconsin,Adams County,55001,***,88.8,75.8,-6.9,104.2,24,35,stable,7.4,75.8,-6.9,104.2,24
 12, 2011-2015,Lung & Bronchus,Wisconsin,Monroe County,55081,***,80.6,70.2,-20.3,92.1,25.2,45,stable,-0.1,70.2,-20.3,92.1,25.2
@@ -12769,7 +12769,7 @@
 80, 2011-2015,Lung & Bronchus,Wisconsin,Pierce County,55093,***,38.3,30.2,-22.2,47.9,64,16,stable,13,30.2,-22.2,47.9,64
 81, 2011-2015,Lung & Bronchus,Wisconsin,Menominee County,55078,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Wisconsin,Wisconsin,55000,***,111.6,110,-12.4,113.2,2.4,3815,stable,-5.3,110,-12.4,113.2,2.4
-9, 2011-2015,Prostate,Wisconsin,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Wisconsin,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Wisconsin,Vilas County,55125,***,168.2,143.1,-28.1,197.8,0.7,36,stable,-14.9,143.1,-28.1,197.8,0.7
 11, 2011-2015,Prostate,Wisconsin,Oneida County,55085,***,141.7,123.5,-24.3,162.5,-6.3,45,falling,-15.8,123.5,-24.3,162.5,-6.3
 12, 2011-2015,Prostate,Wisconsin,Washington County,55131,***,135.1,123.9,-9.9,147.2,9.3,112,stable,-0.8,123.9,-9.9,147.2,9.3
@@ -12843,7 +12843,7 @@
 80, 2011-2015,Prostate,Wisconsin,Florence County,55037,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 81, 2011-2015,Prostate,Wisconsin,Menominee County,55078,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Breast,Wyoming,Wyoming,56000,***,112.6,107.3,-9.7,118,7.9,366,stable,-1.3,107.3,-9.7,118,7.9
-9, 2011-2015,Breast,Wyoming,US (SEER+NPCR,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
+9, 2011-2015,Breast,Wyoming,US ,0,***,124.7,124.4,-0.2,124.9,0.6,234445,stable,0.2,124.4,-0.2,124.9,0.6
 10, 2011-2015,Breast,Wyoming,Weston County,56045,***,147.6,98.8,-51.2,213.6,20.1,7,stable,-23.4,98.8,-51.2,213.6,20.1
 11, 2011-2015,Breast,Wyoming,Teton County,56039,***,134.8,106.4,-14.6,168.8,39.5,16,stable,9.2,106.4,-14.6,168.8,39.5
 12, 2011-2015,Breast,Wyoming,Park County,56029,***,123.7,101,-30.7,150.2,36.2,24,stable,-2.8,101,-30.7,150.2,36.2
@@ -12868,7 +12868,7 @@
 31, 2011-2015,Breast,Wyoming,Johnson County,56019,***,80.4,51.4,-40.2,122.3,37,5,stable,-9.5,51.4,-40.2,122.3,37
 32, 2011-2015,Breast,Wyoming,Niobrara County,56027,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Colon & Rectum,Wyoming,Wyoming,56000,Yes,33.3,31.3,-9.2,35.4,-1.1,212,falling,-5.3,31.3,-9.2,35.4,-1.1
-9, 2011-2015,Colon & Rectum,Wyoming,US (SEER+NPCR,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
+9, 2011-2015,Colon & Rectum,Wyoming,US ,0,Yes,39.2,39.1,-2.4,39.3,-1,139950,falling,-1.7,39.1,-2.4,39.3,-1
 10, 2011-2015,Colon & Rectum,Wyoming,Fremont County,56013,No,46.5,38.1,-13,56.3,19.1,23,stable,1.8,38.1,-13,56.3,19.1
 11, 2011-2015,Colon & Rectum,Wyoming,Hot Springs County,56017,No,41.4,23.2,*,71.3,*,3,*,*,23.2,*,71.3,*
 12, 2011-2015,Colon & Rectum,Wyoming,Washakie County,56043,No,40.2,25.8,-46.3,61,109.8,5,stable,6.2,25.8,-46.3,61,109.8
@@ -12893,7 +12893,7 @@
 31, 2011-2015,Colon & Rectum,Wyoming,Sublette County,56035,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 32, 2011-2015,Colon & Rectum,Wyoming,Weston County,56045,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Lung & Bronchus,Wyoming,Wyoming,56000,***,44.5,42.2,-10.5,46.9,5.3,288,stable,-2.9,42.2,-10.5,46.9,5.3
-9, 2011-2015,Lung & Bronchus,Wyoming,US (SEER+NPCR,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
+9, 2011-2015,Lung & Bronchus,Wyoming,US ,0,***,60.2,60.1,-2.6,60.3,-1.7,217545,falling,-2.1,60.1,-2.6,60.3,-1.7
 10, 2011-2015,Lung & Bronchus,Wyoming,Campbell County,56005,***,58.1,45.6,-14.6,72.6,32.6,19,stable,6.4,45.6,-14.6,72.6,32.6
 11, 2011-2015,Lung & Bronchus,Wyoming,Hot Springs County,56017,***,57.4,37,-30.6,88.7,57.6,5,stable,4.6,37,-30.6,88.7,57.6
 12, 2011-2015,Lung & Bronchus,Wyoming,Converse County,56009,***,56.3,41,-38.1,75.7,12.5,9,stable,-16.5,41,-38.1,75.7,12.5
@@ -12918,7 +12918,7 @@
 31, 2011-2015,Lung & Bronchus,Wyoming,Niobrara County,56027,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 32, 2011-2015,Lung & Bronchus,Wyoming,Sublette County,56035,***,* ,*,*, *,*,3 or fewer,*,*,*,*, *,*
 8, 2011-2015,Prostate,Wyoming,Wyoming,56000,***,103,98.1,-15.5,108.1,7.5,356,stable,-4.7,98.1,-15.5,108.1,7.5
-9, 2011-2015,Prostate,Wyoming,US (SEER+NPCR,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
+9, 2011-2015,Prostate,Wyoming,US ,0,***,109,108.8,-13,109.2,-1.1,190639,falling,-7.3,108.8,-13,109.2,-1.1
 10, 2011-2015,Prostate,Wyoming,Park County,56029,***,153.3,130.5,-31,179.5,18.5,34,stable,-9.6,130.5,-31,179.5,18.5
 11, 2011-2015,Prostate,Wyoming,Teton County,56039,***,139.1,109.7,-21.4,174.4,14.2,18,stable,-5.3,109.7,-21.4,174.4,14.2
 12, 2011-2015,Prostate,Wyoming,Albany County,56001,***,134.1,107.9,-38.7,164.6,30,20,stable,-10.8,107.9,-38.7,164.6,30
