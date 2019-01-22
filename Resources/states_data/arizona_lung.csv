@@ -1,0 +1,47 @@
+Incidence Rate Report for Arizona by County,,,,,,,,,,
+,,,,,,,,,,
+"Lung & Bronchus, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Arizona(6,10)",4000,***,49.3,48.6,50,3902,falling,-3.1,-4.1,-2.2
+"US (SEER+NPCR)(1,10)",0,***,60.2,60.1,60.3,217545,falling,-2.1,-2.6,-1.7
+"Mohave County(6,10)",4015,***,77.8,73.8,82,300,stable,0,-7.6,8.2
+"La Paz County(6,10)",4012,***,52.5,42.7,64.8,25,stable,0,-21.5,27.2
+"Yavapai County(6,10)",4025,***,50.3,47.1,53.6,214,stable,-0.4,-12.6,13.4
+"Cochise County(6,10)",4003,***,49.5,45,54.4,91,stable,2.8,-0.9,6.7
+"Maricopa County(6,10)",4013,***,49.1,48.1,50,2092,falling,-3.9,-4.3,-3.4
+"Pima County(6,10)",4019,***,48.8,47.1,50.6,638,stable,-3.7,-8.7,1.6
+"Yuma County(6,10)",4027,***,47.7,44,51.8,122,stable,0.6,-3.4,4.8
+"Greenlee County(6,10)",4011,***,47.3,29.4,72.2,4,stable,-1.2,-38.5,59
+"Gila County(6,10)",4007,***,46.1,40.1,52.9,46,stable,-4.3,-14.5,7.2
+"Pinal County(6,10)",4021,***,45.7,43,48.5,229,stable,-3.4,-7.5,1
+"Graham County(6,10)",4009,***,44.7,35.4,55.6,16,stable,-3.7,-25,23.7
+"Navajo County(6,10)",4017,***,36.3,31.7,41.5,46,stable,1.5,-14,19.8
+"Coconino County(6,10)",4005,***,33.7,28.9,38.9,39,falling,-15.7,-28.6,-0.5
+"Santa Cruz County(6,10)",4023,***,33.5,26.9,41.3,18,stable,-9.8,-43.1,43.1
+"Apache County(6,10)",4001,***,23.3,18.6,28.8,18,stable,-5.6,-34.4,35.9
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:13 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

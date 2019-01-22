@@ -1,0 +1,95 @@
+Incidence Rate Report for Colorado by County,,,,,,,,,,
+,,,,,,,,,,
+"Colon & Rectum, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of 39.9?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Colorado(6,10)",8000,Yes,33.8,33.1,34.5,1812,falling,-1.6,-2.9,-0.2
+"US (SEER+NPCR)(1,10)",0,Yes,39.2,39.1,39.3,139950,falling,-1.7,-2.4,-1
+"Kit Carson County(6,10)",8063,No,52.5,34.6,77.1,6,stable,3.8,-35.3,66.4
+"Custer County(6,10)",8027,No,51.5,26.3,94.9,3,*,*,*,*
+"Yuma County(6,10)",8125,No,49.4,33.4,70.8,6,stable,-13.2,-43.5,33.5
+"Bent County(6,10)",8011,No,45.5,25.8,75.6,3,*,*,*,*
+"Alamosa County(6,10)",8003,No,45.3,31,63.8,7,stable,3.6,-33.7,61.9
+"Washington County(6,10)",8121,No,44.8,24.9,76.5,3,*,*,*,*
+"Otero County(6,10)",8089,No,43.8,33.1,57.3,12,stable,-5.4,-24,17.7
+"Moffat County(6,10)",8081,No,43.6,29.1,62.9,6,stable,-6.8,-62.3,130.7
+"Pueblo County(6,10)",8101,No,41.1,37.1,45.4,81,stable,3.5,-13.8,24.2
+"Logan County(6,10)",8075,No,41,30.9,53.7,11,stable,6.8,-18,39.2
+"Prowers County(6,10)",8099,No,40.9,27.6,58.8,6,stable,23.6,-11.6,72.9
+"Adams County(6,10)",8001,Yes,39.5,36.7,42.5,155,stable,0.8,-9.6,12.3
+"Fremont County(6,10)",8043,Yes,38.6,32.1,46.3,26,stable,-8.6,-24.4,10.5
+"Las Animas County(6,10)",8071,Yes,38.2,27.8,52,9,stable,-8.7,-36.4,31
+"Denver County(6,10)",8031,Yes,37.9,35.6,40.2,224,stable,2,-0.7,4.7
+"Rio Grande County(6,10)",8105,Yes,36.8,24.5,53.7,6,stable,-20.2,-49.6,26.2
+"El Paso County(6,10)",8041,Yes,36.1,33.9,38.3,221,stable,-1.9,-8.5,5.1
+"Weld County(6,10)",8123,Yes,35,31.7,38.5,86,stable,-7,-16.3,3.3
+"Grand County(6,10)",8049,Yes,34.5,21.5,52.4,5,*,*,*,*
+"Montezuma County(6,10)",8083,Yes,34.3,25.5,45.3,11,stable,9.5,-20.1,50.1
+"Mesa County(6,10)",8077,Yes,34.2,30.4,38.3,63,stable,-0.6,-10.1,9.9
+"Huerfano County(6,10)",8055,Yes,34.1,20.2,57.5,4,stable,-15.9,-54.5,55.4
+"Jefferson County(6,10)",8059,Yes,32.4,30.4,34.5,207,stable,-2.8,-6.6,1.2
+"Arapahoe County(6,10)",8005,Yes,32.4,30.3,34.6,193,stable,-1.1,-6.7,4.7
+"Montrose County(6,10)",8085,Yes,31.7,25.5,39.2,19,stable,2.6,-15.7,24.9
+"Larimer County(6,10)",8069,Yes,31,28.3,33.9,104,stable,-3.1,-10.4,4.8
+"Douglas County(6,10)",8035,Yes,30.7,27.5,34.1,80,stable,-8.6,-19.2,3.4
+"Archuleta County(6,10)",8007,Yes,30,18.8,46.2,5,stable,-16.2,-58.7,70.3
+"Boulder County(6,10)",8013,Yes,29.3,26.6,32.3,90,stable,1.3,-1.7,4.5
+"Park County(6,10)",8093,Yes,29.3,18,45.4,6,stable,-16,-43.4,24.7
+"Elbert County(6,10)",8039,Yes,28.9,20.3,40.3,9,stable,-7.5,-47.7,63.6
+"La Plata County(6,10)",8067,Yes,28.3,22.2,35.5,16,stable,7.2,-10,27.7
+"Teller County(6,10)",8119,Yes,27.5,18.3,39.8,7,stable,11.4,-27.3,70.6
+"Morgan County(6,10)",8087,Yes,27.3,19.9,36.7,9,stable,-9.2,-36.9,30.8
+"Eagle County(6,10)",8037,Yes,26,17.9,36.1,10,stable,-14.6,-39.6,20.6
+"Chaffee County(6,10)",8015,Yes,25.5,17.8,36.3,7,falling,-17.8,-28.7,-5.4
+"Broomfield County(6,10)",8014,Yes,24.9,19.4,31.4,15,stable,-7.1,-22.9,11.8
+"Delta County(6,10)",8029,Yes,24.7,18.6,32.5,12,stable,-20.1,-38.1,3.3
+"Routt County(6,10)",8107,Yes,24.3,15,37.1,5,stable,-22.5,-67.3,83.9
+"Gunnison County(6,10)",8051,Yes,24.1,13.8,39.2,4,stable,-12.9,-64.1,111.3
+"Garfield County(6,10)",8045,Yes,23.9,18.3,30.7,13,stable,-7.9,-36.6,33.7
+"Summit County(6,10)",8117,Yes,13.7,8.5,21.5,5,stable,-17.9,-34.3,2.7
+"Pitkin County(6,10)",8097,Yes,13.3,7.4,22.7,3,*,*,*,*
+"Baca County(6,10)",8009,***,* ,*, *,3 or fewer,*,*,*,*
+"Cheyenne County(6,10)",8017,***,* ,*, *,3 or fewer,*,*,*,*
+"Clear Creek County(6,10)",8019,***,* ,*, *,3 or fewer,*,*,*,*
+"Conejos County(6,10)",8021,***,* ,*, *,3 or fewer,*,*,*,*
+"Costilla County(6,10)",8023,***,* ,*, *,3 or fewer,*,*,*,*
+"Crowley County(6,10)",8025,***,* ,*, *,3 or fewer,*,*,*,*
+"Dolores County(6,10)",8033,***,* ,*, *,3 or fewer,*,*,*,*
+"Gilpin County(6,10)",8047,***,* ,*, *,3 or fewer,*,*,*,*
+"Hinsdale County(6,10)",8053,***,* ,*, *,3 or fewer,*,*,*,*
+"Jackson County(6,10)",8057,***,* ,*, *,3 or fewer,*,*,*,*
+"Kiowa County(6,10)",8061,***,* ,*, *,3 or fewer,*,*,*,*
+"Lake County(6,10)",8065,***,* ,*, *,3 or fewer,*,*,*,*
+"Lincoln County(6,10)",8073,***,* ,*, *,3 or fewer,*,*,*,*
+"Mineral County(6,10)",8079,***,* ,*, *,3 or fewer,*,*,*,*
+"Ouray County(6,10)",8091,***,* ,*, *,3 or fewer,*,*,*,*
+"Phillips County(6,10)",8095,***,* ,*, *,3 or fewer,*,*,*,*
+"Rio Blanco County(6,10)",8103,***,* ,*, *,3 or fewer,*,*,*,*
+"Saguache County(6,10)",8109,***,* ,*, *,3 or fewer,*,*,*,*
+"San Juan County(6,10)",8111,***,* ,*, *,3 or fewer,*,*,*,*
+"San Miguel County(6,10)",8113,***,* ,*, *,3 or fewer,*,*,*,*
+"Sedgwick County(6,10)",8115,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:22 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

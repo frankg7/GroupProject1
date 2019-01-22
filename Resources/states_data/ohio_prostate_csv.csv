@@ -1,0 +1,120 @@
+Incidence Rate Report for Ohio by County,,,,,,,,,,
+,,,,,,,,,,
+"Prostate, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Male, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Ohio(6,10)",39000,***,108,106.9,109.1,7334,falling,-6.9,-13.2,-0.2
+"US (SEER+NPCR)(1,10)",0,***,109,108.8,109.2,190639,falling,-7.3,-13,-1.1
+"Cuyahoga County(6,10)",39035,***,131.7,128,135.5,976,falling,-7.3,-13.8,-0.2
+"Knox County(6,10)",39083,***,129.5,113.4,147.4,48,falling,-18,-24.2,-11.3
+"Tuscarawas County(6,10)",39157,***,125.8,113.2,139.5,76,falling,-16,-25.2,-5.8
+"Mercer County(6,10)",39107,***,125.2,106.4,146.5,33,stable,3.5,-11.6,21.2
+"Medina County(6,10)",39103,***,124.5,115,134.7,135,stable,-4.3,-17.5,10.9
+"Franklin County(6,10)",39049,***,123.1,118.7,127.6,654,stable,-3.3,-11.4,5.5
+"Lorain County(6,10)",39093,***,122.6,115.4,130.2,228,stable,-8.3,-21.7,7.3
+"Defiance County(6,10)",39039,***,122.2,103,144.2,30,stable,-14.4,-30.8,6
+"Stark County(6,10)",39151,***,121.8,115.5,128.4,292,stable,-7.8,-17.9,3.6
+"Delaware County(6,10)",39041,***,120.9,110.7,131.7,114,stable,8.2,0,16.9
+"Hamilton County(6,10)",39061,***,119.7,115,124.6,509,falling,-6.8,-10.2,-3.3
+"Lucas County(6,10)",39095,***,117.9,111.6,124.3,287,falling,-11.9,-20.6,-2.2
+"Fulton County(6,10)",39051,***,117.5,99.3,138.3,31,stable,-12.6,-26.9,4.4
+"Fairfield County(6,10)",39045,***,115.1,104.9,126,98,stable,-2.6,-16.8,14
+"Portage County(6,10)",39133,***,113.1,103.4,123.6,105,falling,-8,-13.2,-2.5
+"Wood County(6,10)",39173,***,113,101.8,125.2,78,stable,-15.1,-33.5,8.3
+"Summit County(6,10)",39153,***,111.8,106.6,117.2,367,stable,-10.1,-20.4,1.5
+"Putnam County(6,10)",39137,***,111.8,92,134.7,23,stable,-4.9,-26.6,23.2
+"Gallia County(6,10)",39053,***,111.4,91.3,134.9,22,stable,14.5,-10.3,46.1
+"Harrison County(6,10)",39067,***,110.5,85,142.5,13,stable,2.1,-19.7,29.7
+"Henry County(6,10)",39069,***,107.2,86.4,131.9,19,stable,-9.8,-35,25.2
+"Butler County(6,10)",39017,***,105.8,99.3,112.8,206,falling,-10.6,-19.2,-1.1
+"Union County(6,10)",39159,***,105.7,88.1,125.9,27,stable,-0.3,-9.5,9.8
+"Warren County(6,10)",39165,***,104,95.6,112.9,120,stable,-4.2,-18.7,12.9
+"Auglaize County(6,10)",39011,***,103.6,87.3,122.2,29,stable,8.5,-16.8,41.5
+"Trumbull County(6,10)",39155,***,103.6,96.1,111.5,148,stable,-4.2,-9.4,1.4
+"Allen County(6,10)",39003,***,103.2,92.1,115.4,66,stable,3.9,-13.1,24.2
+"Montgomery County(6,10)",39113,***,103.2,98.2,108.4,328,stable,-4.1,-12.5,5.2
+"Carroll County(6,10)",39019,***,102.8,83.9,125.3,22,stable,-13.4,-34.9,15.1
+"Hancock County(6,10)",39063,***,101.5,88.6,115.9,46,stable,-10.6,-26.9,9.5
+"Athens County(6,10)",39009,***,101.5,85.2,120.1,30,falling,-16.8,-25.9,-6.6
+"Belmont County(6,10)",39013,***,101.3,88.6,115.5,48,stable,-13.2,-34.1,14.2
+"Ottawa County(6,10)",39123,***,101,86.3,118.1,35,stable,-8.1,-24.2,11.5
+"Lake County(6,10)",39085,***,100.9,93.7,108.6,151,falling,-11.1,-19.4,-2
+"Paulding County(6,10)",39125,***,100.8,76.6,130.9,12,stable,-12.1,-38.3,25.3
+"Greene County(6,10)",39057,***,100.4,91.5,110,99,falling,-12,-16.1,-7.7
+"Geauga County(6,10)",39055,***,99.2,88.5,111.1,66,falling,-9.1,-16.4,-1.2
+"Mahoning County(6,10)",39099,***,98.4,91.5,105.9,155,stable,-4.2,-16.2,9.5
+"Clermont County(6,10)",39025,***,98.1,89.8,106.9,113,falling,-12.2,-18.9,-5
+"Brown County(6,10)",39015,***,97.9,82.2,115.9,29,falling,-14,-20.6,-6.8
+"Morrow County(6,10)",39117,***,97.2,78.8,118.9,21,stable,-2.1,-25.8,29.3
+"Erie County(6,10)",39043,***,97,85.5,109.7,54,stable,-11.4,-25.8,5.8
+"Monroe County(6,10)",39111,***,96.9,72.6,128.1,11,stable,-1.8,-25.6,29.5
+"Jefferson County(6,10)",39081,***,96.7,84.4,110.5,47,stable,-17.6,-34.5,3.7
+"Van Wert County(6,10)",39161,***,96.5,77.2,119.6,18,stable,-6.6,-20.9,10.4
+"Miami County(6,10)",39109,***,95.3,84.9,106.6,64,falling,-14.5,-23.8,-4.1
+"Champaign County(6,10)",39021,***,95.2,78.4,114.8,24,stable,-7.9,-23.8,11.3
+"Huron County(6,10)",39077,***,94.9,80.6,111.1,33,stable,-12.5,-32.7,13.7
+"Wyandot County(6,10)",39175,***,94.8,73.5,121,14,stable,-14.1,-29,3.9
+"Seneca County(6,10)",39147,***,94.8,80.5,111,33,falling,-21.4,-27.8,-14.3
+"Scioto County(6,10)",39145,***,93.9,81.9,107.4,45,stable,-1.9,-11.6,8.7
+"Wayne County(6,10)",39169,***,93.3,83.4,104.1,67,stable,-2.1,-12.2,9.3
+"Shelby County(6,10)",39149,***,93,77.3,111.1,26,falling,-9.6,-16.8,-1.7
+"Darke County(6,10)",39037,***,92.4,78.5,108.2,32,stable,-15.6,-40.3,19.3
+"Preble County(6,10)",39135,***,92.1,76.5,110.2,26,stable,-10.4,-33.2,20.2
+"Richland County(6,10)",39139,***,92,82.6,102.1,73,stable,-2.9,-13.9,9.6
+"Columbiana County(6,10)",39029,***,89.7,80.1,100.2,67,stable,-6.1,-12.2,0.4
+"Jackson County(6,10)",39079,***,88.5,70.3,110.3,17,stable,-6.4,-31.7,28.2
+"Washington County(6,10)",39167,***,88.3,75.9,102.2,38,stable,-15.7,-29.4,0.7
+"Madison County(6,10)",39097,***,88.1,71.8,107.1,22,stable,-4.7,-15.5,7.5
+"Logan County(6,10)",39091,***,87.6,72.9,104.6,26,stable,3.9,-18.4,32.2
+"Guernsey County(6,10)",39059,***,87,71.4,105.3,23,stable,3.4,-23.4,39.7
+"Licking County(6,10)",39089,***,87,78.9,95.7,90,stable,1.7,-1.9,5.5
+"Meigs County(6,10)",39105,***,86.1,66.3,110.6,14,stable,-4.2,-21.1,16.2
+"Ashtabula County(6,10)",39007,***,85.4,75.6,96.3,57,stable,-13.5,-26.8,2.3
+"Sandusky County(6,10)",39143,***,85.4,72.6,99.8,34,stable,-2.9,-19.5,17.2
+"Clinton County(6,10)",39027,***,84.7,68.3,103.9,20,stable,11.9,-14.7,47
+"Lawrence County(6,10)",39087,***,84.1,71.5,98.4,33,stable,-10.8,-28.6,11.3
+"Pickaway County(6,10)",39129,***,83,69.4,98.5,28,stable,8.6,-4.2,23.2
+"Holmes County(6,10)",39075,***,82.7,65.7,102.7,17,stable,-0.7,-21.2,25.3
+"Highland County(6,10)",39071,***,82.5,67.5,100.1,22,stable,9.2,-9.2,31.5
+"Perry County(6,10)",39127,***,80.9,64.2,100.9,18,stable,-15.8,-49.9,41.5
+"Crawford County(6,10)",39033,***,80.9,66.9,97.2,24,falling,-16.9,-27.5,-4.8
+"Clark County(6,10)",39023,***,80.8,72.6,89.8,73,falling,-13.6,-23.7,-2.1
+"Marion County(6,10)",39101,***,79.3,67.4,92.8,33,stable,-15.6,-39.1,16.9
+"Muskingum County(6,10)",39119,***,78.8,68.3,90.5,42,stable,6.7,-20.4,43.1
+"Ashland County(6,10)",39005,***,77,64.5,91.5,27,stable,3.9,-10.5,20.6
+"Fayette County(6,10)",39047,***,76.7,59.3,97.8,14,stable,8.7,-33.6,78.1
+"Pike County(6,10)",39131,***,75.2,57.9,96.4,13,stable,9.5,-20.4,50.6
+"Hocking County(6,10)",39073,***,74.5,58.2,94.5,15,stable,-9.4,-39.3,35.3
+"Adams County(6,10)",39001,***,73.7,57,94.3,14,stable,-6.3,-24.2,15.7
+"Hardin County(6,10)",39065,***,70.3,53.7,90.6,13,stable,-9.9,-26.5,10.4
+"Vinton County(6,10)",39163,***,69.9,45.9,103,6,stable,10.8,-7.7,32.9
+"Morgan County(6,10)",39115,***,69.1,48.5,96.7,8,stable,6.7,-15.2,34.3
+"Williams County(6,10)",39171,***,68.1,54,85,17,falling,-12.2,-22.8,-0.2
+"Ross County(6,10)",39141,***,66,55.7,77.8,31,stable,10.6,-0.7,23.3
+"Coshocton County(6,10)",39031,***,65.9,52.5,82.2,17,stable,2.6,-17.3,27.3
+"Noble County(6,10)",39121,***,36.8,24.7,55.9,7,stable,-4.2,-40.7,55
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 11:11 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+6 Source: State Cancer Registry and the CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission.,,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
