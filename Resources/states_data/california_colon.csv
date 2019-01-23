@@ -1,0 +1,91 @@
+Incidence Rate Report for California by County,,,,,,,,,,
+,,,,,,,,,,
+"Colon & Rectum, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Both Sexes, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of 39.9?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"California(3,8)",6000,Yes,36.2,36,36.5,14418,falling,-2,-3.6,-0.5
+"US (SEER+NPCR)(1,10)",0,Yes,39.2,39.1,39.3,139950,falling,-1.7,-2.4,-1
+"Glenn County(7,8)",6021,No,51.3,40.6,63.9,16,stable,0.1,-3.5,3.9
+"San Bernardino County(7,8)",6071,No,41.9,40.6,43.3,769,falling,-1.4,-1.8,-1
+"San Benito County(7,8)",6069,No,41.9,34.4,50.5,23,stable,0.1,-3,3.4
+"Lake County(7,8)",6033,No,41.8,35.8,48.6,39,stable,-1,-3.2,1.2
+"Butte County(7,8)",6007,No,40.5,37.1,44.1,113,stable,-1.2,-2.6,0.2
+"Stanislaus County(7,8)",6099,No,40,37.5,42.5,205,falling,-1.7,-2.8,-0.6
+"Tehama County(7,8)",6103,Yes,39.9,33.8,46.8,32,falling,-3.5,-5,-2
+"Sacramento County(7,8)",6067,Yes,39.5,38.1,41,597,falling,-1.6,-2.3,-1
+"Merced County(7,8)",6047,Yes,39.1,35.5,43,88,falling,-2.3,-3.7,-1
+"Sonoma County(7,8)",6097,Yes,38.4,36.2,40.7,240,falling,-2.6,-3.3,-2
+"San Joaquin County(7,8)",6077,Yes,38.4,36.3,40.5,262,falling,-1.6,-2.6,-0.6
+"Contra Costa County(7,8)",6013,Yes,38.3,36.7,39.9,472,falling,-4.9,-7.7,-2
+"Riverside County(7,8)",6065,Yes,37.7,36.6,38.8,885,falling,-1.7,-2.2,-1.2
+"San Francisco County(7,8)",6075,Yes,37.7,35.9,39.5,367,falling,-2.4,-2.7,-2
+"Yuba County(7,8)",6115,Yes,37.3,30.9,44.5,25,falling,-3.1,-5.1,-1.1
+"Shasta County(7,8)",6089,Yes,37.2,33.8,41,92,falling,-3,-4.4,-1.6
+"Los Angeles County(7,8)",6037,Yes,37,36.4,37.5,3731,falling,-3.7,-4.6,-2.7
+"Humboldt County(7,8)",6023,Yes,36.7,32.4,41.4,57,falling,-3.2,-4.8,-1.6
+"Imperial County(7,8)",6025,Yes,36.7,32.7,41,63,falling,-2,-3.7,-0.3
+"Solano County(7,8)",6095,Yes,36.7,34.2,39.3,169,falling,-4.9,-7.7,-1.9
+"Mariposa County(7,8)",6043,Yes,36.1,26.5,48.8,11,stable,-2.8,-6.5,1
+"Kern County(7,8)",6029,Yes,36,34.1,38.1,262,falling,-2.3,-3.5,-1.2
+"Del Norte County(7,8)",6015,Yes,35.8,27,46.6,12,stable,-2.7,-6.3,1
+"Napa County(7,8)",6055,Yes,35.7,31.8,40,64,stable,-1.2,-10.3,8.7
+"El Dorado County(7,8)",6017,Yes,35.7,32.3,39.5,86,falling,-1.5,-2.7,-0.3
+"Colusa County(7,8)",6011,Yes,35.3,24.9,48.6,8,stable,-1,-4.8,3
+"San Diego County(7,8)",6073,Yes,35,34,35.9,1152,falling,-2.3,-2.7,-1.9
+"Fresno County(7,8)",6019,Yes,34.9,33.2,36.8,304,falling,-2.3,-3,-1.6
+"Alameda County(7,8)",6001,Yes,34.9,33.6,36.2,572,falling,-4.5,-6.5,-2.3
+"Plumas County(7,8)",6063,Yes,34.8,25.8,46.6,11,stable,-0.6,-3.4,2.1
+"Tulare County(7,8)",6107,Yes,34.6,32,37.4,134,falling,-2.6,-3.8,-1.4
+"Santa Clara County(7,8)",6085,Yes,34.5,33.3,35.7,657,falling,-2.2,-2.9,-1.6
+"Amador County(7,8)",6005,Yes,34.3,27.8,42.2,21,falling,-3.2,-5.2,-1.2
+"Orange County(7,8)",6059,Yes,34.2,33.3,35.1,1131,falling,-2.7,-3.3,-2.2
+"Santa Barbara County(7,8)",6083,Yes,34.1,31.8,36.6,160,falling,-1.8,-2.9,-0.8
+"Trinity County(7,8)",6105,Yes,33.9,23.4,48.6,8,stable,-3.5,-7.7,0.9
+"Kings County(7,8)",6031,Yes,33.9,29.4,38.9,42,falling,-4.2,-6.7,-1.6
+"Ventura County(7,8)",6111,Yes,33.8,32.1,35.6,307,falling,-4.3,-5.6,-2.9
+"Yolo County(7,8)",6113,Yes,33.6,30,37.6,64,falling,-2.5,-4,-0.9
+"Inyo County(7,8)",6027,Yes,33.6,23.8,46.4,9,falling,-4.1,-7.6,-0.4
+"San Luis Obispo County(7,8)",6079,Yes,33.3,30.6,36.2,118,falling,-3.1,-3.9,-2.2
+"Placer County(7,8)",6061,Yes,33.2,30.9,35.7,157,falling,-2.4,-3.5,-1.3
+"Calaveras County(7,8)",6009,Yes,33.2,27.3,40.3,24,falling,-3.9,-5.6,-2.1
+"Lassen County(7,8)",6035,Yes,33.1,24.9,43.3,11,stable,-0.8,-5.5,4.2
+"Marin County(7,8)",6041,Yes,32.8,30.2,35.7,121,falling,-2.3,-2.8,-1.7
+"Madera County(7,8)",6039,Yes,32.7,28.7,37.1,50,falling,-4.9,-7.3,-2.5
+"San Mateo County(7,8)",6081,Yes,32.6,30.9,34.4,286,stable,-0.4,-9.3,9.5
+"Nevada County(7,8)",6057,Yes,32.6,28.3,37.4,48,falling,-4,-5.7,-2.3
+"Sutter County(7,8)",6101,Yes,32,27.3,37.4,33,falling,-3.8,-4.8,-2.7
+"Mendocino County(7,8)",6045,Yes,31.7,27,37,36,falling,-14.1,-26,-0.4
+"Tuolumne County(7,8)",6109,Yes,31.6,26.1,38.2,26,falling,-3.9,-6.2,-1.4
+"Santa Cruz County(7,8)",6087,Yes,31.2,28.3,34.3,92,falling,-3.2,-4.6,-1.7
+"Modoc County(7,8)",6049,Yes,30.5,18.8,48.3,4,stable,-2.9,-6.2,0.6
+"Siskiyou County(7,8)",6093,Yes,30.2,24.3,37.3,20,falling,-3.6,-5,-2.2
+"Monterey County(7,8)",6053,Yes,30.2,27.8,32.7,125,falling,-3.4,-4.7,-2.2
+"Mono County(7,8)",6051,Yes,25.5,15.5,40,4,stable,-2.2,-8.5,4.5
+Alpine County(7),6003,***,* ,*, *,3 or fewer,*,*,*,*
+Sierra County(7),6091,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:20 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+3 Source: SEER November 2017 submission.  State Cancer Registry also receives funding from CDC's National Program of Cancer Registries.,,,,,,,,,,
+7 Source: SEER November 2017 submission.,,,,,,,,,,
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2016 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2017 data. ",,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,

@@ -1,0 +1,64 @@
+Incidence Rate Report for Utah by County,,,,,,,,,,
+,,,,,,,,,,
+"Prostate, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Male, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Utah(3,8)",49000,***,120.9,118.1,123.8,1426,falling,-8.5,-10.8,-6
+"US (SEER+NPCR)(1,10)",0,***,109,108.8,109.2,190639,falling,-7.3,-13,-1.1
+"Tooele County(7,8)",49045,***,174.5,150.1,201.6,41,stable,-0.4,-1.8,1.1
+"Washington County(7,8)",49053,***,145.6,134.9,157.1,142,falling,-1.4,-2.2,-0.5
+"Davis County(7,8)",49011,***,140.4,130.9,150.5,171,stable,-8.3,-16.7,1
+"Emery County(7,8)",49015,***,135.4,95.9,186.1,8,stable,-1.8,-4.2,0.6
+"Utah County(7,8)",49049,***,131.2,123.1,139.6,205,stable,-2.8,-17,13.9
+Beaver County(7),49001,***,130.1,79.4,200.9,4,*,*,*,*
+"Weber County(7,8)",49057,***,123.4,114,133.4,133,falling,-9.8,-16.6,-2.4
+"Kane County(7,8)",49025,***,123.1,84.9,175.9,7,falling,-3.4,-5.6,-1.2
+"Garfield County(7,8)",49017,***,121.9,78.9,185,5,falling,-5.5,-8.5,-2.4
+"Carbon County(7,8)",49007,***,121.4,94.6,153.7,15,falling,-2,-3.7,-0.3
+"Summit County(7,8)",49043,***,119.4,96.4,146.2,24,falling,-2.5,-4.4,-0.6
+"Morgan County(7,8)",49029,***,119.3,79.1,172.8,6,stable,-1.8,-4,0.4
+"Box Elder County(7,8)",49003,***,117.6,99.2,138.5,29,falling,-6.7,-9.2,-4.1
+"Iron County(7,8)",49021,***,113,93.5,135.4,25,falling,-3,-4.6,-1.4
+"Sevier County(7,8)",49041,***,110.2,85.5,140.1,14,falling,-13.8,-23.2,-3.2
+"Uintah County(7,8)",49047,***,109.6,85.7,137.7,15,falling,-1.6,-3.2,-0.1
+"San Juan County(7,8)",49037,***,108.2,74.2,151.9,7,stable,-0.3,-3,2.5
+"Salt Lake County(7,8)",49035,***,107.4,102.9,112,474,falling,-10,-11.9,-8.1
+"Wasatch County(7,8)",49051,***,103.7,78.1,134.9,12,falling,-15.6,-27.3,-1.9
+"Cache County(7,8)",49005,***,102.5,88.9,117.5,42,falling,-9.8,-12,-7.4
+Juab County(7),49023,***,101.9,64.5,152.8,5,*,*,*,*
+"Millard County(7,8)",49027,***,97.5,68.6,135.3,8,falling,-3.9,-5.3,-2.4
+"Sanpete County(7,8)",49039,***,97,74.9,123.6,14,falling,-8.5,-12.6,-4.2
+"Duchesne County(7,8)",49013,***,92,66.1,124.7,9,stable,-1.9,-3.9,0.1
+"Grand County(7,8)",49019,***,77.2,48.5,118.2,5,falling,-8.3,-12.9,-3.5
+Daggett County(7),49009,***,* ,*, *,3 or fewer,*,*,*,*
+Piute County(7),49031,***,* ,*, *,3 or fewer,*,*,*,*
+Rich County(7),49033,***,* ,*, *,3 or fewer,*,*,*,*
+Wayne County(7),49055,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 11:26 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+3 Source: SEER November 2017 submission.  State Cancer Registry also receives funding from CDC's National Program of Cancer Registries.,,,,,,,,,,
+7 Source: SEER November 2017 submission.,,,,,,,,,,
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2016 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2017 data. ",,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
