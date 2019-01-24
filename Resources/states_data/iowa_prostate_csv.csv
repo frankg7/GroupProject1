@@ -1,0 +1,134 @@
+Incidence Rate Report for Iowa by County,,,,,,,,,,
+,,,,,,,,,,
+"Prostate, 2011-2015",,,,,,,,,,
+,,,,,,,,,,
+"All Races (includes Hispanic), Male, All Ages",,,,,,,,,,
+,,,,,,,,,,
+Sorted by Rate,,,,,,,,,,
+,,,,,,,,,,
+County, FIPS,Met Healthy People Objective of ***?,"Age-Adjusted Incidence Rate(†) - cases per 100,000",Lower 95% Confidence Interval,Upper 95% Confidence Interval,Average Annual Count,Recent Trend,Recent 5-Year Trend (‡) in Incidence Rates,Lower 95% Confidence Interval,Upper 95% Confidence Interval
+"Iowa(3,8)",19000,***,108,105.8,110.2,1982,falling,-4.8,-6.6,-3
+"US (SEER+NPCR)(1,10)",0,***,109,108.8,109.2,190639,falling,-7.3,-13,-1.1
+"Crawford County(7,8)",19047,***,170.9,136.8,211.3,18,stable,-0.3,-2,1.4
+"Ida County(7,8)",19093,***,166.4,120.8,226.4,9,stable,-0.2,-2.1,1.8
+"Emmet County(7,8)",19063,***,154.4,115.6,203.6,11,stable,-1.2,-2.8,0.4
+"Hamilton County(7,8)",19079,***,151.8,119.5,190.9,16,stable,-1.5,-3.2,0.2
+"Hardin County(7,8)",19083,***,150.8,120.6,187.1,18,stable,3.1,-1.4,7.9
+"Dickinson County(7,8)",19059,***,149.2,121.9,182.1,22,rising,15.9,1.2,32.8
+"Greene County(7,8)",19073,***,148.6,109.7,198.8,10,stable,1,-0.8,2.8
+"Carroll County(7,8)",19027,***,147.3,119.5,180.2,20,falling,-1.9,-3.5,-0.3
+"Cherokee County(7,8)",19035,***,146,112.7,187.9,14,falling,-1.7,-3.1,-0.3
+"Story County(7,8)",19169,***,145,127.9,163.7,54,falling,-1.4,-2.5,-0.3
+"Plymouth County(7,8)",19149,***,144,118.9,173.3,24,falling,-2.5,-3.7,-1.2
+"Audubon County(7,8)",19009,***,142.2,98.3,203.8,7,stable,-0.1,-2.1,1.9
+"Clay County(7,8)",19041,***,139.5,110.3,174.9,16,falling,-1.6,-2.9,-0.2
+Davis County(7),19051,***,137.7,97,191,8,*,*,*,*
+"Cass County(7,8)",19029,***,135.9,105.4,173.8,14,stable,-0.7,-2,0.7
+"Jackson County(7,8)",19097,***,130.4,104.7,161.3,18,stable,-1.2,-2.5,0.1
+"Buena Vista County(7,8)",19021,***,130.2,101.6,164.6,15,falling,-2.3,-3.6,-1.1
+"O'Brien County(7,8)",19141,***,129.1,99.5,165.8,13,falling,-3,-4.6,-1.3
+"Hancock County(7,8)",19081,***,129.1,96.2,171.2,11,falling,-3.6,-6.6,-0.6
+"Grundy County(7,8)",19075,***,129,96.9,169.6,11,falling,-1.6,-2.9,-0.2
+"Cedar County(7,8)",19031,***,128.8,102.2,161,17,stable,-1.2,-2.6,0.1
+"Lyon County(7,8)",19119,***,127.6,92.8,171.8,9,falling,-16.5,-29.1,-1.6
+"Dubuque County(7,8)",19061,***,124.5,111.8,138.3,72,falling,-2.4,-3.3,-1.5
+"Pocahontas County(7,8)",19151,***,123.5,86.2,175.2,7,falling,-2.2,-3.6,-0.8
+"Scott County(7,8)",19163,***,122.2,112.1,133,115,falling,-1,-1.7,-0.3
+"Black Hawk County(7,8)",19013,***,121.3,110.2,133.3,91,falling,-3,-4.1,-1.9
+"Palo Alto County(7,8)",19147,***,118.1,83.4,164.2,8,falling,-2.5,-4.3,-0.6
+"Decatur County(7,8)",19053,***,117.9,80.2,169.3,6,stable,-0.2,-2.5,2.2
+"Webster County(7,8)",19187,***,117.6,98.9,139.2,29,falling,-2.6,-3.7,-1.5
+"Sioux County(7,8)",19167,***,117.1,95.9,141.8,22,falling,-2.8,-4.1,-1.5
+"Cerro Gordo County(7,8)",19033,***,116.9,100.2,136.1,36,stable,-0.6,-1.7,0.4
+"Boone County(7,8)",19015,***,116.7,94.5,142.9,20,falling,-1.8,-3,-0.5
+"Calhoun County(7,8)",19025,***,116.1,85,156.8,9,stable,-1,-3,1
+"Butler County(7,8)",19023,***,114.6,87.9,148,13,falling,-4.1,-5.6,-2.5
+"Osceola County(7,8)",19143,***,114.1,73.3,172.1,5,falling,-2,-3.8,-0.2
+"Johnson County(7,8)",19103,***,113.4,101,126.8,67,falling,-1.5,-2.6,-0.5
+"Franklin County(7,8)",19069,***,112.5,80.3,154.7,8,falling,-2,-3.9,-0.1
+"Marion County(7,8)",19125,***,111.4,91.6,134.5,23,stable,-0.4,-1.8,1
+"Iowa County(7,8)",19095,***,110.8,84,144.1,12,stable,-1,-2.8,0.9
+"Marshall County(7,8)",19127,***,110,92.6,129.9,29,falling,-2.2,-3.4,-1
+"Mills County(7,8)",19129,***,109.9,81.5,145.8,11,falling,-2.5,-4.1,-0.8
+"Henry County(7,8)",19087,***,109.8,85.3,139.6,14,stable,-1.3,-2.8,0.3
+"Chickasaw County(7,8)",19037,***,109.7,80,148.1,9,falling,-10,-16.2,-3.3
+"Fayette County(7,8)",19065,***,109.3,86.5,137,16,stable,7.4,-17.2,39.1
+"Page County(7,8)",19145,***,108.9,83.2,140.9,12,falling,-6.4,-10.8,-1.8
+"Muscatine County(7,8)",19139,***,108.3,90.3,129,27,stable,-1.2,-2.5,0
+"Mitchell County(7,8)",19131,***,108.1,77.6,148.3,8,falling,-2.3,-3.9,-0.6
+"Woodbury County(7,8)",19193,***,107.2,95.1,120.5,59,falling,-2.6,-3.5,-1.6
+"Montgomery County(7,8)",19137,***,106.2,76.1,146.3,8,falling,-3.3,-5.3,-1.3
+"Tama County(7,8)",19171,***,105,80.3,135.8,13,falling,-2.9,-4.3,-1.5
+"Lucas County(7,8)",19117,***,104.4,71.8,148.9,7,stable,-1.6,-3.9,0.8
+"Floyd County(7,8)",19067,***,104.2,79.4,135.4,12,falling,-2.4,-4,-0.7
+"Washington County(7,8)",19183,***,104.2,81.3,132,14,stable,-1.3,-2.8,0.2
+"Winneshiek County(7,8)",19191,***,104.1,81.2,132.4,14,stable,-0.9,-2.9,1.1
+"Humboldt County(7,8)",19091,***,104.1,72.7,146.3,7,falling,-3.3,-5.1,-1.4
+"Allamakee County(7,8)",19005,***,104,79.1,135.6,12,falling,-2,-3.5,-0.5
+"Bremer County(7,8)",19017,***,103.6,82.4,129.1,17,falling,-3.6,-4.9,-2.2
+"Mahaska County(7,8)",19123,***,103.3,80.5,131,14,falling,-2.1,-3.5,-0.7
+"Polk County(7,8)",19153,***,102.4,96.2,109,215,falling,-2.1,-2.8,-1.4
+"Wayne County(7,8)",19185,***,102.1,65.1,155.8,5,stable,-2.1,-4.6,0.5
+"Des Moines County(7,8)",19057,***,100.7,84.4,119.6,28,falling,-1.6,-3,-0.3
+"Sac County(7,8)",19161,***,98.6,69,138.8,7,falling,-1.9,-3.5,-0.4
+"Lee County(7,8)",19111,***,98.5,81.4,118.5,24,falling,-22,-38.8,-0.5
+"Warren County(7,8)",19181,***,98.1,82,116.5,28,falling,-1.7,-2.8,-0.5
+"Clarke County(7,8)",19039,***,97.9,65.6,142,6,falling,-2.5,-4.8,-0.2
+"Clinton County(7,8)",19045,***,97.5,82.8,114.3,32,falling,-2.7,-3.8,-1.5
+"Dallas County(7,8)",19049,***,97.1,82.3,113.8,32,falling,-2.7,-4,-1.5
+"Kossuth County(7,8)",19109,***,96.9,73.6,126.6,12,stable,16,-6.7,44.2
+"Pottawattamie County(7,8)",19155,***,96,84.6,108.5,54,falling,-1.7,-3,-0.5
+"Monona County(7,8)",19133,***,95,66.4,134.7,7,falling,-2.6,-4.3,-0.8
+"Winnebago County(7,8)",19189,***,93.5,64.1,133.4,7,falling,-2.1,-3.9,-0.2
+"Delaware County(7,8)",19055,***,93.4,70.1,122.8,11,falling,-1.8,-3.5,-0.1
+"Shelby County(7,8)",19165,***,93.4,66.7,128.8,8,stable,-1.2,-3,0.6
+"Clayton County(7,8)",19043,***,92.4,70.5,120,12,falling,-6.3,-8.9,-3.8
+"Linn County(7,8)",19113,***,88.8,81.2,96.9,105,falling,-8.3,-12.2,-4.2
+"Louisa County(7,8)",19115,***,88.4,59.7,127,6,stable,-1,-3.2,1.3
+"Fremont County(7,8)",19071,***,86.7,54.6,134,5,stable,-1.7,-3.7,0.5
+"Jasper County(7,8)",19099,***,86.4,70.3,105.2,21,falling,-1.9,-3,-0.8
+"Jefferson County(7,8)",19101,***,85.9,62.8,115.6,10,falling,-1.8,-3.5,-0.1
+"Madison County(7,8)",19121,***,83.9,60.2,114.6,9,falling,-5.8,-8.2,-3.4
+"Wright County(7,8)",19197,***,83.3,59.4,115.1,8,stable,-13.2,-24.5,0
+"Buchanan County(7,8)",19019,***,83.2,62.3,109.4,11,falling,-4,-5.6,-2.3
+"Adair County(7,8)",19001,***,82.8,52.8,127.1,5,stable,-21.6,-39.4,1.4
+"Taylor County(7,8)",19173,***,82.7,50.1,132.1,4,stable,-1.6,-3.8,0.7
+"Wapello County(7,8)",19179,***,82.2,66,101.6,18,falling,-2,-3.4,-0.5
+"Benton County(7,8)",19011,***,82,63.7,104.5,14,falling,-3.5,-5.1,-2
+"Jones County(7,8)",19105,***,81,61.3,105.8,12,falling,-3,-4.6,-1.3
+"Howard County(7,8)",19089,***,81,53.5,119.6,6,falling,-2.9,-4.8,-0.8
+"Union County(7,8)",19175,***,79.8,54.5,114.1,7,falling,-3.4,-4.9,-1.9
+"Poweshiek County(7,8)",19157,***,78.8,58.5,104.8,10,falling,-2.9,-4.4,-1.5
+"Worth County(7,8)",19195,***,77.5,48.3,120.8,4,stable,-1.9,-4.1,0.4
+"Ringgold County(7,8)",19159,***,76.8,43.7,131.3,3,falling,-3.2,-6,-0.2
+"Guthrie County(7,8)",19077,***,73.7,49.8,107.1,6,falling,-2.4,-4.2,-0.5
+"Appanoose County(7,8)",19007,***,70.9,49.1,100.9,7,falling,-3.1,-5.1,-1
+"Monroe County(7,8)",19135,***,66.9,40,107.5,4,stable,-2.4,-4.7,0
+"Keokuk County(7,8)",19107,***,66.3,42.6,100.3,5,falling,-2.9,-4.8,-1
+"Harrison County(7,8)",19085,***,66,45.1,94.3,7,falling,-2.9,-4.8,-1
+"Van Buren County(7,8)",19177,***,53.5,30.4,90.8,3,falling,-3.1,-5.9,-0.3
+Adams County(7),19003,***,* ,*, *,3 or fewer,*,*,*,*
+,,,,,,,,,,
+Created by statecancerprofiles.cancer.gov on 01/14/2019 10:46 pm.,,,,,,,,,,
+Data for the United States does not include data from Nevada,,,,,,,,,,
+,,,,,,,,,,
+*** No Healthy People 2020 Objective for this cancer.,,,,,,,,,,
+,,,,,,,,,,
+State Cancer Registries may provide more current or more local data.,,,,,,,,,,
+"† Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The 1969-2015 US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates.",,,,,,,,,,
+"‡ Incidence data come from different sources. Due to different years of data availability, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. Please refer to the source for each area for additional information.",,,,,,,,,,
+Healthy People 2020 Objectives [ https://www.healthypeople.gov/ ]provided by the Centers for Disease Control and Prevention [ https://www.cdc.gov ]. ,,,,,,,,,,
+,,,,,,,,,,
+"* Data has been suppressed to ensure confidentiality and stability of rate estimates.  Counts are suppressed if fewer than 16 records were reported in a specific area-sex-race category. If an average count of 3 is shown, the total number of cases for the time period is 16 or more which exceeds suppression threshold (but is rounded to 3).",,,,,,,,,,
+,,,,,,,,,,
+1 Source: CDC's National Program of Cancer Registries Cancer Surveillance System (NPCR-CSS) November 2017 data submission and SEER November 2017 submission as published in United States Cancer Statistics [https://nccd.cdc.gov/uscs/].,,,,,,,,,,
+3 Source: SEER November 2017 submission.  State Cancer Registry also receives funding from CDC's National Program of Cancer Registries.,,,,,,,,,,
+7 Source: SEER November 2017 submission.,,,,,,,,,,
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modifed by NCI. The 1969-2016 US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2017 data. ",,,,,,,,,,
+"10 Source: Incidence data provided by the National Program of Cancer Registries (NPCR). ( https://nccd.cdc.gov/uscs/ ) EAPCs calculated by the National Cancer Institute using SEER*Stat. ( http://seer.cancer.gov/seerstat/ ) Rates are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The 1969-2016  US Population Data File ( http://seer.cancer.gov/popdata/ ) is used with NPCR November 2017 data.",,,,,,,,,,
+,,,,,,,,,,
+"Please note that the data comes from different sources. Due to different years ( /historicaltrend/differences.html ) of data availablility, most of the trends are AAPCs based on APCs but some are APCs calculated in SEER*Stat. ( https://seer.cancer.gov/seerstat/ ) Please refer to the source for each graph for additional information. ",,,,,,,,,,
+,,,,,,,,,,
+"Interpret Rankings provides insight into interpreting cancer incidence statistics.  When the population size for a denominator is small, the rates may be unstable.  A rate is unstable when a small change in the numerator (e.g., only one or two additional cases) has a dramatic effect on the calculated rate.",,,,,,,,,,
+,,,,,,,,,,
+Data for United States does not include Puerto Rico.,,,,,,,,,,
