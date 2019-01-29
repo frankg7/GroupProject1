@@ -3,18 +3,14 @@ Group Project 1 - U of A Data Analytics Boot Camp
 
 ## Juypter Notebook directory
 
-Extract State Data.ipynb
-
+## Extract State Data.ipynb
     --Reads all csv files for separate states and cancers
     --Creates new combined dataframe
     --Create new columns with States, Cancer type, columns
 
 ## Extract State Averages.ipynb
-
     --Reads in JSON Superfund site information
-    
     --Dataframe with Sites per state
-    
     --Chart of Superfund per State
     
 -- Read in Cancer data from csv
@@ -24,15 +20,14 @@ Extract State Data.ipynb
 -- Creates subset of 4 cancertype dataframes
 
     --Cleans up data
+    --4 dataframes with State, IncidentRates, and Superfund count per state 
     
-    --4 dataframes with State, IncidentRates, and Superfund count per state
-    
--- Calculate Ranges between min and max incident rates
+-- Calculate Ranges between min and max incident rate
 
 -- Create scatter plots per cancer type
 
-    --Output scatter plot png files
-   
+    --Output scatter plot png files  
+    
 -- Create pearson coefficence per cancer type looking for correlation
 
     --Resorts data
