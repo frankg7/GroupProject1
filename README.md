@@ -29,8 +29,8 @@ Extract State Averages.ipynb
    Resorts data
    
 Heatmap and markers.ipynb
-  Reads in superfund JSON data for marker locations of Superfund sites
-  Reads in combined cancer data 
+  .Reads in superfund JSON data for marker locations of Superfund sites
+  .Reads in combined cancer data 
   Clean up data, remove states with no data
   Remove extra characters in data columns
   Separate data into separate dataframes per cancer type
