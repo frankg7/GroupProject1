@@ -30,27 +30,40 @@ Extract State Averages.ipynb
    
 Heatmap and markers.ipynb
   --Reads in superfund JSON data for marker locations of Superfund sites
+  
   --Reads in combined cancer data 
+  
   --Clean up data, remove states with no data
+  
   --Remove extra characters in data columns
+  
   --Separate data into separate dataframes per cancer type
+  
   --Create heatmaps for individual cancers
+  
   --Overlay geojson county data
+  
   --Create heatmap with superfund sites overlay, plus county geojson overlay
+  
   --Output figures
 
 StateBars.ipynb
   Read in csv file to create top 5 and bottom 5 cancer incidence
+  
   Create Charts
   
 ## Images Folder
   Contains final images of State top5/bottom5 charts
+  
   Scatter plots per cancer type
+  
   Heatmaps
+  
   Heatmaps with Superfund markers
   
 ## Resources Folder
   States_data folder - contains all data downloaded from cancer site, plus combined data of all states
+  
   Assorted csv files for zip code, experiments, lat/lng experiements.
   
 ## backup_docs
