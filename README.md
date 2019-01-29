@@ -48,26 +48,26 @@ Heatmap and markers.ipynb
   --Output figures
 
 StateBars.ipynb
-  Read in csv file to create top 5 and bottom 5 cancer incidence
+  --Read in csv file to create top 5 and bottom 5 cancer incidence
   
-  Create Charts
+  --Create Charts
   
 ## Images Folder
-  Contains final images of State top5/bottom5 charts
+  --Contains final images of State top5/bottom5 charts
   
-  Scatter plots per cancer type
+  --Scatter plots per cancer type
   
-  Heatmaps
+  --Heatmaps
   
-  Heatmaps with Superfund markers
+  --Heatmaps with Superfund markers
   
 ## Resources Folder
-  States_data folder - contains all data downloaded from cancer site, plus combined data of all states
+  --States_data folder - contains all data downloaded from cancer site, plus combined data of all states
   
-  Assorted csv files for zip code, experiments, lat/lng experiements.
+  --Assorted csv files for zip code, experiments, lat/lng experiements.
   
 ## backup_docs
-  Assorted planning materials
+  --Assorted planning materials
 
 ## backup_ppt
-  Presentation revs assorted ppt pieces
+  --Presentation revs assorted ppt pieces
