@@ -1,4 +1,4 @@
-# GroupProject1
+# GroupProject1 - Team FABB
 Group Project 1 - U of A Data Analytics Boot Camp
 
 ## Juypter Notebook directory
