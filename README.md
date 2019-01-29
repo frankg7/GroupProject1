@@ -11,7 +11,7 @@ Extract State Data.ipynb
   
     --Create new columns with States, Cancer type, columns
 
-Extract State Averages.ipynb
+## Extract State Averages.ipynb
 
     --Reads in JSON Superfund site information
     
@@ -39,7 +39,7 @@ Extract State Averages.ipynb
 
     --Resorts data
    
-Heatmap and markers.ipynb
+## Heatmap and markers.ipynb
 
     --Reads in superfund JSON data for marker locations of Superfund sites
   
@@ -59,7 +59,7 @@ Heatmap and markers.ipynb
   
     --Output figures
 
-StateBars.ipynb
+## StateBars.ipynb
 
     --Read in csv file to create top 5 and bottom 5 cancer incidence
     
