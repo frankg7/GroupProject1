@@ -12,14 +12,19 @@ Extract State Averages.ipynb
     Reads in JSON Superfund site information
     Dataframe with Sites per state
     Chart of Superfund per State
+    
 -- Read in Cancer data from csv
     Separates data per cancer type into separate dataframes with lat/lng information
+    
 -- Creates subset of 4 cancertype dataframes
     Cleans up data
     4 dataframes with State, IncidentRates, and Superfund count per state
+    
 -- Calculate Ranges between min and max incident rates
+
 -- Create scatter plots per cancer type
    Output scatter plot png files
+   
 -- Create pearson coefficence per cancer type looking for correlation
    Resorts data
    
