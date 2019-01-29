@@ -4,13 +4,19 @@ Group Project 1 - U of A Data Analytics Boot Camp
 ## Juypter Notebook directory
 
 Extract State Data.ipynb
+
   --Reads all csv files for separate states and cancers
+  
   --Creates new combined dataframe
+  
     --Create new columns with States, Cancer type, columns
 
 Extract State Averages.ipynb
+
     --Reads in JSON Superfund site information
+    
     --Dataframe with Sites per state
+    
     --Chart of Superfund per State
     
 -- Read in Cancer data from csv
