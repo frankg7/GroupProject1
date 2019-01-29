@@ -29,15 +29,15 @@ Extract State Averages.ipynb
    Resorts data
    
 Heatmap and markers.ipynb
-  .Reads in superfund JSON data for marker locations of Superfund sites
-  .Reads in combined cancer data 
-  Clean up data, remove states with no data
-  Remove extra characters in data columns
-  Separate data into separate dataframes per cancer type
-  Create heatmaps for individual cancers
-  Overlay geojson county data
-  Create heatmap with superfund sites overlay, plus county geojson overlay
-  Output figures
+  --Reads in superfund JSON data for marker locations of Superfund sites
+  --Reads in combined cancer data 
+  --Clean up data, remove states with no data
+  --Remove extra characters in data columns
+  --Separate data into separate dataframes per cancer type
+  --Create heatmaps for individual cancers
+  --Overlay geojson county data
+  --Create heatmap with superfund sites overlay, plus county geojson overlay
+  --Output figures
 
 StateBars.ipynb
   Read in csv file to create top 5 and bottom 5 cancer incidence
